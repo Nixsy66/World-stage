@@ -331,10 +331,54 @@ label{display:block; font-size:.74rem; color:var(--muted); margin:10px 0 4px}
   const slider=$('slider'), yearLabel=$('yearLabel');
   const lingerSel=$('lingerSel'), speedSel=$('speedSel'), playBtn=$('playBtn');
 
-  /* ---------- Projection (equirectangular) ---------- */
-  const MAP_W=3840, MAP_H=2743;
-  const project=(lon,lat)=>({fx:(lon+180)/360, fy:(90-lat)/180});
-  const unproject=(fx,fy)=>({lon:fx*360-180, lat:90-fy*180});
+  /* ---------- Projection (calibrated cylindrical / Miller-style) ---------- */
+  /*
+     The supplied world-map image is not equirectangular. Its latitude
+     graticule is vertically curved/non-linear, so a simple linear
+     lat -> Y conversion causes the pins to drift away from the map.
+
+     These calibration values are based on the supplied map image:
+       - image size: 2048 x 1462
+       - 0° longitude: approximately x=955.5
+       - 0° latitude: approximately y=757.6
+       - horizontal scale calibrated against the map graticule
+
+     Keep all coordinate conversion in these two functions so pins,
+     map-click coordinates, and manually entered coordinates remain
+     consistent.
+  */
+  const MAP_W=2048, MAP_H=1462;
+
+  const X0=955.5;                 // pixel position of longitude 0°
+  const X180=1974.0;              // pixel position of longitude +180°
+  const LON_SCALE=(X180-X0)/180;
+
+  const Y0=757.6;                 // pixel position of latitude 0°
+  const Y_SCALE=346.523;
+
+  function millerY(lat){
+    const phi=lat*Math.PI/180;
+    return 1.25*Math.log(Math.tan(Math.PI/4+0.4*phi));
+  }
+
+  function invMillerY(v){
+    return 2.5*(Math.atan(Math.exp(v/1.25))-Math.PI/4)*180/Math.PI;
+  }
+
+  const project=(lon,lat)=>{
+    const x=X0+lon*LON_SCALE;
+    const y=Y0-Y_SCALE*millerY(lat);
+    return {fx:x/MAP_W, fy:y/MAP_H};
+  };
+
+  const unproject=(fx,fy)=>{
+    const x=fx*MAP_W;
+    const y=fy*MAP_H;
+    return {
+      lon:(x-X0)/LON_SCALE,
+      lat:invMillerY((Y0-y)/Y_SCALE)
+    };
+  };
 
   let events=[], byId=new Map(), sel=null, mode='list', pending=null, timer=null;
   const view={s:1,x:0,y:0}, size={w:MAP_W,h:MAP_H};
