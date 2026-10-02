@@ -1,0 +1,4988 @@
+[
+  {
+    "id": "ev-1914-sarajevo",
+    "title": "Assassination of Archduke Franz Ferdinand",
+    "date": "1914-06-28",
+    "description": "The heir to the Austro-Hungarian throne was shot in Sarajevo by Gavrilo Princip, triggering the chain of events leading to World War I.",
+    "link": "",
+    "lat": 43.8563,
+    "lon": 18.4131
+  },
+  {
+    "id": "ev-1917-october",
+    "title": "October Revolution",
+    "date": "1917-11-07",
+    "description": "Bolsheviks led by Lenin seized power in Petrograd, overthrowing Russia's Provisional Government.",
+    "link": "",
+    "lat": 59.9343,
+    "lon": 30.3351
+  },
+  {
+    "id": "ev-1922-rome",
+    "title": "March on Rome",
+    "date": "1922-10-28",
+    "description": "Mussolini's Fascists marched on Rome, leading to his appointment as prime minister and the start of Fascist rule in Italy.",
+    "link": "",
+    "lat": 41.9028,
+    "lon": 12.4964
+  },
+  {
+    "id": "ev-1933-hitler",
+    "title": "Hitler Appointed Chancellor",
+    "date": "1933-01-30",
+    "description": "Adolf Hitler became Chancellor of Germany, beginning the Nazi seizure of total power.",
+    "link": "",
+    "lat": 52.52,
+    "lon": 13.405
+  },
+  {
+    "id": "ev-1936-spain",
+    "title": "Spanish Civil War Begins",
+    "date": "1936-07-17",
+    "description": "A military uprising against Spain's Republican government began in Spanish Morocco and spread to the mainland, starting a three-year civil war.",
+    "link": "",
+    "lat": 35.2923,
+    "lon": -2.9381
+  },
+  {
+    "id": "ev-1937-marcopolo",
+    "title": "Marco Polo Bridge Incident",
+    "date": "1937-07-07",
+    "description": "A clash between Chinese and Japanese troops near Beijing that escalated into the full-scale Second Sino-Japanese War.",
+    "link": "",
+    "lat": 39.8497,
+    "lon": 116.2128
+  },
+  {
+    "id": "ev-1939-poland",
+    "title": "German Invasion of Poland",
+    "date": "1939-09-01",
+    "description": "Germany invaded Poland, prompting Britain and France to declare war and marking the start of World War II in Europe.",
+    "link": "",
+    "lat": 54.4064,
+    "lon": 18.6666
+  },
+  {
+    "id": "ev-1941-barbarossa",
+    "title": "Operation Barbarossa",
+    "date": "1941-06-22",
+    "description": "Nazi Germany launched a massive surprise invasion of the Soviet Union, opening the largest land front of World War II.",
+    "link": "",
+    "lat": 52.0976,
+    "lon": 23.7341
+  },
+  {
+    "id": "ev-1941-pearl",
+    "title": "Attack on Pearl Harbor",
+    "date": "1941-12-07",
+    "description": "Japan launched a surprise naval air attack on the US Pacific Fleet in Hawaii, bringing the United States into World War II.",
+    "link": "",
+    "lat": 21.3445,
+    "lon": -157.9737
+  },
+  {
+    "id": "ev-1944-dday",
+    "title": "D-Day Normandy Landings",
+    "date": "1944-06-06",
+    "description": "Allied forces landed on the beaches of Normandy, opening the Western Front against Nazi-occupied France.",
+    "link": "",
+    "lat": 49.3697,
+    "lon": -0.87
+  },
+  {
+    "id": "ev-1945-hiroshima",
+    "title": "Atomic Bombing of Hiroshima",
+    "date": "1945-08-06",
+    "description": "The United States dropped the first atomic bomb used in warfare on the Japanese city of Hiroshima.",
+    "link": "",
+    "lat": 34.3853,
+    "lon": 132.4553
+  },
+  {
+    "id": "ev-1945-nagasaki",
+    "title": "Atomic Bombing of Nagasaki",
+    "date": "1945-08-09",
+    "description": "The United States dropped a second atomic bomb on Nagasaki; Japan announced its surrender days later.",
+    "link": "",
+    "lat": 32.7503,
+    "lon": 129.8779
+  },
+  {
+    "id": "ev-1947-partition",
+    "title": "Partition of India",
+    "date": "1947-08-15",
+    "description": "British India was divided into India and Pakistan, causing mass displacement and communal violence.",
+    "link": "",
+    "lat": 28.6139,
+    "lon": 77.209
+  },
+  {
+    "id": "ev-1948-gandhi",
+    "title": "Assassination of Mahatma Gandhi",
+    "date": "1948-01-30",
+    "description": "Gandhi was shot dead in New Delhi by Hindu nationalist Nathuram Godse.",
+    "link": "",
+    "lat": 28.6,
+    "lon": 77.2167
+  },
+  {
+    "id": "ev-1948-israel",
+    "title": "Israeli Independence & First Arab-Israeli War",
+    "date": "1948-05-14",
+    "description": "Israel declared independence and neighboring Arab states invaded the next day, beginning the 1948 war.",
+    "link": "",
+    "lat": 32.0853,
+    "lon": 34.7818
+  },
+  {
+    "id": "ev-1948-berlinblockade",
+    "title": "Berlin Blockade",
+    "date": "1948-06-24",
+    "description": "The Soviet Union blocked Western access to West Berlin, prompting the Allied airlift that lasted nearly a year.",
+    "link": "",
+    "lat": 52.473,
+    "lon": 13.4039
+  },
+  {
+    "id": "ev-1949-nato",
+    "title": "NATO Founded",
+    "date": "1949-04-04",
+    "description": "The North Atlantic Treaty was signed, creating the Western military alliance against the Soviet bloc.",
+    "link": "",
+    "lat": 38.9072,
+    "lon": -77.0369
+  },
+  {
+    "id": "ev-1949-prc",
+    "title": "Founding of the People's Republic of China",
+    "date": "1949-10-01",
+    "description": "Mao Zedong proclaimed the PRC after the Communist victory in the Chinese Civil War.",
+    "link": "",
+    "lat": 39.9087,
+    "lon": 116.3975
+  },
+  {
+    "id": "ev-1950-korea-start",
+    "title": "North Korea Invades South Korea",
+    "date": "1950-06-25",
+    "description": "North Korean forces crossed the 38th parallel, starting the Korean War.",
+    "link": "",
+    "lat": 38.0,
+    "lon": 127.0
+  },
+  {
+    "id": "ev-1950-korea",
+    "title": "Inchon Landing (Korean War)",
+    "date": "1950-09-15",
+    "description": "A decisive amphibious invasion and battle of the Korean War by UN forces that changed the course of the conflict.",
+    "link": "",
+    "lat": 37.4563,
+    "lon": 126.7052
+  },
+  {
+    "id": "ev-1950-tibet",
+    "title": "Chinese Invasion of Tibet",
+    "date": "1950-10-07",
+    "description": "The People's Liberation Army entered Tibet, leading to its incorporation into the PRC.",
+    "link": "",
+    "lat": 29.65,
+    "lon": 91.1
+  },
+  {
+    "id": "ev-1952-egypt",
+    "title": "Egyptian Revolution of 1952",
+    "date": "1952-07-23",
+    "description": "The Free Officers Movement overthrew King Farouk, ending the monarchy in Egypt.",
+    "link": "",
+    "lat": 30.0444,
+    "lon": 31.2357
+  },
+  {
+    "id": "ev-1953-korea-armistice",
+    "title": "Korean War Armistice",
+    "date": "1953-07-27",
+    "description": "An armistice halted fighting in Korea and created the Demilitarized Zone; no peace treaty was signed.",
+    "link": "",
+    "lat": 37.9556,
+    "lon": 126.6775
+  },
+  {
+    "id": "ev-1953-iran-coup",
+    "title": "1953 Iranian Coup",
+    "date": "1953-08-19",
+    "description": "A US- and UK-backed coup removed Prime Minister Mohammad Mosaddegh and strengthened the Shah.",
+    "link": "",
+    "lat": 35.6892,
+    "lon": 51.389
+  },
+  {
+    "id": "ev-1954-dienbienphu",
+    "title": "Battle of Dien Bien Phu",
+    "date": "1954-05-07",
+    "description": "Viet Minh forces defeated the French garrison, ending French colonial rule in Indochina.",
+    "link": "",
+    "lat": 21.3833,
+    "lon": 103.0167
+  },
+  {
+    "id": "ev-1954-guatemala",
+    "title": "1954 Guatemalan Coup",
+    "date": "1954-06-27",
+    "description": "A CIA-backed coup ousted President Jacobo Árbenz.",
+    "link": "",
+    "lat": 14.6349,
+    "lon": -90.5069
+  },
+  {
+    "id": "ev-1954-algeria",
+    "title": "Algerian War of Independence Begins",
+    "date": "1954-11-01",
+    "description": "The FLN launched coordinated attacks across Algeria, beginning the war against French rule.",
+    "link": "",
+    "lat": 36.7538,
+    "lon": 3.0588
+  },
+  {
+    "id": "ev-1956-hungary",
+    "title": "Hungarian Revolution",
+    "date": "1956-10-23",
+    "description": "A nationwide uprising against Soviet-backed rule in Hungary was crushed by Soviet forces.",
+    "link": "",
+    "lat": 47.4979,
+    "lon": 19.0402
+  },
+  {
+    "id": "ev-1956-suez",
+    "title": "Suez Crisis",
+    "date": "1956-10-29",
+    "description": "Israel, Britain and France invaded Egypt after Nasser nationalized the Suez Canal.",
+    "link": "",
+    "lat": 29.9668,
+    "lon": 32.5498
+  },
+  {
+    "id": "ev-1959-cuba",
+    "title": "Cuban Revolution Victory",
+    "date": "1959-01-01",
+    "description": "Fidel Castro's forces took power after Batista fled Cuba.",
+    "link": "",
+    "lat": 23.1136,
+    "lon": -82.3666
+  },
+  {
+    "id": "ev-1959-tibet",
+    "title": "Tibetan Uprising",
+    "date": "1959-03-10",
+    "description": "An uprising in Lhasa was suppressed by China, and the Dalai Lama fled to India.",
+    "link": "",
+    "lat": 29.65,
+    "lon": 91.1
+  },
+  {
+    "id": "ev-1960-sharpeville",
+    "title": "Sharpeville Massacre",
+    "date": "1960-03-21",
+    "description": "South African police killed dozens of Black protesters demonstrating against pass laws.",
+    "link": "",
+    "lat": -26.6833,
+    "lon": 27.8667
+  },
+  {
+    "id": "ev-1960-u2",
+    "title": "U-2 Incident",
+    "date": "1960-05-01",
+    "description": "A US U-2 spy plane was shot down over the Soviet Union, wrecking a planned superpower summit.",
+    "link": "",
+    "lat": 56.8389,
+    "lon": 60.6057
+  },
+  {
+    "id": "ev-1960-congo",
+    "title": "Congo Crisis Begins",
+    "date": "1960-06-30",
+    "description": "The Congo became independent, followed within days by mutinies, secession and Cold War intervention.",
+    "link": "",
+    "lat": -4.4419,
+    "lon": 15.2663
+  },
+  {
+    "id": "ev-1961-bayofpigs",
+    "title": "Bay of Pigs Invasion",
+    "date": "1961-04-17",
+    "description": "A CIA-backed force of Cuban exiles landed in Cuba and was defeated within days.",
+    "link": "",
+    "lat": 22.0667,
+    "lon": -81.1333
+  },
+  {
+    "id": "ev-1961-berlinwall",
+    "title": "Construction of the Berlin Wall",
+    "date": "1961-08-13",
+    "description": "East Germany began sealing the border between East and West Berlin.",
+    "link": "",
+    "lat": 52.5076,
+    "lon": 13.3904
+  },
+  {
+    "id": "ev-1962-cuban",
+    "title": "Cuban Missile Crisis",
+    "date": "1962-10-16",
+    "description": "A 13-day confrontation between the United States and the Soviet Union concerning Soviet ballistic missiles deployed in Cuba.",
+    "link": "",
+    "lat": 23.1136,
+    "lon": -82.3666
+  },
+  {
+    "id": "ev-1962-sinoindian",
+    "title": "Sino-Indian War",
+    "date": "1962-10-20",
+    "description": "China and India fought a brief border war in the Himalayas, ending in a Chinese advance and unilateral ceasefire.",
+    "link": "",
+    "lat": 27.586,
+    "lon": 91.8594
+  },
+  {
+    "id": "ev-1963-jfk",
+    "title": "Assassination of John F. Kennedy",
+    "date": "1963-11-22",
+    "description": "US President Kennedy was shot and killed in Dallas, Texas.",
+    "link": "",
+    "lat": 32.7788,
+    "lon": -96.8086
+  },
+  {
+    "id": "ev-1964-tonkin",
+    "title": "Gulf of Tonkin Incident",
+    "date": "1964-08-02",
+    "description": "Reported clashes between US and North Vietnamese naval vessels led to the Gulf of Tonkin Resolution and escalation in Vietnam.",
+    "link": "",
+    "lat": 20.0,
+    "lon": 107.5
+  },
+  {
+    "id": "ev-1965-danang",
+    "title": "US Ground Troops Land in Vietnam",
+    "date": "1965-03-08",
+    "description": "The first US combat Marines arrived at Da Nang, marking the start of direct ground involvement in Vietnam.",
+    "link": "",
+    "lat": 16.0544,
+    "lon": 108.2022
+  },
+  {
+    "id": "ev-1965-indopak",
+    "title": "Second Indo-Pakistani War",
+    "date": "1965-09-06",
+    "description": "India and Pakistan fought a full-scale war over Kashmir that ended in a UN-brokered ceasefire.",
+    "link": "",
+    "lat": 31.5497,
+    "lon": 74.3436
+  },
+  {
+    "id": "ev-1965-indonesia",
+    "title": "Indonesian Mass Killings",
+    "date": "1965-09-30",
+    "description": "A failed coup attempt was followed by the army-led massacre of suspected communists and the rise of Suharto.",
+    "link": "",
+    "lat": -6.2088,
+    "lon": 106.8456
+  },
+  {
+    "id": "ev-1966-culturalrev",
+    "title": "Cultural Revolution Launched",
+    "date": "1966-05-16",
+    "description": "Mao Zedong launched a decade-long political campaign in China that brought widespread persecution and upheaval.",
+    "link": "",
+    "lat": 39.9042,
+    "lon": 116.4074
+  },
+  {
+    "id": "ev-1967-greece",
+    "title": "Greek Military Junta Coup",
+    "date": "1967-04-21",
+    "description": "Army officers seized power in Athens, beginning seven years of dictatorship.",
+    "link": "",
+    "lat": 37.9838,
+    "lon": 23.7275
+  },
+  {
+    "id": "ev-1967-sixday",
+    "title": "Six-Day War",
+    "date": "1967-06-05",
+    "description": "Fought between June 5 and 10, 1967, by Israel and a coalition of Arab states including Egypt, Jordan, and Syria.",
+    "link": "",
+    "lat": 31.7683,
+    "lon": 35.2137
+  },
+  {
+    "id": "ev-1968-tet",
+    "title": "Tet Offensive (Vietnam War)",
+    "date": "1968-01-30",
+    "description": "A major escalation and coordinated series of fierce surprise attacks by Viet Cong and North Vietnamese forces across Vietnam.",
+    "link": "",
+    "lat": 10.7769,
+    "lon": 106.7009
+  },
+  {
+    "id": "ev-1968-mlk",
+    "title": "Assassination of Martin Luther King Jr.",
+    "date": "1968-04-04",
+    "description": "The civil rights leader was shot and killed at the Lorraine Motel in Memphis, Tennessee.",
+    "link": "",
+    "lat": 35.1344,
+    "lon": -90.0575
+  },
+  {
+    "id": "ev-1968-rfk",
+    "title": "Assassination of Robert F. Kennedy",
+    "date": "1968-06-05",
+    "description": "Presidential candidate Robert F. Kennedy was shot in Los Angeles and died the next day.",
+    "link": "",
+    "lat": 34.0577,
+    "lon": -118.3098
+  },
+  {
+    "id": "ev-1968-prague",
+    "title": "Soviet-led Invasion of Czechoslovakia",
+    "date": "1968-08-20",
+    "description": "Warsaw Pact forces invaded Czechoslovakia to end the Prague Spring reforms.",
+    "link": "",
+    "lat": 50.0755,
+    "lon": 14.4378
+  },
+  {
+    "id": "ev-1969-libya",
+    "title": "Gaddafi Seizes Power in Libya",
+    "date": "1969-09-01",
+    "description": "Army officers led by Muammar Gaddafi overthrew King Idris in a bloodless coup.",
+    "link": "",
+    "lat": 32.8872,
+    "lon": 13.1913
+  },
+  {
+    "id": "ev-1970-cambodia",
+    "title": "Lon Nol Coup in Cambodia",
+    "date": "1970-03-18",
+    "description": "Prince Sihanouk was deposed, pushing Cambodia into the Vietnam War and later civil war.",
+    "link": "",
+    "lat": 11.5564,
+    "lon": 104.9282
+  },
+  {
+    "id": "ev-1971-uganda",
+    "title": "Idi Amin Seizes Power in Uganda",
+    "date": "1971-01-25",
+    "description": "General Idi Amin overthrew President Milton Obote, beginning a brutal eight-year rule.",
+    "link": "",
+    "lat": 0.3476,
+    "lon": 32.5825
+  },
+  {
+    "id": "ev-1971-bangladesh",
+    "title": "Indo-Pakistani War & Bangladesh Liberation",
+    "date": "1971-12-03",
+    "description": "India intervened in the Bangladesh Liberation War, leading to Pakistan's defeat and the creation of Bangladesh.",
+    "link": "",
+    "lat": 23.8103,
+    "lon": 90.4125
+  },
+  {
+    "id": "ev-1972-bloodysunday",
+    "title": "Bloody Sunday (Derry)",
+    "date": "1972-01-30",
+    "description": "British paratroopers shot dead 14 unarmed civil rights marchers in Northern Ireland.",
+    "link": "",
+    "lat": 54.9966,
+    "lon": -7.3086
+  },
+  {
+    "id": "ev-1972-munich",
+    "title": "Munich Olympics Massacre",
+    "date": "1972-09-05",
+    "description": "Palestinian militants took Israeli athletes hostage at the Olympic Games; eleven Israelis were killed.",
+    "link": "",
+    "lat": 48.1797,
+    "lon": 11.5517
+  },
+  {
+    "id": "ev-1973-chile",
+    "title": "1973 Chilean Coup",
+    "date": "1973-09-11",
+    "description": "A military coup led by Augusto Pinochet overthrew President Salvador Allende.",
+    "link": "",
+    "lat": -33.4429,
+    "lon": -70.6539
+  },
+  {
+    "id": "ev-1973-yom",
+    "title": "Yom Kippur War",
+    "date": "1973-10-06",
+    "description": "An armed conflict fought from October 6 to 25, 1973, led by a coalition of Arab states against Israel.",
+    "link": "",
+    "lat": 30.5852,
+    "lon": 32.3331
+  },
+  {
+    "id": "ev-1974-portugal",
+    "title": "Carnation Revolution",
+    "date": "1974-04-25",
+    "description": "A military coup in Portugal toppled the authoritarian Estado Novo regime and led to democracy and decolonization.",
+    "link": "",
+    "lat": 38.7223,
+    "lon": -9.1393
+  },
+  {
+    "id": "ev-1974-cyprus",
+    "title": "Turkish Invasion of Cyprus",
+    "date": "1974-07-20",
+    "description": "Turkey invaded northern Cyprus after a Greek-backed coup, leading to the island's de facto partition.",
+    "link": "",
+    "lat": 35.1856,
+    "lon": 33.3823
+  },
+  {
+    "id": "ev-1974-ethiopia",
+    "title": "Ethiopian Derg Takes Power",
+    "date": "1974-09-12",
+    "description": "A military committee deposed Emperor Haile Selassie, beginning Marxist military rule.",
+    "link": "",
+    "lat": 9.03,
+    "lon": 38.74
+  },
+  {
+    "id": "ev-1975-lebanon",
+    "title": "Lebanese Civil War Begins",
+    "date": "1975-04-13",
+    "description": "A fifteen-year civil war began in Lebanon among sectarian and political factions.",
+    "link": "",
+    "lat": 33.8938,
+    "lon": 35.5018
+  },
+  {
+    "id": "ev-1975-phnompenh",
+    "title": "Khmer Rouge Takes Phnom Penh",
+    "date": "1975-04-17",
+    "description": "The Khmer Rouge captured the Cambodian capital, beginning a regime responsible for the deaths of roughly two million people.",
+    "link": "",
+    "lat": 11.5564,
+    "lon": 104.9282
+  },
+  {
+    "id": "ev-1975-saigon",
+    "title": "Fall of Saigon",
+    "date": "1975-04-30",
+    "description": "North Vietnamese forces captured Saigon, ending the Vietnam War.",
+    "link": "",
+    "lat": 10.7769,
+    "lon": 106.7009
+  },
+  {
+    "id": "ev-1976-argentina",
+    "title": "1976 Argentine Coup",
+    "date": "1976-03-24",
+    "description": "A military junta overthrew Isabel Perón and began the repressive 'Dirty War'.",
+    "link": "",
+    "lat": -34.6037,
+    "lon": -58.3816
+  },
+  {
+    "id": "ev-1976-soweto",
+    "title": "Soweto Uprising",
+    "date": "1976-06-16",
+    "description": "Students protesting apartheid education policy were shot by police in Soweto, igniting nationwide unrest.",
+    "link": "",
+    "lat": -26.2485,
+    "lon": 27.854
+  },
+  {
+    "id": "ev-1976-entebbe",
+    "title": "Entebbe Raid",
+    "date": "1976-07-04",
+    "description": "Israeli commandos rescued hostages from a hijacked Air France flight at Entebbe Airport in Uganda.",
+    "link": "",
+    "lat": 0.0424,
+    "lon": 32.4435
+  },
+  {
+    "id": "ev-1978-saur",
+    "title": "Saur Revolution (Afghanistan)",
+    "date": "1978-04-27",
+    "description": "A communist coup overthrew Afghan President Daoud Khan, setting the stage for the Soviet intervention.",
+    "link": "",
+    "lat": 34.5553,
+    "lon": 69.2075
+  },
+  {
+    "id": "ev-1979-sinovietnam",
+    "title": "Sino-Vietnamese War",
+    "date": "1979-02-17",
+    "description": "China invaded northern Vietnam in a brief, bloody border war.",
+    "link": "",
+    "lat": 21.8564,
+    "lon": 106.7615
+  },
+  {
+    "id": "ev-1979-nicaragua",
+    "title": "Sandinista Revolution",
+    "date": "1979-07-19",
+    "description": "Sandinista rebels overthrew the Somoza dictatorship in Nicaragua.",
+    "link": "",
+    "lat": 12.1364,
+    "lon": -86.2514
+  },
+  {
+    "id": "ev-1979-iran",
+    "title": "Iranian Revolution & Hostage Crisis",
+    "date": "1979-11-04",
+    "description": "The overthrow of Iran's monarchy under Shah Mohammad Reza Pahlavi and the subsequent diplomatic standoff at the US Embassy in Tehran.",
+    "link": "",
+    "lat": 35.6892,
+    "lon": 51.389
+  },
+  {
+    "id": "ev-1979-mecca",
+    "title": "Seizure of the Grand Mosque",
+    "date": "1979-11-20",
+    "description": "Armed militants occupied the Grand Mosque in Mecca for two weeks before Saudi forces retook it.",
+    "link": "",
+    "lat": 21.4225,
+    "lon": 39.8262
+  },
+  {
+    "id": "ev-1979-afghanistan",
+    "title": "Soviet Invasion of Afghanistan",
+    "date": "1979-12-24",
+    "description": "The Soviet Union sent troops into Afghanistan, beginning a nine-year war.",
+    "link": "",
+    "lat": 34.5553,
+    "lon": 69.2075
+  },
+  {
+    "id": "ev-1980-solidarity",
+    "title": "Solidarity Strikes in Gdansk",
+    "date": "1980-08-14",
+    "description": "A shipyard strike led to the founding of the Solidarity trade union, a major challenge to communist rule in Poland.",
+    "link": "",
+    "lat": 54.352,
+    "lon": 18.6466
+  },
+  {
+    "id": "ev-1980-iraniraq",
+    "title": "Iran-Iraq War Begins",
+    "date": "1980-09-22",
+    "description": "Iraq invaded Iran, starting an eight-year war with massive casualties.",
+    "link": "",
+    "lat": 30.3392,
+    "lon": 48.3043
+  },
+  {
+    "id": "ev-1981-reagan",
+    "title": "Reagan Assassination Attempt",
+    "date": "1981-03-30",
+    "description": "President Ronald Reagan was shot and wounded by John Hinckley Jr. outside a Washington hotel.",
+    "link": "",
+    "lat": 38.9226,
+    "lon": -77.0426
+  },
+  {
+    "id": "ev-1981-pope",
+    "title": "Attempted Assassination of Pope John Paul II",
+    "date": "1981-05-13",
+    "description": "The Pope was shot and seriously wounded in St. Peter's Square by Mehmet Ali Ağca.",
+    "link": "",
+    "lat": 41.9022,
+    "lon": 12.4539
+  },
+  {
+    "id": "ev-1981-sadat",
+    "title": "Assassination of Anwar Sadat",
+    "date": "1981-10-06",
+    "description": "Egyptian President Sadat was assassinated by militant soldiers during a military parade in Cairo.",
+    "link": "",
+    "lat": 30.0626,
+    "lon": 31.3219
+  },
+  {
+    "id": "ev-1981-poland",
+    "title": "Martial Law in Poland",
+    "date": "1981-12-13",
+    "description": "General Jaruzelski imposed martial law to crush the Solidarity movement.",
+    "link": "",
+    "lat": 52.2297,
+    "lon": 21.0122
+  },
+  {
+    "id": "ev-1982-hama",
+    "title": "Hama Massacre",
+    "date": "1982-02-02",
+    "description": "The Syrian army crushed a Muslim Brotherhood uprising in Hama, killing thousands.",
+    "link": "",
+    "lat": 35.1318,
+    "lon": 36.7578
+  },
+  {
+    "id": "ev-1982-falklands",
+    "title": "Falklands War",
+    "date": "1982-04-02",
+    "description": "Argentina invaded the British-held Falkland Islands; Britain retook them after a ten-week conflict.",
+    "link": "",
+    "lat": -51.6977,
+    "lon": -57.8517
+  },
+  {
+    "id": "ev-1982-lebanon",
+    "title": "Israeli Invasion of Lebanon",
+    "date": "1982-06-06",
+    "description": "Israel invaded Lebanon to expel the PLO, besieging Beirut.",
+    "link": "",
+    "lat": 33.8938,
+    "lon": 35.5018
+  },
+  {
+    "id": "ev-1983-beirut",
+    "title": "Beirut Barracks Bombings",
+    "date": "1983-10-23",
+    "description": "Suicide truck bombs killed 241 US and 58 French peacekeepers in Beirut.",
+    "link": "",
+    "lat": 33.8209,
+    "lon": 35.4881
+  },
+  {
+    "id": "ev-1983-grenada",
+    "title": "US Invasion of Grenada",
+    "date": "1983-10-25",
+    "description": "US forces invaded Grenada following a coup by a hardline Marxist faction.",
+    "link": "",
+    "lat": 12.0561,
+    "lon": -61.7488
+  },
+  {
+    "id": "ev-1984-indira",
+    "title": "Assassination of Indira Gandhi",
+    "date": "1984-10-31",
+    "description": "Indian Prime Minister Indira Gandhi was assassinated by her Sikh bodyguards, triggering anti-Sikh riots.",
+    "link": "",
+    "lat": 28.6139,
+    "lon": 77.209
+  },
+  {
+    "id": "ev-1986-peoplepower",
+    "title": "People Power Revolution",
+    "date": "1986-02-25",
+    "description": "Mass protests ousted Philippine dictator Ferdinand Marcos.",
+    "link": "",
+    "lat": 14.5995,
+    "lon": 120.9842
+  },
+  {
+    "id": "ev-1986-palme",
+    "title": "Assassination of Olof Palme",
+    "date": "1986-02-28",
+    "description": "Swedish Prime Minister Olof Palme was shot dead on a Stockholm street; the case remained unsolved for decades.",
+    "link": "",
+    "lat": 59.3366,
+    "lon": 18.0627
+  },
+  {
+    "id": "ev-1986-libya",
+    "title": "US Bombing of Libya",
+    "date": "1986-04-15",
+    "description": "US aircraft struck targets in Tripoli and Benghazi in retaliation for a Berlin nightclub bombing.",
+    "link": "",
+    "lat": 32.8872,
+    "lon": 13.1913
+  },
+  {
+    "id": "ev-1986-chernobyl",
+    "title": "Chernobyl Nuclear Disaster",
+    "date": "1986-04-26",
+    "description": "A catastrophic nuclear accident that occurred at the Chernobyl Nuclear Power Plant in the Ukrainian SSR.",
+    "link": "",
+    "lat": 51.3894,
+    "lon": 30.0992
+  },
+  {
+    "id": "ev-1987-intifada",
+    "title": "First Intifada Begins",
+    "date": "1987-12-08",
+    "description": "A Palestinian uprising against Israeli occupation began in the Gaza Strip and West Bank.",
+    "link": "",
+    "lat": 31.5272,
+    "lon": 34.4833
+  },
+  {
+    "id": "ev-1988-halabja",
+    "title": "Halabja Chemical Attack",
+    "date": "1988-03-16",
+    "description": "Iraqi forces attacked the Kurdish town of Halabja with chemical weapons, killing thousands of civilians.",
+    "link": "",
+    "lat": 35.1869,
+    "lon": 45.9861
+  },
+  {
+    "id": "ev-1988-lockerbie",
+    "title": "Lockerbie Bombing",
+    "date": "1988-12-21",
+    "description": "Pan Am Flight 103 was destroyed by a bomb over Scotland, killing 270 people.",
+    "link": "",
+    "lat": 55.1167,
+    "lon": -3.35
+  },
+  {
+    "id": "ev-1989-tiananmen",
+    "title": "Tiananmen Square Protests Crackdown",
+    "date": "1989-06-04",
+    "description": "Chinese troops cleared pro-democracy protesters from Tiananmen Square, killing many.",
+    "link": "",
+    "lat": 39.9087,
+    "lon": 116.3975
+  },
+  {
+    "id": "ev-1989-berlinwall",
+    "title": "Fall of the Berlin Wall",
+    "date": "1989-11-09",
+    "description": "East Germany opened its borders and crowds began dismantling the Berlin Wall.",
+    "link": "",
+    "lat": 52.5163,
+    "lon": 13.3777
+  },
+  {
+    "id": "ev-1989-panama",
+    "title": "US Invasion of Panama",
+    "date": "1989-12-20",
+    "description": "US forces invaded Panama and removed leader Manuel Noriega.",
+    "link": "",
+    "lat": 8.9824,
+    "lon": -79.5199
+  },
+  {
+    "id": "ev-1989-romania",
+    "title": "Romanian Revolution",
+    "date": "1989-12-21",
+    "description": "A popular uprising toppled Nicolae Ceaușescu, who was executed days later.",
+    "link": "",
+    "lat": 44.4268,
+    "lon": 26.1025
+  },
+  {
+    "id": "ev-1990-kuwait",
+    "title": "Iraq Invades Kuwait",
+    "date": "1990-08-02",
+    "description": "Iraqi forces invaded and occupied Kuwait, leading to the Gulf War.",
+    "link": "",
+    "lat": 29.3759,
+    "lon": 47.9774
+  },
+  {
+    "id": "ev-1991-gulf",
+    "title": "Operation Desert Storm (Gulf War)",
+    "date": "1991-01-17",
+    "description": "The start of the aerial campaign by a coalition force led by the United States against Iraq in response to Iraq's invasion of Kuwait.",
+    "link": "",
+    "lat": 33.3152,
+    "lon": 44.3661
+  },
+  {
+    "id": "ev-1991-rajiv",
+    "title": "Assassination of Rajiv Gandhi",
+    "date": "1991-05-21",
+    "description": "Former Indian Prime Minister Rajiv Gandhi was killed by a suicide bomber at an election rally.",
+    "link": "",
+    "lat": 12.965,
+    "lon": 79.9411
+  },
+  {
+    "id": "ev-1991-yugoslavia",
+    "title": "Slovenia & Croatia Declare Independence",
+    "date": "1991-06-25",
+    "description": "The declarations of independence led to the Ten-Day War and the start of the Yugoslav Wars.",
+    "link": "",
+    "lat": 46.0569,
+    "lon": 14.5058
+  },
+  {
+    "id": "ev-1991-sovietcoup",
+    "title": "August 1991 Soviet Coup Attempt",
+    "date": "1991-08-19",
+    "description": "Hardliners tried to remove Mikhail Gorbachev; the failed coup accelerated the collapse of the USSR.",
+    "link": "",
+    "lat": 55.7558,
+    "lon": 37.6173
+  },
+  {
+    "id": "ev-1991-ussr",
+    "title": "Dissolution of the Soviet Union",
+    "date": "1991-12-26",
+    "description": "The Soviet Union was formally dissolved, ending the Cold War.",
+    "link": "",
+    "lat": 55.7558,
+    "lon": 37.6173
+  },
+  {
+    "id": "ev-1992-bosnia",
+    "title": "Siege of Sarajevo & Bosnian War",
+    "date": "1992-04-06",
+    "description": "The Bosnian War began as Bosnian Serb forces besieged Sarajevo.",
+    "link": "",
+    "lat": 43.8563,
+    "lon": 18.4131
+  },
+  {
+    "id": "ev-1993-wtc",
+    "title": "1993 World Trade Center Bombing",
+    "date": "1993-02-26",
+    "description": "A truck bomb exploded in the underground garage of the World Trade Center in New York.",
+    "link": "",
+    "lat": 40.7118,
+    "lon": -74.0134
+  },
+  {
+    "id": "ev-1993-oslo",
+    "title": "Oslo Accords Signed",
+    "date": "1993-09-13",
+    "description": "Israel and the PLO signed the first agreement of the Oslo peace process.",
+    "link": "",
+    "lat": 38.8977,
+    "lon": -77.0365
+  },
+  {
+    "id": "ev-1993-mogadishu",
+    "title": "Battle of Mogadishu",
+    "date": "1993-10-03",
+    "description": "A US raid in Somalia turned into a prolonged firefight that killed 18 US soldiers.",
+    "link": "",
+    "lat": 2.0469,
+    "lon": 45.3182
+  },
+  {
+    "id": "ev-1994-rwanda",
+    "title": "Rwandan Genocide",
+    "date": "1994-04-07",
+    "description": "A mass slaughter of Tutsi in Rwanda by members of the dominant Hutu majority government.",
+    "link": "",
+    "lat": -1.9441,
+    "lon": 30.0619
+  },
+  {
+    "id": "ev-1994-chechnya",
+    "title": "First Chechen War Begins",
+    "date": "1994-12-11",
+    "description": "Russian forces entered Chechnya to suppress its independence movement.",
+    "link": "",
+    "lat": 43.3178,
+    "lon": 45.6949
+  },
+  {
+    "id": "ev-1995-sarin",
+    "title": "Tokyo Subway Sarin Attack",
+    "date": "1995-03-20",
+    "description": "The Aum Shinrikyo cult released sarin gas on Tokyo subway trains, killing 13 and injuring thousands.",
+    "link": "",
+    "lat": 35.6733,
+    "lon": 139.75
+  },
+  {
+    "id": "ev-1995-oklahoma",
+    "title": "Oklahoma City Bombing",
+    "date": "1995-04-19",
+    "description": "A truck bomb destroyed the Alfred P. Murrah Federal Building, killing 168 people in the deadliest domestic terror attack in US history.",
+    "link": "",
+    "lat": 35.4729,
+    "lon": -97.5171
+  },
+  {
+    "id": "ev-1995-srebrenica",
+    "title": "Srebrenica Massacre",
+    "date": "1995-07-11",
+    "description": "Bosnian Serb forces killed more than 8,000 Bosniak men and boys in Srebrenica.",
+    "link": "",
+    "lat": 44.1067,
+    "lon": 19.2976
+  },
+  {
+    "id": "ev-1995-rabin",
+    "title": "Assassination of Yitzhak Rabin",
+    "date": "1995-11-04",
+    "description": "Israeli Prime Minister Rabin was assassinated by a far-right Israeli extremist at a peace rally in Tel Aviv.",
+    "link": "",
+    "lat": 32.0802,
+    "lon": 34.7806
+  },
+  {
+    "id": "ev-1996-taliban",
+    "title": "Taliban Captures Kabul",
+    "date": "1996-09-27",
+    "description": "The Taliban seized the Afghan capital and established the Islamic Emirate of Afghanistan.",
+    "link": "",
+    "lat": 34.5553,
+    "lon": 69.2075
+  },
+  {
+    "id": "ev-1997-hongkong",
+    "title": "Hong Kong Handover",
+    "date": "1997-07-01",
+    "description": "Britain transferred sovereignty of Hong Kong to China.",
+    "link": "",
+    "lat": 22.3193,
+    "lon": 114.1694
+  },
+  {
+    "id": "ev-1998-nuclear",
+    "title": "India and Pakistan Nuclear Tests",
+    "date": "1998-05-11",
+    "description": "India conducted nuclear tests at Pokhran, followed by Pakistan's own tests weeks later.",
+    "link": "",
+    "lat": 27.0955,
+    "lon": 71.7525
+  },
+  {
+    "id": "ev-1998-embassies",
+    "title": "US Embassy Bombings in East Africa",
+    "date": "1998-08-07",
+    "description": "Al-Qaeda bombed US embassies in Nairobi and Dar es Salaam, killing more than 200 people.",
+    "link": "",
+    "lat": -1.2864,
+    "lon": 36.8172
+  },
+  {
+    "id": "ev-1999-kosovo",
+    "title": "NATO Bombing of Yugoslavia",
+    "date": "1999-03-24",
+    "description": "NATO launched an air campaign against Yugoslavia over Kosovo.",
+    "link": "",
+    "lat": 44.7866,
+    "lon": 20.4489
+  },
+  {
+    "id": "ev-1999-kargil",
+    "title": "Kargil War",
+    "date": "1999-05-03",
+    "description": "India and Pakistan fought a limited conflict in the Kargil district of Kashmir.",
+    "link": "",
+    "lat": 34.5539,
+    "lon": 76.1349
+  },
+  {
+    "id": "ev-1999-pakistan",
+    "title": "1999 Pakistani Coup",
+    "date": "1999-10-12",
+    "description": "General Pervez Musharraf seized power from Prime Minister Nawaz Sharif.",
+    "link": "",
+    "lat": 33.6844,
+    "lon": 73.0479
+  },
+  {
+    "id": "ev-2000-intifada",
+    "title": "Second Intifada Begins",
+    "date": "2000-09-28",
+    "description": "A Palestinian uprising began after Ariel Sharon's visit to the Temple Mount, lasting through 2005.",
+    "link": "",
+    "lat": 31.7781,
+    "lon": 35.236
+  },
+  {
+    "id": "ev-2000-cole",
+    "title": "USS Cole Bombing",
+    "date": "2000-10-12",
+    "description": "Al-Qaeda suicide bombers attacked the US destroyer USS Cole in Aden harbor, killing 17 sailors.",
+    "link": "",
+    "lat": 12.7855,
+    "lon": 45.0187
+  },
+  {
+    "id": "ev-2001-911",
+    "title": "September 11 Attacks",
+    "date": "2001-09-11",
+    "description": "A series of four coordinated terrorist suicide attacks carried out by al-Qaeda against the United States.",
+    "link": "",
+    "lat": 40.7128,
+    "lon": -74.006
+  },
+  {
+    "id": "ev-2001-afghanistan",
+    "title": "US Invasion of Afghanistan",
+    "date": "2001-10-07",
+    "description": "The US and allies launched military operations against al-Qaeda and the Taliban, beginning the longest US war.",
+    "link": "",
+    "lat": 34.5553,
+    "lon": 69.2075
+  },
+  {
+    "id": "ev-2001-parliament",
+    "title": "2001 Indian Parliament Attack",
+    "date": "2001-12-13",
+    "description": "Militants attacked India's Parliament in New Delhi, bringing India and Pakistan close to war.",
+    "link": "",
+    "lat": 28.6172,
+    "lon": 77.2082
+  },
+  {
+    "id": "ev-2002-bali",
+    "title": "Bali Bombings",
+    "date": "2002-10-12",
+    "description": "Jemaah Islamiyah bombings killed 202 people at nightclubs in Kuta, Bali.",
+    "link": "",
+    "lat": -8.7184,
+    "lon": 115.1686
+  },
+  {
+    "id": "ev-2002-moscow",
+    "title": "Moscow Theatre Siege",
+    "date": "2002-10-23",
+    "description": "Chechen militants took over 800 hostages in a Moscow theatre; around 130 hostages died, mostly from the gas used in the rescue.",
+    "link": "",
+    "lat": 55.7,
+    "lon": 37.64
+  },
+  {
+    "id": "ev-2003-iraq",
+    "title": "Invasion of Iraq",
+    "date": "2003-03-20",
+    "description": "The start of the second Persian Gulf War, led by a US-led coalition to overthrow Saddam Hussein's government.",
+    "link": "",
+    "lat": 33.3152,
+    "lon": 44.3661
+  },
+  {
+    "id": "ev-2004-madrid",
+    "title": "Madrid Train Bombings",
+    "date": "2004-03-11",
+    "description": "Coordinated al-Qaeda-inspired bombs on commuter trains killed 193 people.",
+    "link": "",
+    "lat": 40.4065,
+    "lon": -3.6895
+  },
+  {
+    "id": "ev-2004-beslan",
+    "title": "Beslan School Siege",
+    "date": "2004-09-01",
+    "description": "Chechen militants seized a school in North Ossetia; more than 330 people died, many of them children.",
+    "link": "",
+    "lat": 43.1833,
+    "lon": 44.5333
+  },
+  {
+    "id": "ev-2004-orange",
+    "title": "Orange Revolution",
+    "date": "2004-11-22",
+    "description": "Mass protests in Kyiv over a rigged election led to a rerun and the defeat of Viktor Yanukovych.",
+    "link": "",
+    "lat": 50.4501,
+    "lon": 30.5234
+  },
+  {
+    "id": "ev-2004-tsunami",
+    "title": "Indian Ocean Earthquake & Tsunami",
+    "date": "2004-12-26",
+    "description": "An undersea megathrust earthquake that triggered a series of devastating tsunamis along the coasts of surrounding Indian Ocean countries.",
+    "link": "",
+    "lat": 3.316,
+    "lon": 95.854
+  },
+  {
+    "id": "ev-2005-hariri",
+    "title": "Assassination of Rafic Hariri",
+    "date": "2005-02-14",
+    "description": "Former Lebanese Prime Minister Hariri was killed by a massive car bomb in Beirut, triggering the Cedar Revolution.",
+    "link": "",
+    "lat": 33.8938,
+    "lon": 35.5018
+  },
+  {
+    "id": "ev-2005-london",
+    "title": "7/7 London Bombings",
+    "date": "2005-07-07",
+    "description": "Four suicide bombers attacked London's transport network, killing 52 people.",
+    "link": "",
+    "lat": 51.5074,
+    "lon": -0.1278
+  },
+  {
+    "id": "ev-2006-lebanon",
+    "title": "2006 Israel-Hezbollah War",
+    "date": "2006-07-12",
+    "description": "A 34-day war began after a Hezbollah cross-border raid.",
+    "link": "",
+    "lat": 33.2,
+    "lon": 35.5
+  },
+  {
+    "id": "ev-2006-nktest",
+    "title": "North Korea's First Nuclear Test",
+    "date": "2006-10-09",
+    "description": "North Korea conducted its first underground nuclear test.",
+    "link": "",
+    "lat": 41.28,
+    "lon": 129.08
+  },
+  {
+    "id": "ev-2007-bhutto",
+    "title": "Assassination of Benazir Bhutto",
+    "date": "2007-12-27",
+    "description": "The former Pakistani prime minister was killed in a gun and suicide attack after an election rally in Rawalpindi.",
+    "link": "",
+    "lat": 33.5973,
+    "lon": 73.0479
+  },
+  {
+    "id": "ev-2008-georgia",
+    "title": "Russo-Georgian War",
+    "date": "2008-08-07",
+    "description": "Russia and Georgia fought a five-day war over South Ossetia.",
+    "link": "",
+    "lat": 42.2284,
+    "lon": 43.9644
+  },
+  {
+    "id": "ev-2008-mumbai",
+    "title": "Mumbai Attacks",
+    "date": "2008-11-26",
+    "description": "Ten Lashkar-e-Taiba gunmen carried out coordinated attacks across Mumbai, killing 166 people.",
+    "link": "",
+    "lat": 18.922,
+    "lon": 72.8347
+  },
+  {
+    "id": "ev-2008-gaza",
+    "title": "Gaza War (Operation Cast Lead)",
+    "date": "2008-12-27",
+    "description": "Israel launched a three-week military offensive in the Gaza Strip.",
+    "link": "",
+    "lat": 31.5,
+    "lon": 34.45
+  },
+  {
+    "id": "ev-2010-tunisia",
+    "title": "Start of the Arab Spring",
+    "date": "2010-12-17",
+    "description": "A street vendor's self-immolation in Sidi Bouzid set off protests that toppled Tunisia's government and spread across the region.",
+    "link": "",
+    "lat": 35.0382,
+    "lon": 9.4858
+  },
+  {
+    "id": "ev-2011-egypt",
+    "title": "Egyptian Revolution of 2011",
+    "date": "2011-01-25",
+    "description": "Mass protests in Tahrir Square forced President Hosni Mubarak to resign.",
+    "link": "",
+    "lat": 30.0444,
+    "lon": 31.2357
+  },
+  {
+    "id": "ev-2011-libya",
+    "title": "Libyan Uprising & Civil War",
+    "date": "2011-02-15",
+    "description": "Protests in Benghazi escalated into a civil war and NATO intervention against Gaddafi.",
+    "link": "",
+    "lat": 32.1194,
+    "lon": 20.0868
+  },
+  {
+    "id": "ev-2011-syria",
+    "title": "Outbreak of Syrian Civil War",
+    "date": "2011-03-15",
+    "description": "Widespread protests escalated into an armed multi-sided civil war following violent crackdowns by the Syrian government.",
+    "link": "",
+    "lat": 33.5138,
+    "lon": 36.2765
+  },
+  {
+    "id": "ev-2011-binladen",
+    "title": "Killing of Osama bin Laden",
+    "date": "2011-05-02",
+    "description": "US Navy SEALs killed al-Qaeda leader Osama bin Laden in a raid in Abbottabad, Pakistan.",
+    "link": "",
+    "lat": 34.172,
+    "lon": 73.243
+  },
+  {
+    "id": "ev-2011-gaddafi",
+    "title": "Death of Muammar Gaddafi",
+    "date": "2011-10-20",
+    "description": "Libya's former leader was captured and killed in Sirte.",
+    "link": "",
+    "lat": 31.2089,
+    "lon": 16.5887
+  },
+  {
+    "id": "ev-2012-benghazi",
+    "title": "Benghazi Consulate Attack",
+    "date": "2012-09-11",
+    "description": "Militants attacked the US diplomatic compound in Benghazi, killing Ambassador Chris Stevens and three other Americans.",
+    "link": "",
+    "lat": 32.11,
+    "lon": 20.07
+  },
+  {
+    "id": "ev-2013-boston",
+    "title": "Boston Marathon Bombing",
+    "date": "2013-04-15",
+    "description": "Two bombs exploded near the finish line of the Boston Marathon, killing three people.",
+    "link": "",
+    "lat": 42.3467,
+    "lon": -71.0972
+  },
+  {
+    "id": "ev-2013-egyptcoup",
+    "title": "2013 Egyptian Coup",
+    "date": "2013-07-03",
+    "description": "The military removed President Mohamed Morsi following mass protests.",
+    "link": "",
+    "lat": 30.0444,
+    "lon": 31.2357
+  },
+  {
+    "id": "ev-2013-ghouta",
+    "title": "Ghouta Chemical Attack",
+    "date": "2013-08-21",
+    "description": "Sarin rockets struck rebel-held suburbs of Damascus, killing hundreds of civilians.",
+    "link": "",
+    "lat": 33.5186,
+    "lon": 36.35
+  },
+  {
+    "id": "ev-2013-euromaidan",
+    "title": "Euromaidan Protests",
+    "date": "2013-11-21",
+    "description": "Protests began in Kyiv after the government suspended an EU association agreement, leading to the 2014 ouster of Yanukovych.",
+    "link": "",
+    "lat": 50.4501,
+    "lon": 30.5234
+  },
+  {
+    "id": "ev-2014-crimea",
+    "title": "Russian Annexation of Crimea",
+    "date": "2014-02-27",
+    "description": "Unmarked Russian troops seized key sites in Crimea, followed by a disputed referendum and annexation.",
+    "link": "",
+    "lat": 44.9521,
+    "lon": 34.1024
+  },
+  {
+    "id": "ev-2014-donbas",
+    "title": "War in Donbas Begins",
+    "date": "2014-04-12",
+    "description": "Russian-backed separatists seized towns in eastern Ukraine, beginning a war that lasted until the 2022 invasion.",
+    "link": "",
+    "lat": 48.8667,
+    "lon": 37.6
+  },
+  {
+    "id": "ev-2014-mosul",
+    "title": "ISIS Takes Mosul & Declares Caliphate",
+    "date": "2014-06-10",
+    "description": "The Islamic State captured Mosul and soon declared a caliphate across parts of Iraq and Syria.",
+    "link": "",
+    "lat": 36.335,
+    "lon": 43.1189
+  },
+  {
+    "id": "ev-2014-mh17",
+    "title": "Shootdown of Flight MH17",
+    "date": "2014-07-17",
+    "description": "A Malaysia Airlines jet was shot down over eastern Ukraine, killing all 298 aboard.",
+    "link": "",
+    "lat": 48.1,
+    "lon": 38.6
+  },
+  {
+    "id": "ev-2014-ebola",
+    "title": "West Africa Ebola Epidemic Peak",
+    "date": "2014-08-08",
+    "description": "The World Health Organization declared the Ebola outbreak in West Africa a Public Health Emergency of International Concern.",
+    "link": "",
+    "lat": 6.3156,
+    "lon": -10.807
+  },
+  {
+    "id": "ev-2015-charliehebdo",
+    "title": "Charlie Hebdo Shooting",
+    "date": "2015-01-07",
+    "description": "Gunmen attacked the Paris offices of the satirical magazine, killing 12 people.",
+    "link": "",
+    "lat": 48.859,
+    "lon": 2.3727
+  },
+  {
+    "id": "ev-2015-yemen",
+    "title": "Yemen Civil War Intervention",
+    "date": "2015-03-26",
+    "description": "A Saudi-led coalition began airstrikes against Houthi forces, escalating the Yemeni civil war.",
+    "link": "",
+    "lat": 15.3694,
+    "lon": 44.191
+  },
+  {
+    "id": "ev-2015-russiasyria",
+    "title": "Russian Military Intervention in Syria",
+    "date": "2015-09-30",
+    "description": "Russia began airstrikes in support of the Assad government.",
+    "link": "",
+    "lat": 35.4011,
+    "lon": 35.9487
+  },
+  {
+    "id": "ev-2015-paris",
+    "title": "November 2015 Paris Attacks",
+    "date": "2015-11-13",
+    "description": "Coordinated ISIS attacks across Paris, including the Bataclan theatre, killed 130 people.",
+    "link": "",
+    "lat": 48.8631,
+    "lon": 2.3708
+  },
+  {
+    "id": "ev-2016-brussels",
+    "title": "Brussels Bombings",
+    "date": "2016-03-22",
+    "description": "ISIS suicide bombers attacked Brussels Airport and a metro station, killing 32 people.",
+    "link": "",
+    "lat": 50.8503,
+    "lon": 4.3517
+  },
+  {
+    "id": "ev-2016-nice",
+    "title": "Nice Truck Attack",
+    "date": "2016-07-14",
+    "description": "A truck was driven into crowds on Bastille Day, killing 86 people.",
+    "link": "",
+    "lat": 43.6951,
+    "lon": 7.2654
+  },
+  {
+    "id": "ev-2016-turkeycoup",
+    "title": "Turkish Coup Attempt",
+    "date": "2016-07-15",
+    "description": "A faction of the Turkish military attempted to overthrow President Erdoğan and failed.",
+    "link": "",
+    "lat": 41.0082,
+    "lon": 28.9784
+  },
+  {
+    "id": "ev-2017-manchester",
+    "title": "Manchester Arena Bombing",
+    "date": "2017-05-22",
+    "description": "A suicide bomber killed 22 people at an Ariana Grande concert.",
+    "link": "",
+    "lat": 53.4883,
+    "lon": -2.2446
+  },
+  {
+    "id": "ev-2017-rohingya",
+    "title": "Rohingya Crisis",
+    "date": "2017-08-25",
+    "description": "A Myanmar military crackdown drove roughly 700,000 Rohingya to flee into Bangladesh.",
+    "link": "",
+    "lat": 20.1,
+    "lon": 92.9
+  },
+  {
+    "id": "ev-2017-catalonia",
+    "title": "Catalan Independence Referendum",
+    "date": "2017-10-01",
+    "description": "Catalonia held a referendum ruled illegal by Spain, followed by a police crackdown and a constitutional crisis.",
+    "link": "",
+    "lat": 41.3874,
+    "lon": 2.1686
+  },
+  {
+    "id": "ev-2018-skripal",
+    "title": "Skripal Poisoning",
+    "date": "2018-03-04",
+    "description": "Former Russian spy Sergei Skripal and his daughter were poisoned with a Novichok nerve agent in Salisbury, England.",
+    "link": "",
+    "lat": 51.0688,
+    "lon": -1.7945
+  },
+  {
+    "id": "ev-2018-khashoggi",
+    "title": "Killing of Jamal Khashoggi",
+    "date": "2018-10-02",
+    "description": "Saudi journalist Jamal Khashoggi was murdered inside the Saudi consulate in Istanbul.",
+    "link": "",
+    "lat": 41.0082,
+    "lon": 28.9784
+  },
+  {
+    "id": "ev-2019-venezuela",
+    "title": "Venezuelan Presidential Crisis",
+    "date": "2019-01-23",
+    "description": "Opposition leader Juan Guaidó declared himself interim president, challenging Nicolás Maduro and drawing wide international recognition.",
+    "link": "",
+    "lat": 10.4806,
+    "lon": -66.9036
+  },
+  {
+    "id": "ev-2019-pulwama",
+    "title": "Pulwama Attack",
+    "date": "2019-02-14",
+    "description": "A suicide bombing killed over 40 Indian paramilitary personnel in Kashmir.",
+    "link": "",
+    "lat": 33.9,
+    "lon": 74.92
+  },
+  {
+    "id": "ev-2019-balakot",
+    "title": "Balakot Airstrike",
+    "date": "2019-02-26",
+    "description": "India struck a target inside Pakistan in response to Pulwama, prompting an aerial clash the next day.",
+    "link": "",
+    "lat": 34.4167,
+    "lon": 73.3
+  },
+  {
+    "id": "ev-2019-christchurch",
+    "title": "Christchurch Mosque Shootings",
+    "date": "2019-03-15",
+    "description": "A far-right gunman killed 51 people at two mosques in New Zealand.",
+    "link": "",
+    "lat": -43.5223,
+    "lon": 172.6362
+  },
+  {
+    "id": "ev-2019-srilanka",
+    "title": "Sri Lanka Easter Bombings",
+    "date": "2019-04-21",
+    "description": "Coordinated suicide bombings on churches and hotels killed more than 250 people.",
+    "link": "",
+    "lat": 6.9271,
+    "lon": 79.8612
+  },
+  {
+    "id": "ev-2019-hongkong",
+    "title": "Hong Kong Protests",
+    "date": "2019-06-09",
+    "description": "Mass protests erupted over an extradition bill and grew into a broader pro-democracy movement.",
+    "link": "",
+    "lat": 22.3193,
+    "lon": 114.1694
+  },
+  {
+    "id": "ev-2019-syria-turkey",
+    "title": "Turkish Offensive in Northeast Syria",
+    "date": "2019-10-09",
+    "description": "Turkey launched an offensive against Kurdish-led forces after the US withdrew troops from the border area.",
+    "link": "",
+    "lat": 36.85,
+    "lon": 40.07
+  },
+  {
+    "id": "ev-2020-soleimani",
+    "title": "Killing of Qasem Soleimani",
+    "date": "2020-01-03",
+    "description": "A US drone strike near Baghdad Airport killed Iranian General Qasem Soleimani.",
+    "link": "",
+    "lat": 33.2625,
+    "lon": 44.2346
+  },
+  {
+    "id": "ev-2020-covid",
+    "title": "COVID-19 Global Pandemic Declaration",
+    "date": "2020-03-11",
+    "description": "The World Health Organization officially characterized the spreading novel coronavirus outbreak as a global pandemic.",
+    "link": "",
+    "lat": 30.5928,
+    "lon": 114.3055
+  },
+  {
+    "id": "ev-2020-belarus",
+    "title": "Belarus Protests",
+    "date": "2020-08-09",
+    "description": "Mass protests followed a disputed presidential election in Belarus and were violently suppressed.",
+    "link": "",
+    "lat": 53.9006,
+    "lon": 27.559
+  },
+  {
+    "id": "ev-2020-karabakh",
+    "title": "Second Nagorno-Karabakh War",
+    "date": "2020-09-27",
+    "description": "Azerbaijan and Armenia fought a six-week war that ended with Azerbaijani gains.",
+    "link": "",
+    "lat": 39.8265,
+    "lon": 46.7528
+  },
+  {
+    "id": "ev-2021-capitol",
+    "title": "January 6 US Capitol Attack",
+    "date": "2021-01-06",
+    "description": "A mob of Donald Trump supporters stormed the US Capitol to disrupt certification of the 2020 election.",
+    "link": "",
+    "lat": 38.8899,
+    "lon": -77.0091
+  },
+  {
+    "id": "ev-2021-myanmar",
+    "title": "Myanmar Coup",
+    "date": "2021-02-01",
+    "description": "The military seized power and detained Aung San Suu Kyi, triggering mass protests and civil conflict.",
+    "link": "",
+    "lat": 19.7633,
+    "lon": 96.0785
+  },
+  {
+    "id": "ev-2021-moise",
+    "title": "Assassination of Jovenel Moïse",
+    "date": "2021-07-07",
+    "description": "Haitian President Jovenel Moïse was assassinated at his home in Port-au-Prince.",
+    "link": "",
+    "lat": 18.5944,
+    "lon": -72.3074
+  },
+  {
+    "id": "ev-2021-kabul",
+    "title": "Fall of Kabul",
+    "date": "2021-08-15",
+    "description": "The Taliban took Kabul as the Afghan government collapsed during the final US withdrawal.",
+    "link": "",
+    "lat": 34.5553,
+    "lon": 69.2075
+  },
+  {
+    "id": "ev-2021-guinea",
+    "title": "2021 Guinean Coup",
+    "date": "2021-09-05",
+    "description": "Special forces led by Mamady Doumbouya detained President Alpha Condé.",
+    "link": "",
+    "lat": 9.5092,
+    "lon": -13.7122
+  },
+  {
+    "id": "ev-2021-sudan",
+    "title": "2021 Sudanese Coup",
+    "date": "2021-10-25",
+    "description": "The military dissolved Sudan's transitional government and detained civilian leaders.",
+    "link": "",
+    "lat": 15.5007,
+    "lon": 32.5599
+  },
+  {
+    "id": "ev-2022-ukraine",
+    "title": "Russian Invasion of Ukraine",
+    "date": "2022-02-24",
+    "description": "Russia launched a major military invasion of Ukraine, marking a massive escalation of the Russo-Ukrainian War.",
+    "link": "",
+    "lat": 50.4501,
+    "lon": 30.5234
+  },
+  {
+    "id": "ev-2022-abe",
+    "title": "Assassination of Shinzo Abe",
+    "date": "2022-07-08",
+    "description": "Former Japanese Prime Minister Shinzo Abe was shot dead while campaigning in Nara.",
+    "link": "",
+    "lat": 34.6851,
+    "lon": 135.8048
+  },
+  {
+    "id": "ev-2022-mahsa",
+    "title": "Mahsa Amini Protests",
+    "date": "2022-09-16",
+    "description": "The death of Mahsa Amini in morality-police custody set off nationwide protests across Iran.",
+    "link": "",
+    "lat": 35.6892,
+    "lon": 51.389
+  },
+  {
+    "id": "ev-2022-crimeabridge",
+    "title": "Crimean Bridge Explosion",
+    "date": "2022-10-08",
+    "description": "A truck bomb damaged the Kerch Strait Bridge linking Russia and Crimea.",
+    "link": "",
+    "lat": 45.3,
+    "lon": 36.5
+  },
+  {
+    "id": "ev-2023-sudanwar",
+    "title": "Sudan Civil War Begins",
+    "date": "2023-04-15",
+    "description": "Fighting broke out between the Sudanese army and the Rapid Support Forces, creating a major humanitarian crisis.",
+    "link": "",
+    "lat": 15.5007,
+    "lon": 32.5599
+  },
+  {
+    "id": "ev-2023-wagner",
+    "title": "Wagner Group Mutiny",
+    "date": "2023-06-23",
+    "description": "Wagner Group forces led by Yevgeny Prigozhin seized Rostov-on-Don and marched toward Moscow before standing down.",
+    "link": "",
+    "lat": 47.2357,
+    "lon": 39.7015
+  },
+  {
+    "id": "ev-2023-niger",
+    "title": "2023 Nigerien Coup",
+    "date": "2023-07-26",
+    "description": "Presidential guard officers detained President Mohamed Bazoum and seized power.",
+    "link": "",
+    "lat": 13.5116,
+    "lon": 2.1254
+  },
+  {
+    "id": "ev-2023-gabon",
+    "title": "2023 Gabonese Coup",
+    "date": "2023-08-30",
+    "description": "The military seized power after the announcement of President Ali Bongo's reelection.",
+    "link": "",
+    "lat": 0.4162,
+    "lon": 9.4673
+  },
+  {
+    "id": "ev-2023-karabakh",
+    "title": "Azerbaijani Offensive in Nagorno-Karabakh",
+    "date": "2023-09-19",
+    "description": "Azerbaijan retook the region in a lightning offensive, leading to the exodus of most ethnic Armenians.",
+    "link": "",
+    "lat": 39.8265,
+    "lon": 46.7528
+  },
+  {
+    "id": "ev-2023-gaza",
+    "title": "Israel-Hamas War Outbreak",
+    "date": "2023-10-07",
+    "description": "An unprecedented armed conflict triggered by coordinated attacks from the Gaza Strip into southern Israel.",
+    "link": "",
+    "lat": 31.5,
+    "lon": 34.4666
+  },
+  {
+    "id": "ev-2024-crocus",
+    "title": "Crocus City Hall Attack",
+    "date": "2024-03-22",
+    "description": "Gunmen attacked a concert hall near Moscow, killing more than 140 people; ISIS-K claimed responsibility.",
+    "link": "",
+    "lat": 55.8269,
+    "lon": 37.3869
+  },
+  {
+    "id": "ev-2024-damascus",
+    "title": "Israeli Strike on Iranian Consulate in Damascus",
+    "date": "2024-04-01",
+    "description": "An Israeli airstrike destroyed an Iranian diplomatic annex in Damascus, killing senior Revolutionary Guard commanders.",
+    "link": "",
+    "lat": 33.5138,
+    "lon": 36.2765
+  },
+  {
+    "id": "ev-2024-irantoisrael",
+    "title": "Iranian Missile and Drone Attack on Israel",
+    "date": "2024-04-13",
+    "description": "Iran launched hundreds of drones and missiles at Israel in its first direct attack on the country.",
+    "link": "",
+    "lat": 31.2085,
+    "lon": 35.0128
+  },
+  {
+    "id": "ev-2024-butler",
+    "title": "Attempted Assassination of Donald Trump (Butler)",
+    "date": "2024-07-13",
+    "description": "A gunman wounded Donald Trump at a campaign rally in Pennsylvania; the shooter and a rally attendee were killed.",
+    "link": "",
+    "lat": 40.8812,
+    "lon": -79.9085
+  },
+  {
+    "id": "ev-2024-haniyeh",
+    "title": "Assassination of Ismail Haniyeh",
+    "date": "2024-07-31",
+    "description": "Hamas political leader Ismail Haniyeh was killed in Tehran.",
+    "link": "",
+    "lat": 35.6892,
+    "lon": 51.389
+  },
+  {
+    "id": "ev-2024-hasina",
+    "title": "Ouster of Sheikh Hasina",
+    "date": "2024-08-05",
+    "description": "Student-led protests forced Bangladesh's prime minister to resign and flee the country.",
+    "link": "",
+    "lat": 23.8103,
+    "lon": 90.4125
+  },
+  {
+    "id": "ev-2024-kursk",
+    "title": "Ukrainian Incursion into Kursk",
+    "date": "2024-08-06",
+    "description": "Ukrainian forces crossed into Russia's Kursk region in the largest foreign incursion since World War II.",
+    "link": "",
+    "lat": 51.19,
+    "lon": 35.27
+  },
+  {
+    "id": "ev-2024-westpalm",
+    "title": "Second Attempted Assassination of Donald Trump",
+    "date": "2024-09-15",
+    "description": "A gunman was arrested after Secret Service agents spotted a rifle near Trump's golf course in West Palm Beach, Florida.",
+    "link": "",
+    "lat": 26.69,
+    "lon": -80.14
+  },
+  {
+    "id": "ev-2024-pagers",
+    "title": "Hezbollah Pager Explosions",
+    "date": "2024-09-17",
+    "description": "Thousands of pagers used by Hezbollah members exploded across Lebanon in an operation attributed to Israel.",
+    "link": "",
+    "lat": 33.8938,
+    "lon": 35.5018
+  },
+  {
+    "id": "ev-2024-nasrallah",
+    "title": "Killing of Hassan Nasrallah",
+    "date": "2024-09-27",
+    "description": "Hezbollah leader Hassan Nasrallah was killed in an Israeli airstrike in Beirut.",
+    "link": "",
+    "lat": 33.8497,
+    "lon": 35.5069
+  },
+  {
+    "id": "ev-2024-martiallaw",
+    "title": "South Korea Martial Law Declaration",
+    "date": "2024-12-03",
+    "description": "President Yoon Suk Yeol declared martial law, which the National Assembly voted down hours later; he was later impeached.",
+    "link": "",
+    "lat": 37.5665,
+    "lon": 126.978
+  },
+  {
+    "id": "ev-2024-assad",
+    "title": "Fall of the Assad Regime",
+    "date": "2024-12-08",
+    "description": "Rebel forces took Damascus and Bashar al-Assad fled to Russia, ending decades of Assad family rule.",
+    "link": "",
+    "lat": 33.5138,
+    "lon": 36.2765
+  },
+  {
+    "id": "ev-2025-pahalgam",
+    "title": "Pahalgam Attack",
+    "date": "2025-04-22",
+    "description": "Gunmen killed 26 civilians, mostly tourists, in Kashmir, sharply escalating India-Pakistan tensions.",
+    "link": "",
+    "lat": 34.022,
+    "lon": 75.315
+  },
+  {
+    "id": "ev-2025-sindoor",
+    "title": "Operation Sindoor (India-Pakistan Conflict)",
+    "date": "2025-05-07",
+    "description": "India launched missile strikes on targets in Pakistan, followed by several days of drone and missile exchanges before a ceasefire.",
+    "link": "",
+    "lat": 29.3544,
+    "lon": 71.6911
+  },
+  {
+    "id": "ev-2025-israeliran",
+    "title": "Israel-Iran War",
+    "date": "2025-06-13",
+    "description": "Israel launched strikes on Iranian nuclear and military sites, beginning a 12-day war with Iranian missile retaliation.",
+    "link": "",
+    "lat": 35.6892,
+    "lon": 51.389
+  },
+  {
+    "id": "ev-2025-fordow",
+    "title": "US Strikes on Iranian Nuclear Sites",
+    "date": "2025-06-22",
+    "description": "US aircraft struck Iran's Fordow, Natanz and Isfahan nuclear facilities.",
+    "link": "",
+    "lat": 34.8847,
+    "lon": 50.9958
+  },
+  {
+    "id": "ev-2025-kirk",
+    "title": "Assassination of Charlie Kirk",
+    "date": "2025-09-10",
+    "description": "Conservative activist Charlie Kirk was shot and killed while speaking at Utah Valley University.",
+    "link": "",
+    "lat": 40.2782,
+    "lon": -111.714
+  },
+  {
+    "id": "ev-1914-panama-canal",
+    "title": "Official Opening of the Panama Canal",
+    "date": "1914-08-15",
+    "description": "The cargo ship SS Ancon officially completes the first transit through the Panama Canal, revolutionizing global shipping lanes by connecting the Atlantic and Pacific Oceans.",
+    "link": "",
+    "lat": 9.0800,
+    "lon": -79.6800
+  },
+  {
+    "id": "ev-1916-somme",
+    "title": "Battle of the Somme",
+    "date": "1916-07-01",
+    "description": "One of the bloodiest battles of World War I begins on the Western Front, notable as the first major deployment of tanks in military history.",
+    "link": "",
+    "lat": 50.0497,
+    "lon": 2.7094
+  },
+  {
+    "id": "ev-1920-league-of-nations",
+    "title": "First Assembly of the League of Nations",
+    "date": "1920-11-15",
+    "description": "The League of Nations holds its inaugural assembly in Geneva, Switzerland, marking the first major international organization dedicated to maintaining world peace.",
+    "link": "",
+    "lat": 46.2044,
+    "lon": 6.1432
+  },
+  {
+    "id": "ev-1927-lindbergh",
+    "title": "Charles Lindbergh Completes First Solo Transatlantic Flight",
+    "date": "1927-05-21",
+    "description": "American aviator Charles Lindbergh lands his Spirit of St. Louis in Paris, completing the first solo nonstop transatlantic flight.",
+    "link": "",
+    "lat": 48.9692,
+    "lon": 2.4414
+  },
+  {
+    "id": "ev-1929-wall-street-crash",
+    "title": "Wall Street Crash of 1929",
+    "date": "1929-10-29",
+    "description": "American stock prices collapse on 'Black Tuesday', precipitating the devastating worldwide economic downturn known as the Great Depression.",
+    "link": "",
+    "lat": 40.7074,
+    "lon": -74.0113
+  },
+  {
+    "id": "ev-1936-hoover-dam",
+    "title": "Completion of Hoover Dam",
+    "date": "1936-03-01",
+    "description": "Construction of the massive Hoover Dam on the Colorado River is officially completed ahead of schedule, showcasing monumental modern civil engineering.",
+    "link": "",
+    "lat": 36.0156,
+    "lon": -114.7378
+  },
+  {
+    "id": "ev-1939-ww2-start",
+    "title": "Invasion of Poland Marks Start of World War II",
+    "date": "1939-09-01",
+    "description": "Nazi German forces invade Poland, prompting Great Britain and France to declare war and plunging the globe into its largest destructive conflict.",
+    "link": "",
+    "lat": 52.2297,
+    "lon": 21.0122
+  },
+  {
+    "id": "ev-1944-d-day",
+    "title": "D-Day Landings in Normandy",
+    "date": "1944-06-06",
+    "description": "Allied forces launch Operation Overlord, executing the largest amphibious invasion in history across the beaches of Normandy to liberate Western Europe.",
+    "link": "",
+    "lat": 49.3400,
+    "lon": -0.4700
+  },
+  {
+    "id": "ev-1945-un-charter",
+    "title": "Signing of the United Nations Charter",
+    "date": "1945-06-26",
+    "description": "Representatives from 50 countries sign the United Nations Charter in San Francisco, establishing a new framework for international cooperation.",
+    "link": "",
+    "lat": 37.7749,
+    "lon": -122.4194
+  },
+  {
+    "id": "ev-1950-korean-war",
+    "title": "Outbreak of the Korean War",
+    "date": "1950-06-25",
+    "description": "North Korean forces cross the 38th parallel, sparking a major proxy conflict of the Cold War involving forces from the United Nations and China.",
+    "link": "",
+    "lat": 37.5665,
+    "lon": 126.9780
+  },
+  {
+    "id": "ev-1961-gagarin-space",
+    "title": "Yuri Gagarin Becomes First Human in Space",
+    "date": "1961-04-12",
+    "description": "Soviet cosmonaut Yuri Gagarin successfully orbits the Earth aboard Vostok 1, opening the era of human spaceflight.",
+    "link": "",
+    "lat": 45.9650,
+    "lon": 63.3050
+  },
+  {
+    "id": "ev-1973-tcp-ip",
+    "title": "First Public Demonstration of TCP/IP",
+    "date": "1973-11-22",
+    "description": "Vint Cerf and Bob Kahn present the Transmission Control Protocol, laying the structural groundwork for the modern interconnected internet.",
+    "link": "",
+    "lat": 38.8951,
+    "lon": -77.0364
+  },
+  {
+    "id": "ev-1983-internet-birthday",
+    "title": "ARPANET Adopts TCP/IP",
+    "date": "1983-01-01",
+    "description": "ARPANET officially transitions to the TCP/IP protocol suite, universally recognized as the technical birthday of the modern internet.",
+    "link": "",
+    "lat": 38.9856,
+    "lon": -76.9366
+  },
+  {
+    "id": "ev-1990-hubble",
+    "title": "Launch of the Hubble Space Telescope",
+    "date": "1990-04-24",
+    "description": "The Space Shuttle Discovery lifts off with the Hubble Space Telescope, providing humanity with unprecedented deep-space imagery and cosmic data.",
+    "link": "",
+    "lat": 28.3922,
+    "lon": -80.6077
+  },
+  {
+    "id": "ev-1997-dolly-sheep",
+    "title": "Announcement of Dolly the Sheep Cloning",
+    "date": "1997-02-22",
+    "description": "Roslin Institute scientists announce the birth of Dolly, the first mammal successfully cloned from an adult somatic cell.",
+    "link": "",
+    "lat": 55.8672,
+    "lon": -3.2082
+  },
+  {
+    "id": "ev-2007-iphone",
+    "title": "Release of the First iPhone",
+    "date": "2007-06-29",
+    "description": "Apple releases the original iPhone, fundamentally disrupting personal computing, mobile telecommunications, and modern digital culture.",
+    "link": "",
+    "lat": 37.3318,
+    "lon": -122.0312
+  },
+  {
+    "id": "ev-2012-higgs-boson",
+    "title": "Discovery of the Higgs Boson",
+    "date": "2012-07-04",
+    "description": "CERN researchers at the Large Hadron Collider announce the discovery of the Higgs boson particle, confirming a vital missing piece of the Standard Model.",
+    "link": "",
+    "lat": 46.2333,
+    "lon": 6.0556
+  },
+  {
+    "id": "ev-1918-spanish-flu",
+    "title": "Outbreak of the 1918 Influenza Pandemic",
+    "date": "1918-01-15",
+    "description": "The devastating H1N1 influenza pandemic (Spanish Flu) spreads globally, infecting a third of the world's population and causing tens of millions of deaths.",
+    "link": "",
+    "lat": 40.7128,
+    "lon": -74.0060
+  },
+  {
+    "id": "ev-1922-ussr-established",
+    "title": "Establishment of the Soviet Union",
+    "date": "1922-12-30",
+    "description": "The Treaty on the Creation of the USSR is approved, formally unifying multiple Soviet republics into the Union of Soviet Socialist Republics.",
+    "link": "",
+    "lat": 55.7558,
+    "lon": 37.6173
+  },
+  {
+    "id": "ev-1949-prc-founded",
+    "title": "Founding of the People's Republic of China",
+    "date": "1949-10-01",
+    "description": "Mao Zedong proclaims the establishment of the People's Republic of China in Beijing, fundamentally altering the geopolitical balance of power in Asia.",
+    "link": "",
+    "lat": 39.9042,
+    "lon": 116.4074
+  },
+  {
+    "id": "ev-1955-warsaw-pact",
+    "title": "Signing of the Warsaw Pact",
+    "date": "1955-05-14",
+    "description": "The Soviet Union and seven Eastern Bloc socialist republics sign a mutual defense treaty, cementing the Cold War division of Europe.",
+    "link": "",
+    "lat": 52.2297,
+    "lon": 21.0122
+  },
+  {
+    "id": "ev-1959-cuban-revolution",
+    "title": "Triumph of the Cuban Revolution",
+    "date": "1959-01-01",
+    "description": "Fidel Castro's guerrilla forces overthrow the regime of Fulgencio Batista, establishing a revolutionary socialist state 90 miles from the United States.",
+    "link": "",
+    "lat": 23.1136,
+    "lon": -82.3666
+  },
+  {
+    "id": "ev-1963-jfk-assassination",
+    "title": "Assassination of U.S. President John F. Kennedy",
+    "date": "1963-11-22",
+    "description": "President John F. Kennedy is assassinated in Dallas, Texas, shocking the global community and profoundly impacting American political history.",
+    "link": "",
+    "lat": 32.7767,
+    "lon": -96.7970
+  },
+  {
+    "id": "ev-1979-iranian-revolution",
+    "title": "The Iranian Revolution",
+    "date": "1979-02-11",
+    "description": "The regime of Mohammad Reza Pahlavi is overthrown and replaced by an Islamic republic under Ayatollah Ruhollah Khomeini, reshaping Middle Eastern geopolitics.",
+    "link": "",
+    "lat": 35.6892,
+    "lon": 51.3890
+  },
+  {
+    "id": "ev-1980-smallpox-eradicated",
+    "title": "WHO Declares Smallpox Eradicated",
+    "date": "1980-05-08",
+    "description": "The World Health Organization formally certifies the global eradication of smallpox, marking one of the greatest triumphs in medical history.",
+    "link": "",
+    "lat": 46.2044,
+    "lon": 6.1432
+  },
+  {
+    "id": "ev-1994-south-africa-apartheid-ends",
+    "title": "End of Apartheid in South Africa",
+    "date": "1994-04-27",
+    "description": "South Africa holds its first fully representative democratic election, sweeping Nelson Mandela into the presidency and dismantling apartheid.",
+    "link": "",
+    "lat": -25.7479,
+    "lon": 28.2293
+  },
+  {
+    "id": "ev-2003-iraq-war",
+    "title": "Invasion of Iraq",
+    "date": "2003-03-20",
+    "description": "A U.S.-led coalition launches an invasion of Iraq, overthrowing Saddam Hussein's regime and precipitating a prolonged regional conflict.",
+    "link": "",
+    "lat": 33.3152,
+    "lon": 44.3661
+  },
+  {
+    "id": "ev-2011-arab-spring",
+    "title": "Peak of the Arab Spring Revolutions",
+    "date": "2011-01-14",
+    "description": "A wave of sweeping antigovernment protests, uprisings, and armed rebellions sweeps across the Middle East and North Africa, toppling multiple long-standing authoritarian regimes.",
+    "link": "",
+    "lat": 36.8065,
+    "lon": 10.1815
+  },
+  {
+    "id": "ev-2014-crimea-annexation",
+    "title": "Russian Annexation of Crimea",
+    "date": "2014-03-18",
+    "description": "The Russian Federation annexes the Crimean Peninsula from Ukraine, sharply escalating geopolitical tensions between Russia and the West.",
+    "link": "",
+    "lat": 44.9521,
+    "lon": 34.1024
+  },
+  {
+    "id": "ev-1917-balfour-declaration",
+    "title": "Issuance of the Balfour Declaration",
+    "date": "1917-11-02",
+    "description": "The British government issues a public statement expressing support for the establishment of a 'national home for the Jewish people' in Palestine, profoundly altering Middle Eastern history.",
+    "link": "",
+    "lat": 31.7683,
+    "lon": 35.2137
+  },
+  {
+    "id": "ev-1933-hitler-chancellor",
+    "title": "Adolf Hitler Appointed Chancellor of Germany",
+    "date": "1933-01-30",
+    "description": "German President Paul von Hindenburg appoints Adolf Hitler as Chancellor, swiftly paving the way for the collapse of the Weimar Republic and the establishment of Nazi totalitarian rule.",
+    "link": "",
+    "lat": 52.5200,
+    "lon": 13.4050
+  },
+  {
+    "id": "ev-1945-un-founded",
+    "title": "Official Birth of the United Nations",
+    "date": "1945-10-24",
+    "description": "The United Nations officially comes into existence after the Charter is ratified by its founding members, establishing a global body to manage international law and security.",
+    "link": "",
+    "lat": 40.7489,
+    "lon": -73.9680
+  },
+  {
+    "id": "ev-1953-polio-vaccine",
+    "title": "Jonas Salk Develops First Polio Vaccine",
+    "date": "1953-03-26",
+    "description": "Dr. Jonas Salk announces on national radio that he has successfully tested a safe and effective vaccine against poliomyelitis, marking a monumental victory in medical history.",
+    "link": "",
+    "lat": 40.4406,
+    "lon": -79.9959
+  },
+  {
+    "id": "ev-1962-vietnam-escalation",
+    "title": "Deployment of U.S. Military Advisors to Vietnam",
+    "date": "1962-02-08",
+    "description": "The United States Military Assistance Command, Vietnam is established, significantly escalating foreign military involvement and setting the stage for the full-scale Vietnam War.",
+    "link": "",
+    "lat": 10.7769,
+    "lon": 106.7009
+  },
+  {
+    "id": "ev-1975-vietnam-war-ends",
+    "title": "Fall of Saigon",
+    "date": "1975-04-30",
+    "description": "North Vietnamese forces capture Saigon, marking the end of the Vietnam War and the unification of Vietnam under a communist government.",
+    "link": "",
+    "lat": 10.7769,
+    "lon": 106.7009
+  },
+  {
+    "id": "ev-1979-sandinista-revolution",
+    "title": "Triumph of the Sandinista Revolution",
+    "date": "1979-07-19",
+    "description": "The U.S.-backed Somoza dictatorship in Nicaragua is overthrown by the leftist Sandinista National Liberation Front, sparking a major Cold War proxy conflict in Central America.",
+    "link": "",
+    "lat": 12.1364,
+    "lon": -86.2514
+  },
+  {
+    "id": "ev-1986-hiv-name",
+    "title": "International Committee Names HIV",
+    "date": "1986-05-07",
+    "description": "The International Committee on Taxonomy of Viruses officially names the causative agent of AIDS as the Human Immunodeficiency Virus (HIV), unifying global research nomenclature.",
+    "link": "",
+    "lat": 46.2044,
+    "lon": 6.1432
+  },
+  {
+    "id": "ev-1991-gulf-war",
+    "title": "Operation Desert Storm Begins",
+    "date": "1991-01-17",
+    "description": "A U.S.-led coalition launches an intensive aerial bombing campaign against Iraq following its invasion of Kuwait, initiating the Gulf War.",
+    "link": "",
+    "lat": 29.3759,
+    "lon": 47.9774
+  },
+  {
+    "id": "ev-2011-osama-bin-laden",
+    "title": "Death of Osama bin Laden",
+    "date": "2011-05-02",
+    "description": "U.S. Navy SEALs kill al-Qaeda leader Osama bin Laden during a raid on his compound in Abbottabad, Pakistan, marking a major turning point in the post-9/11 War on Terror.",
+    "link": "",
+    "lat": 34.1688,
+    "lon": 73.2215
+  },
+  {
+    "id": "ev-2022-ukraine-invasion",
+    "title": "Russian Invasion of Ukraine",
+    "date": "2022-02-24",
+    "description": "Russian forces launch a full-scale military invasion of Ukraine, triggering the largest conventional war in Europe since World War II and causing massive geopolitical and economic realignments.",
+    "link": "",
+    "lat": 50.4501,
+    "lon": 30.5234
+  },
+  {
+    "id": "ev-1915-lusitania",
+    "title": "Sinking of the RMS Lusitania",
+    "date": "1915-05-07",
+    "description": "A German U-boat torpedoes and sinks the British ocean liner RMS Lusitania off the coast of Ireland, killing nearly 1,200 civilians and heavily shifting American public opinion toward World War I.",
+    "link": "",
+    "lat": 51.4167,
+    "lon": -8.5500
+  },
+  {
+    "id": "ev-1918-armistice",
+    "title": "Armistice with Germany Ends World War I Fighting",
+    "date": "1918-11-11",
+    "description": "An armistice signed between the Allies and Germany goes into effect on the eleventh hour of the eleventh day of the eleventh month, halting four years of devastating carnage on the Western Front.",
+    "link": "",
+    "lat": 49.4194,
+    "lon": 4.9278
+  },
+  {
+    "id": "ev-1919-weimar-constitution",
+    "title": "Adoption of the Weimar Constitution",
+    "date": "1919-08-11",
+    "description": "German President Friedrich Ebert signs the democratic Weimar Constitution into law, establishing Germany's first parliamentary republic in the wake of imperial collapse.",
+    "link": "",
+    "lat": 50.9787,
+    "lon": 11.3283
+  },
+  {
+    "id": "ev-1921-ccp-founded",
+    "title": "Founding of the Chinese Communist Party",
+    "date": "1921-07-23",
+    "description": "Delegates convene in Shanghai for the First National Congress of the Chinese Communist Party, quietly planting the seeds for a movement that would fundamentally reshape modern Asia.",
+    "link": "",
+    "lat": 31.2304,
+    "lon": 121.4737
+  },
+  {
+    "id": "ev-1923-turkish-republic",
+    "title": "Proclamation of the Republic of Turkey",
+    "date": "1923-10-29",
+    "description": "Following the collapse of the Ottoman Empire and the Turkish War of Independence, Mustafa Kemal Atatürk proclaims Turkey a republic, serving as its first president and sweeping in radical westernizing reforms.",
+    "link": "",
+    "lat": 39.9334,
+    "lon": 32.8597
+  },
+  {
+    "id": "ev-1931-statute-westminster",
+    "title": "Passage of the Statute of Westminster",
+    "date": "1931-12-11",
+    "description": "The British Parliament passes the Statute of Westminster, granting legislative independence to self-governing dominions like Canada, Australia, New Zealand, and South Africa, transforming the British Empire into the Commonwealth.",
+    "link": "",
+    "lat": 51.4994,
+    "lon": -0.1248
+  },
+  {
+    "id": "ev-1935-nuremberg-laws",
+    "title": "Enactment of the Nuremberg Laws",
+    "date": "1935-09-15",
+    "description": "Nazi Germany institutes the antisemitic Nuremberg Laws, stripping German Jews of citizenship and institutionalizing systemic racial discrimination ahead of the Holocaust.",
+    "link": "",
+    "lat": 49.4521,
+    "lon": 11.0767
+  },
+  {
+    "id": "ev-1938-munich-agreement",
+    "title": "Signing of the Munich Agreement",
+    "date": "1938-09-30",
+    "description": "Leaders of Nazi Germany, Great Britain, France, and Italy sign the Munich Agreement, permitting German annexation of the Sudetenland in a failed bid to appease Adolf Hitler and avoid continental war.",
+    "link": "",
+    "lat": 48.1351,
+    "lon": 11.5820
+  },
+  {
+    "id": "ev-1941-barbarossa",
+    "title": "Launch of Operation Barbarossa",
+    "date": "1941-06-22",
+    "description": "Axis forces launch a massive surprise invasion of the Soviet Union, opening the brutal Eastern Front of World War II and ensuring a catastrophic escalation of the conflict.",
+    "link": "",
+    "lat": 53.9006,
+    "lon": 27.5590
+  },
+  {
+    "id": "ev-1945-nagasaki",
+    "title": "Atomic Bombing of Nagasaki",
+    "date": "1945-08-09",
+    "description": "The United States drops a second atomic bomb, codenamed 'Fat Man', on the Japanese city of Nagasaki, heavily precipitating Japan's unconditional surrender.",
+    "link": "",
+    "lat": 32.7503,
+    "lon": 129.8779
+  },
+  {
+    "id": "ev-1947-india-partition",
+    "title": "Partition of British India",
+    "date": "1947-08-15",
+    "description": "British India is partitioned into two independent dominion states—India and Pakistan—triggering massive religious migration, localized violence, and one of the largest mass displacements in human history.",
+    "link": "",
+    "lat": 28.6139,
+    "lon": 77.2090
+  },
+  {
+    "id": "ev-1948-israel-independence",
+    "title": "Declaration of the State of Israel",
+    "date": "1948-05-14",
+    "description": "David Ben-Gurion publicly declares the establishment of the State of Israel, immediately sparking the 1948 Arab-Israeli War and reshaping Middle Eastern political borders indefinitely.",
+    "link": "",
+    "lat": 32.0853,
+    "lon": 34.7818
+  },
+  {
+    "id": "ev-1950-ccp-tibet",
+    "title": "Battle of Chamdo and Entry into Tibet",
+    "date": "1950-10-07",
+    "description": "The People's Liberation Army enters the region of Chamdo, initiating the incorporation of Tibet into the People's Republic of China and altering the region's geopolitical status.",
+    "link": "",
+    "lat": 31.1448,
+    "lon": 97.1685
+  },
+  {
+    "id": "ev-1956-suez-crisis",
+    "title": "Outbreak of the Suez Crisis",
+    "date": "1956-10-29",
+    "description": "Israeli forces invade Egypt's Sinai Peninsula, quickly followed by British and French military intervention to seize control of the newly nationalized Suez Canal, exposing the decline of European imperial power.",
+    "link": "",
+    "lat": 30.0444,
+    "lon": 31.2357
+  },
+  {
+    "id": "ev-1959-tibetan-uprising",
+    "title": "Tibetan Uprising and Dalai Lama's Exile",
+    "date": "1959-03-10",
+    "description": "A massive uprising erupts in Lhasa against Chinese rule, culminating in the 14th Dalai Lama fleeing across the Himalayas into political asylum in India.",
+    "link": "",
+    "lat": 29.6528,
+    "lon": 91.1172
+  },
+  {
+    "id": "ev-1961-berlin-wall-built",
+    "title": "Construction of the Berlin Wall Begins",
+    "date": "1961-08-13",
+    "description": "East German authorities begin sealing off West Berlin with barbed wire and concrete barriers, physically dividing families and establishing an iconic symbol of the Cold War Iron Curtain.",
+    "link": "",
+    "lat": 52.5163,
+    "lon": 13.3777
+  },
+  {
+    "id": "ev-1964-tonkin-resolution",
+    "title": "Gulf of Tonkin Resolution Passed",
+    "date": "1964-08-07",
+    "description": "The U.S. Congress passes the Gulf of Tonkin Resolution, granting President Lyndon B. Johnson broad authority to conduct military operations in Southeast Asia without a formal declaration of war.",
+    "link": "",
+    "lat": 38.8951,
+    "lon": -77.0364
+  },
+  {
+    "id": "ev-1967-six-day-war",
+    "title": "Outbreak of the Six-Day War",
+    "date": "1967-06-05",
+    "description": "Israel launches a preemptive airstrike against the Egyptian air force, igniting a brief, highly consequential war that results in Israel capturing the West Bank, Gaza Strip, Sinai Peninsula, and Golan Heights.",
+    "link": "",
+    "lat": 31.7683,
+    "lon": 35.2137
+  },
+  {
+    "id": "ev-1968-tet-offensive",
+    "title": "Launch of the Tet Offensive",
+    "date": "1968-01-30",
+    "description": "North Vietnamese and Viet Cong forces launch a massive coordinated surprise offensive against military and civilian command centers across South Vietnam, sharply shifting American political sentiment against the war.",
+    "link": "",
+    "lat": 16.0544,
+    "lon": 108.2022
+  },
+  {
+    "id": "ev-1973-yom-kippur",
+    "title": "Outbreak of the Yom Kippur War",
+    "date": "1973-10-06",
+    "description": "A coalition of Arab states led by Egypt and Syria launch a surprise military attack on Israel during Yom Kippur, triggering a massive geopolitical energy crisis and OPEC oil embargo.",
+    "link": "",
+    "lat": 31.2529,
+    "lon": 32.2987
+  },
+  {
+    "id": "ev-1979-three-mile-island",
+    "title": "Three Mile Island Nuclear Accident",
+    "date": "1979-03-28",
+    "description": "A partial meltdown occurs at the Three Mile Island nuclear generating station in Pennsylvania, severely shaking public confidence in nuclear energy and changing global regulatory safety protocols.",
+    "link": "",
+    "lat": 40.1539,
+    "lon": -76.7247
+  },
+  {
+    "id": "ev-1981-first-spacewalk-sts1",
+    "title": "First Space Shuttle Flight (STS-1)",
+    "date": "1981-04-12",
+    "description": "The Space Shuttle Columbia launches on its maiden voyage, inaugurating NASA's reusable spacecraft program and entering a new era of orbital engineering.",
+    "link": "",
+    "lat": 28.3922,
+    "lon": -80.6077
+  },
+  {
+    "id": "ev-1984-bhopal-disaster",
+    "title": "Bhopal Pesticide Plant Gas Leak",
+    "date": "1984-12-03",
+    "description": "Toxic methyl isocyanate gas leaks from a Union Carbide pesticide plant in Bhopal, India, resulting in one of the worst industrial catastrophes in global history.",
+    "link": "",
+    "lat": 23.2599,
+    "lon": 77.4126
+  },
+  {
+    "id": "ev-1986-challenger",
+    "title": "Space Shuttle Challenger Disaster",
+    "date": "1986-01-28",
+    "description": "The Space Shuttle Challenger breaks apart 73 seconds into flight, resulting in the tragic deaths of all seven crew members and pausing the U.S. shuttle program for over two years.",
+    "link": "",
+    "lat": 28.3922,
+    "lon": -80.6077
+  },
+  {
+    "id": "ev-1991-maastricht-treaty",
+    "title": "Signing of the Maastricht Treaty",
+    "date": "1991-12-07",
+    "description": "European Community leaders reach agreement on the Maastricht Treaty, formally establishing the European Union and paving the way for the single currency euro.",
+    "link": "",
+    "lat": 50.8503,
+    "lon": 5.6947
+  },
+  {
+    "id": "ev-1993-oslo-accords",
+    "title": "Signing of the First Oslo Accord",
+    "date": "1993-09-13",
+    "description": "Israeli Prime Minister Yitzhak Rabin and PLO negotiator Mahmoud Abbas sign the historic Oslo Accords at the White House, establishing a framework for Palestinian self-governance.",
+    "link": "",
+    "lat": 38.8951,
+    "lon": -77.0364
+  },
+  {
+    "id": "ev-1994-rwandan-genocide",
+    "title": "Systemic Start of the Rwandan Genocide",
+    "date": "1994-04-07",
+    "description": "Following the assassination of Rwandan President Juvénal Habyarimana, extremist Hutu militia groups orchestrate a brutal 100-day campaign of mass slaughter against the Tutsi population.",
+    "link": "",
+    "lat": -1.9403,
+    "lon": 29.8739
+  },
+  {
+    "id": "ev-1997-hong-kong-handover",
+    "title": "Handover of Hong Kong",
+    "date": "1997-07-01",
+    "description": "Great Britain formally transfers sovereignty of Hong Kong to the People's Republic of China, ending over 150 years of British colonial rule under the 'One Country, Two Systems' framework.",
+    "link": "",
+    "lat": 22.3193,
+    "lon": 114.1694
+  },
+  {
+    "id": "ev-1999-euro-introduced",
+    "title": "Introduction of the Euro Currency",
+    "date": "1999-01-01",
+    "description": "The euro is officially introduced as an accounting currency across eleven participating European Union member nations, binding their monetary policies.",
+    "link": "",
+    "lat": 50.8503,
+    "lon": 4.3517
+  },
+  {
+    "id": "ev-2001-afghanistan-war",
+    "title": "U.S. Invasion of Afghanistan Begins",
+    "date": "2001-10-07",
+    "description": "Following the September 11 attacks and the Taliban's refusal to surrender Osama bin Laden, the United States and its allies launch Operation Enduring Freedom, beginning a decades-long conflict.",
+    "link": "",
+    "lat": 34.5553,
+    "lon": 69.2075
+  },
+  {
+    "id": "ev-2003-columbia-disaster",
+    "title": "Space Shuttle Columbia Reentry Disaster",
+    "date": "2003-02-01",
+    "description": "The Space Shuttle Columbia disintegrates during atmospheric reentry over Texas, tragically killing all seven astronauts and prompting a complete reevaluation of the space program's safety guidelines.",
+    "link": "",
+    "lat": 32.7767,
+    "lon": -96.7970
+  },
+  {
+    "id": "ev-2010-haiti-earthquake",
+    "title": "Devastating Haiti Earthquake",
+    "date": "2010-01-12",
+    "description": "A catastrophic magnitude 7.0 earthquake strikes near Port-au-Prince in Haiti, causing widespread infrastructural destruction and hundreds of thousands of fatalities.",
+    "link": "",
+    "lat": 18.5944,
+    "lon": -72.3074
+  },
+  {
+    "id": "ev-2011-fukushima",
+    "title": "Fukushima Daiichi Nuclear Disaster",
+    "date": "2011-03-11",
+    "description": "A massive offshore megathrust earthquake generates a towering tsunami that severely damages the Fukushima Daiichi nuclear power plant in Japan, triggering meltdowns and mass evacuations.",
+    "link": "",
+    "lat": 37.4211,
+    "lon": 141.0328
+  },
+  {
+    "id": "ev-2016-brexit-referendum",
+    "title": "UK Brexit Referendum Outcome",
+    "date": "2016-06-23",
+    "description": "In a historic national referendum, a majority of voters in the United Kingdom choose to leave the European Union, igniting years of complex political negotiations and changing European integration.",
+    "link": "",
+    "lat": 51.5074,
+    "lon": -0.1278
+  },
+  {
+    "id": "ev-2020-covid-lockdowns",
+    "title": "Global Pandemic Lockdowns Implemented",
+    "date": "2020-03-23",
+    "description": "Governments across the globe implement unprecedented nationwide lockdowns, travel restrictions, and social distancing protocols to halt the unchecked spread of the SARS-CoV-2 virus.",
+    "link": "",
+    "lat": 51.5074,
+    "lon": -0.1278
+  },
+  {
+    "id": "ev-2021-capitol-riot",
+    "title": "Attack on the U.S. Capitol",
+    "date": "2021-01-06",
+    "description": "A crowd of supporters of outgoing U.S. President Donald Trump violently breach the United States Capitol in Washington, D.C., attempting to disrupt the certification of the 2020 presidential election results.",
+    "link": "",
+    "lat": 38.8899,
+    "lon": -77.0091
+  },
+  {
+    "id": "ev-1915-armenian-genocide",
+    "title": "Beginning of the Armenian Genocide",
+    "date": "1915-04-24",
+    "description": "Ottoman authorities arrest Armenian community leaders in Constantinople, marking the grim start of a systematic genocide that results in the mass deportation and death of over a million Armenians.",
+    "link": "",
+    "lat": 41.0082,
+    "lon": 28.9784
+  },
+  {
+    "id": "ev-1916-easter-rising",
+    "title": "The Easter Rising in Dublin",
+    "date": "1916-04-24",
+    "description": "Irish republicans launch an armed insurrection against British rule in Ireland with the aim of establishing an independent Irish Republic, setting off a chain reaction that leads to Irish independence.",
+    "link": "",
+    "lat": 53.3498,
+    "lon": -6.2603
+  },
+  {
+    "id": "ev-1919-amritsar-massacre",
+    "title": "Amritsar Massacre",
+    "date": "1919-04-13",
+    "description": "British troops under Brigadier-General Reginald Dyer open fire on a peaceful crowd of unarmed protesters in Amritsar, India, galvanizing the Indian independence movement led by Mahatma Gandhi.",
+    "link": "",
+    "lat": 31.6340,
+    "lon": 74.8723
+  },
+  {
+    "id": "ev-1920-league-of-nations-birth",
+    "title": "League of Nations Officially Comes into Being",
+    "date": "1920-01-10",
+    "description": "The Covenant of the League of Nations takes effect following the ratification of the Treaty of Versailles, establishing the first global intergovernmental organization dedicated to preserving world peace.",
+    "link": "",
+    "lat": 46.2044,
+    "lon": 6.1432
+  },
+  {
+    "id": "ev-1922-mussolini-march-on-rome",
+    "title": "Benito Mussolini's March on Rome",
+    "date": "1922-10-28",
+    "description": "Fascist leader Benito Mussolini leads his Blackshirts in a coup-like march on Rome, prompting King Victor Emmanuel III to appoint Mussolini as Prime Minister and establishing the world's first fascist dictatorship.",
+    "link": "",
+    "lat": 41.9028,
+    "lon": 12.4964
+  },
+  {
+    "id": "ev-1925-locarno-treaties",
+    "title": "Signing of the Locarno Treaties",
+    "date": "1925-12-01",
+    "description": "European powers sign a series of agreements in Locarno, Switzerland, intended to normalize relations and guarantee post-World War I western borders, sparking a brief period of diplomatic optimism.",
+    "link": "",
+    "lat": 46.1667,
+    "lon": 8.7994
+  },
+  {
+    "id": "ev-1931-manchurian-incident",
+    "title": "The Mukden Incident",
+    "date": "1931-09-18",
+    "description": "Japanese military officers stage a false-flag railway explosion in Manchuria, providing the pretext for the unauthorized Japanese invasion and occupation of the region, straining global diplomacy.",
+    "link": "",
+    "lat": 41.8039,
+    "lon": 123.4315
+  },
+  {
+    "id": "ev-1936-spanish-civil-war",
+    "title": "Outbreak of the Spanish Civil War",
+    "date": "1936-07-17",
+    "description": "Nationalist military forces led by General Francisco Franco launch a military coup against the democratically elected Spanish Republic, igniting a bloody civil war that serves as a testing ground for World War II.",
+    "link": "",
+    "lat": 40.4168,
+    "lon": -3.7038
+  },
+  {
+    "id": "ev-1937-nanjing-massacre",
+    "title": "Outbreak of the Nanjing Massacre",
+    "date": "1937-12-13",
+    "description": "Imperial Japanese forces capture the Chinese capital of Nanjing, initiating weeks of systematic atrocities, mass executions, and sexual violence against civilians.",
+    "link": "",
+    "lat": 32.0603,
+    "lon": 118.7969
+  },
+  {
+    "id": "ev-1939-molotov-ribbentrop",
+    "title": "Signing of the Molotov-Ribbentrop Pact",
+    "date": "1939-08-23",
+    "description": "Nazi Germany and the Soviet Union sign a notorious non-aggression pact that secretly divides Eastern Europe into mutual spheres of influence, clearing the way for the invasion of Poland.",
+    "link": "",
+    "lat": 55.7558,
+    "lon": 37.6173
+  },
+  {
+    "id": "ev-1940-fall-of-france",
+    "title": "Armistice of Compiègne and Fall of France",
+    "date": "1940-06-22",
+    "description": "France signs an armistice with Nazi Germany following a lightning blitzkrieg campaign, resulting in the partition of France and the establishment of the Vichy regime.",
+    "link": "",
+    "lat": 49.4194,
+    "lon": 4.9278
+  },
+  {
+    "id": "ev-1942-wannsee-conference",
+    "title": "The Wannsee Conference",
+    "date": "1942-01-20",
+    "description": "Senior Nazi officials meet in a Berlin suburb to coordinate and formalize the logistics of the 'Final Solution to the Jewish Question', institutionalizing the industrial murder of European Jews.",
+    "link": "",
+    "lat": 52.4356,
+    "lon": 13.1611
+  },
+  {
+    "id": "ev-1943-stalingrad-victory",
+    "title": "Soviet Victory at the Battle of Stalingrad",
+    "date": "1943-02-02",
+    "description": "The besieged German 6th Army surrenders to Soviet forces at Stalingrad, marking the catastrophic turning point of the war on the Eastern Front and destroying Axis momentum.",
+    "link": "",
+    "lat": 48.7080,
+    "lon": 44.5133
+  },
+  {
+    "id": "ev-1946-nuremberg-verdicts",
+    "title": "The Nuremberg Trials Verdicts Delivered",
+    "date": "1946-10-01",
+    "description": "The International Military Tribunal delivers its verdicts against surviving leaders of Nazi Germany, establishing monumental precedents for international criminal law and human rights.",
+    "link": "",
+    "lat": 49.4521,
+    "lon": 11.0767
+  },
+  {
+    "id": "ev-1947-marshall-plan",
+    "title": "Announcement of the Marshall Plan",
+    "date": "1947-06-05",
+    "description": "U.S. Secretary of State George Marshall outlines a massive financial aid program to rebuild war-torn Western Europe, solidifying Western economic integration and combating the spread of communism.",
+    "link": "",
+    "lat": 38.8951,
+    "lon": -77.0364
+  },
+  {
+    "id": "ev-1948-berlin-blockade",
+    "title": "Outbreak of the Berlin Blockade",
+    "date": "1948-06-24",
+    "description": "The Soviet Union cuts off all surface access to Western-controlled sectors of Berlin, prompting the historic Western Allies Berlin Airlift to sustain the city's population.",
+    "link": "",
+    "lat": 52.5200,
+    "lon": 13.4050
+  },
+  {
+    "id": "ev-1949-nato-founded",
+    "title": "Signing of the North Atlantic Treaty",
+    "date": "1949-04-04",
+    "description": "North American and European nations sign the North Atlantic Treaty in Washington, D.C., founding NATO as a collective security alliance against Soviet expansionism.",
+    "link": "",
+    "lat": 38.8951,
+    "lon": -77.0364
+  },
+  {
+    "id": "ev-1954-dien-bien-phu",
+    "title": "French Defeat at Dien Bien Phu",
+    "date": "1954-05-07",
+    "description": "Viet Minh forces capture a French military base at Dien Bien Phu, effectively ending French colonial rule in Indochina and leading to the temporary partition of Vietnam.",
+    "link": "",
+    "lat": 21.3900,
+    "lon": 103.0170
+  },
+  {
+    "id": "ev-1956-hungarian-revolution",
+    "title": "The Hungarian Revolution",
+    "date": "1956-10-23",
+    "description": "A nationwide revolt against the Marxist-Hungarian government and Soviet policies erupts in Budapest, which is brutally crushed by invading Soviet tanks in November.",
+    "link": "",
+    "lat": 47.4979,
+    "lon": 19.0402
+  },
+  {
+    "id": "ev-1959-antarctic-treaty",
+    "title": "Signing of the Antarctic Treaty",
+    "date": "1959-12-01",
+    "description": "Twelve nations sign the Antarctic Treaty in Washington, D.C., designating the continent as a dedicated scientific preserve and banning military activity.",
+    "link": "",
+    "lat": 38.8951,
+    "lon": -77.0364
+  },
+  {
+    "id": "ev-1960-year-of-africa",
+    "title": "The Year of Africa",
+    "date": "1960-01-01",
+    "description": "Seventeen African nations achieve independence from colonial rule throughout the year 1960, marking a massive tectonic shift in global geopolitics and decolonization.",
+    "link": "",
+    "lat": 4.0751,
+    "lon": 9.7085
+  },
+  {
+    "id": "ev-1962-eichmann-execution",
+    "title": "Execution of Adolf Eichmann",
+    "date": "1962-06-01",
+    "description": "Nazi war criminal Adolf Eichmann is executed in Israel following a high-profile trial that brings the full scope of the Holocaust into global public consciousness.",
+    "link": "",
+    "lat": 31.7767,
+    "lon": 35.2345
+  },
+  {
+    "id": "ev-1964-civil-rights-act",
+    "title": "U.S. Civil Rights Act of 1964 Signed",
+    "date": "1964-07-02",
+    "description": "U.S. President Lyndon B. Johnson signs the landmark Civil Rights Act into law, legally banning segregation in public places and employment discrimination based on race or sex.",
+    "link": "",
+    "lat": 38.8951,
+    "lon": -77.0364
+  },
+  {
+    "id": "ev-1968-mlk-assassination",
+    "title": "Assassination of Martin Luther King Jr.",
+    "date": "1968-04-04",
+    "description": "Civil rights leader Martin Luther King Jr. is assassinated in Memphis, Tennessee, triggering nationwide protests, civil unrest, and a profound turning point in the American civil rights movement.",
+    "link": "",
+    "lat": 35.1495,
+    "lon": -90.0490
+  },
+  {
+    "id": "ev-1970-earth-day",
+    "title": "First Earth Day",
+    "date": "1970-04-22",
+    "description": "Millions of people participate in the inaugural nationwide environmental teach-in known as Earth Day, sparking the modern global environmental protection movement and regulatory reform.",
+    "link": "",
+    "lat": 40.7128,
+    "lon": -74.0060
+  },
+  {
+    "id": "ev-1972-watergate-breakin",
+    "title": "Watergate Hotel Break-In",
+    "date": "1972-06-17",
+    "description": "Burglars linked to the Nixon reelection campaign are arrested inside the Democratic National Committee headquarters, triggering a constitutional scandal that forces President Nixon's resignation.",
+    "link": "",
+    "lat": 38.8977,
+    "lon": -77.0559
+  },
+  {
+    "id": "ev-1975-helsinki-accords",
+    "title": "Signing of the Helsinki Accords",
+    "date": "1975-08-01",
+    "description": "Thirty-five nations sign the Helsinki Accords in an effort to improve relations between the Communist bloc and the West while recognizing post-World War II national borders.",
+    "link": "",
+    "lat": 60.1699,
+    "lon": 24.9384
+  },
+  {
+    "id": "ev-1978-camp-david-accords",
+    "title": "Signing of the Camp David Accords",
+    "date": "1978-09-17",
+    "description": "Egyptian President Anwar Sadat and Israeli Prime Minister Menachem Begin sign the Camp David Accords under U.S. mediation, leading to the historic Egypt-Israel Peace Treaty.",
+    "link": "",
+    "lat": 38.6465,
+    "lon": -77.4673
+  },
+  {
+    "id": "ev-1982-falklands-war",
+    "title": "Outbreak of the Falklands War",
+    "date": "1982-04-02",
+    "description": "Argentine forces launch an amphibious invasion of the British overseas territory of the Falkland Islands, prompting a swift British naval task force response and a brief armed conflict.",
+    "link": "",
+    "lat": -51.6961,
+    "lon": -57.8521
+  },
+  {
+    "id": "ev-1984-union-caribe-lawsuit",
+    "title": "Indian Government Sues Union Carbide",
+    "date": "1984-12-07",
+    "description": "In the wake of the Bhopal disaster, the Indian government files a massive multi-billion-dollar lawsuit against Union Carbide, setting major precedents for corporate accountability and environmental law.",
+    "link": "",
+    "lat": 23.2599,
+    "lon": 77.4126
+  },
+  {
+    "id": "ev-1988-lockerbie-bombing",
+    "title": "Bombing of Pan Am Flight 103",
+    "date": "1988-12-21",
+    "description": "A terrorist bomb destroys Pan Am Flight 103 over Lockerbie, Scotland, killing all 259 people on board and 11 residents on the ground, triggering intensive international counter-terrorism investigations.",
+    "link": "",
+    "lat": 55.1189,
+    "lon": -3.3584
+  },
+  {
+    "id": "ev-1990-mandela-release",
+    "title": "Release of Nelson Mandela",
+    "date": "1990-02-11",
+    "description": "Nelson Mandela is released from Victor Verster Prison after 27 years of incarceration, signaling the impending collapse of the South African apartheid regime.",
+    "link": "",
+    "lat": -33.8150,
+    "lon": 18.9930
+  },
+  {
+    "id": "ev-1992-earth-summit",
+    "title": "United Nations Earth Summit in Rio de Janeiro",
+    "date": "1992-06-03",
+    "description": "World leaders gather for the landmark UN Conference on Environment and Development, establishing major global frameworks on climate change, biodiversity, and sustainable development.",
+    "link": "",
+    "lat": -22.9068,
+    "lon": -43.1729
+  },
+  {
+    "id": "ev-1995-srebrenica-massacre",
+    "title": "The Srebrenica Massacre",
+    "date": "1995-07-11",
+    "description": "Bosnian Serb forces under General Ratko Mladić systematically execute more than 8,000 Bosniak men and boys in Srebrenica, marking the worst atrocity on European soil since World War II.",
+    "link": "",
+    "lat": 44.1039,
+    "lon": 19.3069
+  },
+  {
+    "id": "ev-1998-good-friday-agreement",
+    "title": "Signing of the Good Friday Agreement",
+    "date": "1998-04-10",
+    "description": "Political parties in Northern Ireland and the British and Irish governments sign the Good Friday Agreement, successfully bringing an end to decades of violent sectarian conflict known as the Troubles.",
+    "link": "",
+    "lat": 54.5973,
+    "lon": -5.9301
+  },
+  {
+    "id": "ev-2000-un-millennium-summit",
+    "title": "UN Millennium Summit",
+    "date": "2000-09-06",
+    "description": "World leaders assemble at United Nations headquarters in New York to adopt the Millennium Declaration, establishing ambitious global anti-poverty and development goals for the new century.",
+    "link": "",
+    "lat": 40.7489,
+    "lon": -73.9680
+  },
+  {
+    "id": "ev-2002-afghan-interim-gov",
+    "title": "Establishment of Post-Taliban Afghan Government",
+    "date": "2002-06-19",
+    "description": "The Emergency Loya Jirga elects Hamid Karzai to head the transitional administration of Afghanistan following the U.S.-led overthrow of the Taliban regime.",
+    "link": "",
+    "lat": 34.5553,
+    "lon": 69.2075
+  },
+  {
+    "id": "ev-2005-kyoto-protocol-enters-force",
+    "title": "Kyoto Protocol Enters into Force",
+    "date": "2005-02-16",
+    "description": "The landmark Kyoto Protocol legally binding industrialized nations to reduce greenhouse gas emissions officially takes effect following Russia's ratification.",
+    "link": "",
+    "lat": 35.6762,
+    "lon": 139.6503
+  },
+  {
+    "id": "ev-2008-satoshi-bitcoin",
+    "title": "Bitcoin Whitepaper Published",
+    "date": "2008-10-31",
+    "description": "An anonymous programmer under the pseudonym Satoshi Nakamoto publishes the Bitcoin whitepaper, introducing decentralized peer-to-peer electronic cash and blockchain architecture to the world.",
+    "link": "",
+    "lat": 38.8951,
+    "lon": -77.0364
+  },
+  {
+    "id": "ev-2010-arab-spring-bouazizi",
+    "title": "Self-Immolation of Mohamed Bouazizi",
+    "date": "2010-12-17",
+    "description": "Street vendor Mohamed Bouazizi sets himself on fire in Tunisia to protest police harassment, accidentally igniting the historic Arab Spring wave of uprisings across the Middle East and North Africa.",
+    "link": "",
+    "lat": 35.0403,
+    "lon": 9.4912
+  },
+  {
+    "id": "ev-2013-edward-snowden-leaks",
+    "title": "Edward Snowden NSA Disclosures Begin",
+    "date": "2013-06-06",
+    "description": "The Guardian and The Washington Post begin publishing top-secret NSA documents leaked by contractor Edward Snowden, exposing massive global surveillance programs and sparking intense debates on digital privacy.",
+    "link": "",
+    "lat": 38.8951,
+    "lon": -77.0364
+  },
+  {
+    "id": "ev-2015-paris-climate-agreement",
+    "title": "Adoption of the Paris Climate Agreement",
+    "date": "2015-12-12",
+    "description": "Nineteen nations at the UN Climate Change Conference in Paris adopt a legally binding international treaty on climate change aimed at limiting global warming well below 2 degrees Celsius.",
+    "link": "",
+    "lat": 48.8566,
+    "lon": 2.3522
+  },
+  {
+    "id": "ev-2019-covid-patient-zero",
+    "title": "First Confirmed Cases of SARS-CoV-2",
+    "date": "2019-12-01",
+    "description": "Medical professionals in Wuhan, China, trace the initial symptom onset of what would later be identified as the novel coronavirus causing the global COVID-19 pandemic.",
+    "link": "",
+    "lat": 30.5928,
+    "lon": 114.3055
+  },
+  {
+    "id": "ev-2021-taliban-kabul-takeover",
+    "title": "Taliban Recaptures Kabul",
+    "date": "2021-08-15",
+    "description": "Taliban fighters enter Kabul as the U.S.-backed government collapses, completing the rapid takeover of Afghanistan and prompting a chaotic international military evacuation from Hamid Karzai International Airport.",
+    "link": "",
+    "lat": 34.5553,
+    "lon": 69.2075
+  },
+  {
+    "id": "ev-2023-ai-boom-chatgpt-surge",
+    "title": "Generative AI Global Surge",
+    "date": "2023-01-01",
+    "description": "Advanced large language models and generative AI systems achieve mainstream enterprise and consumer adoption, triggering sweeping paradigm shifts across tech infrastructure, labor markets, and global policy.",
+    "link": "",
+    "lat": 37.4419,
+    "lon": -122.1430
+  },
+  {
+    "id": "ev-1914-archduke-ferdinand",
+    "title": "Assassination of Archduke Franz Ferdinand",
+    "date": "1914-06-28",
+    "description": "Gavrilo Princip assassinates Archduke Franz Ferdinand of Austria in Sarajevo, setting off the July Crisis and triggering the outbreak of World War I.",
+    "link": "",
+    "lat": 43.8563,
+    "lon": 18.4131
+  },
+  {
+    "id": "ev-1917-october-revolution",
+    "title": "The Bolshevik October Revolution",
+    "date": "1917-10-25",
+    "description": "Bolshevik forces led by Vladimir Lenin launch a coup in Petrograd, overthrowing the Russian Provisional Government and establishing the world's first socialist state.",
+    "link": "",
+    "lat": 59.9343,
+    "lon": 30.3351
+  },
+  {
+    "id": "ev-1929-wall-street-crash",
+    "title": "Wall Street Stock Market Crash",
+    "date": "1929-10-29",
+    "description": "Panic selling on the New York Stock Exchange collapses share prices on 'Black Tuesday', precipitating the worldwide Great Depression of the 1930s.",
+    "link": "",
+    "lat": 40.7074,
+    "lon": -74.0113
+  },
+  {
+    "id": "ev-1939-invasion-of-poland",
+    "title": "German Invasion of Poland",
+    "date": "1939-09-01",
+    "description": "Nazi Germany launches a blitzkrieg invasion of Poland, prompting Great Britain and France to declare war and officially igniting World War II in Europe.",
+    "link": "",
+    "lat": 52.2297,
+    "lon": 21.0122
+  },
+  {
+    "id": "ev-1941-pearl-harbor",
+    "title": "Attack on Pearl Harbor",
+    "date": "1941-12-07",
+    "description": "Imperial Japanese carrier-based aircraft launch a surprise military strike against the U.S. Pacific Fleet at Pearl Harbor, drawing the United States directly into World War II.",
+    "link": "",
+    "lat": 21.3649,
+    "lon": -157.9497
+  },
+  {
+    "id": "ev-1945-d-day-normandy",
+    "title": "Allied Landings at Normandy (D-Day)",
+    "date": "1944-06-06",
+    "description": "Western Allied forces execute a massive amphibious invasion across the English Channel onto the beaches of Normandy, opening the long-awaited Western Front in Europe.",
+    "link": "",
+    "lat": 49.3400,
+    "lon": -0.4700
+  },
+  {
+    "id": "ev-1945-hiroshima-bombing",
+    "title": "Atomic Bombing of Hiroshima",
+    "date": "1945-08-06",
+    "description": "The United States Army Air Forces drop an atomic bomb named 'Little Boy' on the city of Hiroshima, ushering humanity into the nuclear age.",
+    "link": "",
+    "lat": 34.3853,
+    "lon": 132.4553
+  },
+  {
+    "id": "ev-1953-dna-structure",
+    "title": "Discovery of the Structure of DNA",
+    "date": "1953-04-25",
+    "description": "James Watson and Francis Crick publish their landmark paper describing the double helix structure of DNA, revolutionizing modern molecular biology and genetics.",
+    "link": "",
+    "lat": 52.2053,
+    "lon": 0.1218
+  },
+  {
+    "id": "ev-1957-sputnik-launch",
+    "title": "Launch of Sputnik 1",
+    "date": "1957-10-04",
+    "description": "The Soviet Union successfully launches Sputnik 1, the world's first artificial satellite, sparking the space race and changing the technological landscape forever.",
+    "link": "",
+    "lat": 45.9650,
+    "lon": 63.3050
+  },
+  {
+    "id": "ev-1963-jfk-assassination",
+    "title": "Assassination of U.S. President John F. Kennedy",
+    "date": "1963-11-22",
+    "description": "President John F. Kennedy is fatally shot while riding in an open-top motorcade through Dealey Plaza in Dallas, Texas, sending profound shockwaves around the globe.",
+    "link": "",
+    "lat": 32.7781,
+    "lon": -96.8089
+  },
+  {
+    "id": "ev-1969-moon-landing",
+    "title": "Apollo 11 Moon Landing",
+    "date": "1969-07-20",
+    "description": "American astronauts Neil Armstrong and Buzz Aldrin land the Apollo Lunar Module Eagle on the lunar surface, marking humanity's first footsteps on another celestial body.",
+    "link": "",
+    "lat": 0.6740,
+    "lon": 23.4720
+  },
+  {
+    "id": "ev-1989-fall-of-berlin-wall",
+    "title": "Fall of the Berlin Wall",
+    "date": "1989-11-09",
+    "description": "Amid mass political protests and changing travel restrictions, East German citizens begin tearing down the Berlin Wall, paving the way for German reunification and the end of the Cold War.",
+    "link": "",
+    "lat": 52.5163,
+    "lon": 13.3777
+  },
+  {
+    "id": "ev-1991-soviet-union-dissolution",
+    "title": "Formal Dissolution of the Soviet Union",
+    "date": "1991-12-26",
+    "description": "The Supreme Soviet votes to formally dissolve the USSR, ending the superpower rivalry of the Cold War and breaking the territory into fifteen independent republics.",
+    "link": "",
+    "lat": 55.7558,
+    "lon": 37.6173
+  },
+  {
+    "id": "ev-2001-september-11-attacks",
+    "title": "September 11 Terrorist Attacks",
+    "date": "2001-09-11",
+    "description": "Al-Qaeda hijackers crash commercial airliners into the World Trade Center towers and the Pentagon, killing nearly 3,000 people and permanently reshaping global security policies.",
+    "link": "",
+    "lat": 40.7114,
+    "lon": -74.0134
+  },
+  {
+    "id": "ev-1916-battle-of-verdun",
+    "title": "The Battle of Verdun Begins",
+    "date": "1916-02-21",
+    "description": "German forces launch a massive offensive against French defensive lines at Verdun, igniting one of the longest, bloodiest, and most devastating battles of World War I.",
+    "link": "",
+    "lat": 49.1625,
+    "lon": 5.3833
+  },
+  {
+    "id": "ev-1916-battle-of-the-somme",
+    "title": "The Battle of the Somme",
+    "date": "1916-07-01",
+    "description": "British and French forces mount a joint offensive against the German Empire along the Somme River in France, marking one of the deadliest military engagements in history.",
+    "link": "",
+    "lat": 50.0497,
+    "lon": 2.7167
+  },
+  {
+    "id": "ev-1920-league-of-nations-first-assembly",
+    "title": "First General Assembly of the League of Nations",
+    "date": "1920-11-15",
+    "description": "Delegates from 41 nations gather in Geneva, Switzerland, for the inaugural meeting of the League of Nations Assembly, attempting to forge a new era of multilateral diplomacy.",
+    "link": "",
+    "lat": 46.2044,
+    "lon": 6.1432
+  },
+  {
+    "id": "ev-1927-lindbergh-atlantic-flight",
+    "title": "Charles Lindbergh's Transatlantic Flight",
+    "date": "1927-05-21",
+    "description": "American aviator Charles Lindbergh lands his monoplane 'Spirit of St. Louis' in Paris, completing the first solo nonstop transatlantic flight and transfixing the globe.",
+    "link": "",
+    "lat": 48.9692,
+    "lon": 2.4414
+  },
+  {
+    "id": "ev-1932-neutron-discovered",
+    "title": "Discovery of the Neutron",
+    "date": "1932-02-27",
+    "description": "British physicist James Chadwick publishes his experimental discovery of the neutron, unlocking a crucial key to nuclear physics and atomic energy research.",
+    "link": "",
+    "lat": 52.2053,
+    "lon": 0.1218
+  },
+  {
+    "id": "ev-1933-roosevelt-new-deal",
+    "title": "Franklin D. Roosevelt Inaugurated & New Deal Begins",
+    "date": "1933-03-04",
+    "description": "FDR takes office as U.S. President at the height of the Great Depression, immediately launching sweeping federal economic recovery programs known as the New Deal.",
+    "link": "",
+    "lat": 38.8951,
+    "lon": -77.0364
+  },
+  {
+    "id": "ev-1936-berlin-olympics",
+    "title": "Opening of the Berlin Olympic Games",
+    "date": "1936-08-01",
+    "description": "Nazi Germany hosts the Summer Olympics in Berlin, attempting to use the international sporting stage for totalitarian propaganda while athletes like Jesse Owens defy racial ideologies.",
+    "link": "",
+    "lat": 52.5200,
+    "lon": 13.4050
+  },
+  {
+    "id": "ev-1944-breton-woods-conference",
+    "title": "The Bretton Woods Conference",
+    "date": "1944-07-01",
+    "description": "Delegates from 44 Allied nations convene in Bretton Woods, New Hampshire, to establish the International Monetary Fund and World Bank, structuring post-war global finance.",
+    "link": "",
+    "lat": 44.2694,
+    "lon": -71.4589
+  },
+  {
+    "id": "ev-1945-yalta-conference",
+    "title": "The Yalta Conference",
+    "date": "1945-02-04",
+    "description": "Winston Churchill, Franklin D. Roosevelt, and Joseph Stalin meet at Yalta in the Crimea to plan the final defeat of Nazi Germany and reorganize post-war Europe.",
+    "link": "",
+    "lat": 44.4958,
+    "lon": 34.1667
+  },
+  {
+    "id": "ev-1949-people-republic-china",
+    "title": "Proclamation of the People's Republic of China",
+    "date": "1949-10-01",
+    "description": "Mao Zedong formally proclaims the establishment of the People's Republic of China in Beijing, concluding the Chinese Civil War and shifting the global balance of power.",
+    "link": "",
+    "lat": 39.9042,
+    "lon": 116.4074
+  },
+  {
+    "id": "ev-1953-mount-everest-climbed",
+    "title": "First Ascent of Mount Everest",
+    "date": "1953-05-29",
+    "description": "New Zealand mountaineer Edmund Hillary and Sherpa mountaineer Tenzing Norgay become the first climbers to successfully reach the summit of Mount Everest.",
+    "link": "",
+    "lat": 27.9881,
+    "lon": 86.9250
+  },
+  {
+    "id": "ev-1955-warsaw-pact",
+    "title": "Signing of the Warsaw Pact",
+    "date": "1955-05-14",
+    "description": "The Soviet Union and its Eastern European satellite states sign the Warsaw Pact in Poland, establishing a formal mutual defense alliance to counter NATO.",
+    "link": "",
+    "lat": 52.2297,
+    "lon": 21.0122
+  },
+  {
+    "id": "ev-1961-gagarin-spaceflight",
+    "title": "Yuri Gagarin Becomes First Man in Space",
+    "date": "1961-04-12",
+    "description": "Soviet cosmonaut Yuri Gagarin orbits Earth aboard Vostok 1, achieving a monumental milestone in human space exploration and intensifying the space race.",
+    "link": "",
+    "lat": 45.9650,
+    "lon": 63.3050
+  },
+  {
+    "id": "ev-1962-cuban-missile-crisis",
+    "title": "Peak of the Cuban Missile Crisis",
+    "date": "1962-10-24",
+    "description": "A tense 13-day confrontation between the United States and the Soviet Union reaches a boiling point over Soviet ballistic missiles deployed in Cuba, bringing the world to the brink of nuclear war.",
+    "link": "",
+    "lat": 23.1136,
+    "lon": -82.3666
+  },
+  {
+    "id": "ev-1967-first-heart-transplant",
+    "title": "World's First Human Heart Transplant",
+    "date": "1967-12-03",
+    "description": "South African cardiac surgeon Christiaan Barnard performs the first successful human heart transplant at Groote Schuur Hospital in Cape Town.",
+    "link": "",
+    "lat": -33.9405,
+    "lon": 18.4612
+  },
+  {
+    "id": "ev-1974-nixon-resignation",
+    "title": "Resignation of U.S. President Richard Nixon",
+    "date": "1974-08-09",
+    "description": "Facing almost certain impeachment and removal over the Watergate scandal, Richard Nixon becomes the first U.S. president to resign from office.",
+    "link": "",
+    "lat": 38.8951,
+    "lon": -77.0364
+  },
+  {
+    "id": "ev-1976-maos-death",
+    "title": "Death of Mao Zedong",
+    "date": "1976-09-09",
+    "description": "Mao Zedong, Chairman of the Chinese Communist Party, passes away in Beijing, marking the definitive close of a radical revolutionary era in Chinese history.",
+    "link": "",
+    "lat": 39.9042,
+    "lon": 116.4074
+  },
+  {
+    "id": "ev-1981-first-ibm-pc",
+    "title": "Release of the IBM Personal Computer",
+    "date": "1981-08-12",
+    "description": "IBM introduces its Personal Computer (Model 5150), standardizing the x86 hardware architecture and catalyzing the mass consumer personal computing revolution.",
+    "link": "",
+    "lat": 41.1171,
+    "lon": -73.7046
+  },
+  {
+    "id": "ev-1985-live-aid-concert",
+    "title": "Live Aid Benefit Concert",
+    "date": "1985-07-13",
+    "description": "Simultaneous massive rock concert events held in London and Philadelphia raise millions for Ethiopian famine relief while setting records for global satellite broadcasting.",
+    "link": "",
+    "lat": 51.5074,
+    "lon": -0.1278
+  },
+  {
+    "id": "ev-1986-chernobyl-disaster",
+    "title": "Chernobyl Nuclear Power Plant Accident",
+    "date": "1986-04-26",
+    "description": "A catastrophic steam explosion and open-core fire at the Chernobyl nuclear plant in Ukraine releases massive quantities of radioactive fallout across Europe.",
+    "link": "",
+    "lat": 51.3894,
+    "lon": 30.0994
+  },
+  {
+    "id": "ev-1990-hubble-telescope-launch",
+    "title": "Launch of the Hubble Space Telescope",
+    "date": "1990-04-24",
+    "description": "NASA deploys the Hubble Space Telescope into low Earth orbit via the Space Shuttle Discovery, revolutionizing observational astronomy and deep-space imaging.",
+    "link": "",
+    "lat": 28.3922,
+    "lon": -80.6077
+  },
+  {
+    "id": "ev-1994-first-post-apartheid-election",
+    "title": "First Fully Democratic South African Election",
+    "date": "1994-04-27",
+    "description": "South Africa holds its first multiracial general election under universal suffrage, sweeping Nelson Mandela and the African National Congress to power and officially ending apartheid.",
+    "link": "",
+    "lat": -25.7479,
+    "lon": 28.2293
+  },
+  {
+    "id": "ev-1997-dolly-sheep-announced",
+    "title": "Announcement of Dolly the Sheep Cloning",
+    "date": "1997-02-22",
+    "description": "Scientists in Scotland announce the successful cloning of Dolly the sheep from an adult somatic cell, sparking intense global bioethics and genetic research debates.",
+    "link": "",
+    "lat": 55.8533,
+    "lon": -3.1883
+  },
+  {
+    "id": "ev-2004-facebook-launch",
+    "title": "Launch of The Facebook",
+    "date": "2004-02-04",
+    "description": "Mark Zuckerberg and fellow Harvard students launch 'The Facebook', marking the genesis of the modern social media era and web platform consolidation.",
+    "link": "",
+    "lat": 42.3770,
+    "lon": -71.1167
+  },
+  {
+    "id": "ev-2007-iphone-release",
+    "title": "Release of the Original iPhone",
+    "date": "2007-06-29",
+    "description": "Apple releases the first-generation iPhone, popularizing multi-touch capacitive mobile computing and reshaping global communication, media consumption, and software design.",
+    "link": "",
+    "lat": 37.3318,
+    "lon": -122.0312
+  },
+  {
+    "id": "ev-2012-higgs-boson-discovered",
+    "title": "Discovery of the Higgs Boson Announced",
+    "date": "2012-07-04",
+    "description": "CERN scientists working with the Large Hadron Collider announce the discovery of the Higgs boson particle, validating the final major prediction of the Standard Model of particle physics.",
+    "link": "",
+    "lat": 46.2330,
+    "lon": 6.0557
+  },
+  {
+    "id": "ev-1914-panama-canal-opens",
+    "title": "Official Opening of the Panama Canal",
+    "date": "1914-08-15",
+    "description": "The cargo ship SS Ancon officially transits the Panama Canal, completing one of the greatest engineering feats in history and radically shortening global maritime transit routes.",
+    "link": "",
+    "lat": 9.0800,
+    "lon": -79.6800
+  },
+  {
+    "id": "ev-1922-king-tut-tomb",
+    "title": "Discovery of King Tutankhamun's Tomb",
+    "date": "1922-11-04",
+    "description": "British archaeologist Howard Carter and his crew discover the sealed entrance to Pharaoh Tutankhamun's virtually intact tomb in Egypt's Valley of the Kings.",
+    "link": "",
+    "lat": 25.7402,
+    "lon": 32.6014
+  },
+  {
+    "id": "ev-1928-penicillin-discovered",
+    "title": "Alexander Fleming Discovers Penicillin",
+    "date": "1928-09-28",
+    "description": "Scottish bacteriologist Alexander Fleming observes mold inhibiting bacterial growth in his London laboratory, accidentally discovering penicillin and launching the antibiotic revolution.",
+    "link": "",
+    "lat": 51.5171,
+    "lon": -0.1062
+  },
+  {
+    "id": "ev-1937-golden-gate-bridge",
+    "title": "Opening of the Golden Gate Bridge",
+    "date": "1937-05-27",
+    "description": "San Francisco's iconic Golden Gate Bridge opens to pedestrian traffic, establishing a world-famous suspension bridge masterpiece across the strait connecting San Francisco Bay to the Pacific Ocean.",
+    "link": "",
+    "lat": 37.8199,
+    "lon": -122.4783
+  },
+  {
+    "id": "ev-1941-attack-on-yugoslavia",
+    "title": "Axis Invasion of Yugoslavia",
+    "date": "1941-04-06",
+    "description": "Axis forces launch a devastating combined bombing campaign and invasion of the Kingdom of Yugoslavia, leading to its rapid partition and the rise of fierce partisan resistance movements.",
+    "link": "",
+    "lat": 44.7866,
+    "lon": 20.4489
+  },
+  {
+    "id": "ev-1943-warsaw-ghetto-uprising",
+    "title": "The Warsaw Ghetto Uprising Begins",
+    "date": "1943-04-19",
+    "description": "Underground Jewish fighters in the Warsaw Ghetto launch an armed revolt against Nazi troops attempting deportations to death camps, staging an inspiring act of defiance.",
+    "link": "",
+    "lat": 52.2496,
+    "lon": 20.9999
+  },
+  {
+    "id": "ev-1945-san-francisco-conference",
+    "title": "Opening of the United Nations Conference on International Organization",
+    "date": "1945-04-25",
+    "description": "Delegates from 50 nations convene in San Francisco to draft and finalize the United Nations Charter, laying the foundational framework for international governance.",
+    "link": "",
+    "lat": 37.7749,
+    "lon": -122.4194
+  },
+  {
+    "id": "ev-1949-council-of-europe",
+    "title": "Founding of the Council of Europe",
+    "date": "1949-05-05",
+    "description": "Ten European nations sign the Treaty of London in the Netherlands, establishing the Council of Europe to promote human rights, democracy, and the rule of law across the continent.",
+    "link": "",
+    "lat": 50.8503,
+    "lon": 4.3517
+  },
+  {
+    "id": "ev-1954-first-commercial-transistor-radio",
+    "title": "Release of the Regency TR-1 Transistor Radio",
+    "date": "1954-10-18",
+    "description": "The first commercially produced transistor radio hits the market, ushering in the portable electronics consumer boom made possible by solid-state physics.",
+    "link": "",
+    "lat": 41.8781,
+    "lon": -87.6298
+  },
+  {
+    "id": "ev-1958-nasa-established",
+    "title": "Establishment of NASA",
+    "date": "1958-10-01",
+    "description": "The National Aeronautics and Space Administration officially begins operations in the United States, centralizing civilian aeronautics and space exploration initiatives during the Cold War.",
+    "link": "",
+    "lat": 38.8951,
+    "lon": -77.0364
+  },
+  {
+    "id": "ev-1960-fda-approves-pill",
+    "title": "FDA Approves the First Oral Contraceptive Pill",
+    "date": "1960-05-09",
+    "description": "The U.S. Food and Drug Administration approves Enovid, the first commercially produced birth control pill, fundamentally transforming family planning and social structures worldwide.",
+    "link": "",
+    "lat": 42.3601,
+    "lon": -71.0589
+  },
+  {
+    "id": "ev-1965-spacewalk-leonov",
+    "title": "First Human Spacewalk",
+    "date": "1965-03-18",
+    "description": "Soviet cosmonaut Alexei Leonov exits the Voskhod 2 spacecraft to perform the world's first extravehicular activity (spacewalk), spending 12 minutes floating in open orbit.",
+    "link": "",
+    "lat": 55.7558,
+    "lon": 37.6173
+  },
+  {
+    "id": "ev-1969-arpanet-first-message",
+    "title": "First ARPANET Communication",
+    "date": "1969-10-29",
+    "description": "Computer scientists at UCLA successfully transmit the login message 'LO' to a terminal at Stanford Research Institute, marking the birth of packet-switching networks and the internet.",
+    "link": "",
+    "lat": 34.0689,
+    "lon": -118.4452
+  },
+  {
+    "id": "ev-1971-intel-4004",
+    "title": "Release of the Intel 4004 Microprocessor",
+    "date": "1971-11-15",
+    "description": "Intel publicly announces the release of the 4004, the world's first commercially available single-chip microprocessor, setting the stage for the microcomputer revolution.",
+    "link": "",
+    "lat": 37.3861,
+    "lon": -122.0839
+  },
+  {
+    "id": "ev-1977-voyager-1-launch",
+    "title": "Launch of Voyager 1 Spacecraft",
+    "date": "1977-09-05",
+    "description": "NASA launches the Voyager 1 probe on an epic journey to study the outer solar system and eventually become the farthest human-made object from Earth in interstellar space.",
+    "link": "",
+    "lat": 28.3922,
+    "lon": -80.6077
+  },
+  {
+    "id": "ev-1983-domain-name-system",
+    "title": "Implementation of the Domain Name System (DNS)",
+    "date": "1983-01-01",
+    "description": "ARPANET officially adopts the Domain Name System (DNS), translating numerical IP addresses into human-readable web addresses like .com, .org, and .edu.",
+    "link": "",
+    "lat": 38.8951,
+    "lon": -77.0364
+  },
+  {
+    "id": "ev-1989-world-wide-web-invented",
+    "title": "Tim Berners-Lee Proposes the World Wide Web",
+    "date": "1989-03-12",
+    "description": "British scientist Tim Berners-Lee submits his initial proposal for an information management system at CERN, giving birth to the World Wide Web architecture.",
+    "link": "",
+    "lat": 46.2330,
+    "lon": 6.0557
+  },
+  {
+    "id": "ev-1994-channel-tunnel-opens",
+    "title": "Official Opening of the Channel Tunnel",
+    "date": "1994-05-06",
+    "description": "Queen Elizabeth II and French President François Mitterrand officially inaugurate the Channel Tunnel, linking the United Kingdom and continental Europe via underwater rail.",
+    "link": "",
+    "lat": 50.9129,
+    "lon": 1.8447
+  },
+  {
+    "id": "ev-1998-google-founded",
+    "title": "Incorporation of Google",
+    "date": "1998-09-04",
+    "description": "Larry Page and Sergey Brin formally incorporate Google as a private company in California, laying the foundation for modern web search dominance and digital advertising infrastructure.",
+    "link": "",
+    "lat": 37.4419,
+    "lon": -122.1430
+  },
+  {
+    "id": "ev-2001-wikipedia-launched",
+    "title": "Launch of Wikipedia",
+    "date": "2001-01-15",
+    "description": "Jimmy Wales and Larry Sanger launch Wikipedia as a free, open-content collaborative online encyclopedia, permanently changing how humanity aggregates and accesses reference data.",
+    "link": "",
+    "lat": 39.0438,
+    "lon": -77.4874
+  },
+  {
+    "id": "ev-2008-spacex-falcon-1-success",
+    "title": "First Successful Orbital Launch by a Private Liquid-Fuel Rocket",
+    "date": "2008-09-28",
+    "description": "SpaceX successfully launches its Falcon 1 rocket into Earth orbit from the Omelek Island test site, marking a major turning point for private commercial spaceflight enterprise.",
+    "link": "",
+    "lat": 9.0478,
+    "lon": 167.7431
+  },
+  {
+    "id": "ev-2015-first-gravitational-waves",
+    "title": "First Observation of Gravitational Waves",
+    "date": "2015-09-14",
+    "description": "LIGO detectors pick up gravitational waves generated by the merger of two stellar-mass black holes, confirming a major prediction of Einstein's theory of general relativity.",
+    "link": "",
+    "lat": 30.5629,
+    "lon": -90.7742
+  },
+  {
+    "id": "ev-2021-james-webb-space-telescope",
+    "title": "Launch of the James Webb Space Telescope",
+    "date": "2021-12-25",
+    "description": "NASA successfully launches the James Webb Space Telescope aboard an Ariane 5 rocket from French Guiana, setting out to observe the earliest stars and galaxies in the universe.",
+    "link": "",
+    "lat": 5.2360,
+    "lon": -52.7680
+  },
+  {
+    "id": "ev-1915-general-relativity",
+    "title": "Einstein Publishes General Theory of Relativity",
+    "date": "1915-11-25",
+    "description": "Albert Einstein presents the field equations of general relativity to the Prussian Academy of Science, fundamentally revolutionizing our understanding of space, time, and gravity.",
+    "link": "",
+    "lat": 52.5200,
+    "lon": 13.4050
+  },
+  {
+    "id": "ev-1923-first-radio-broadcast",
+    "title": "First Regular Scheduled Radio Broadcasts in Europe",
+    "date": "1923-11-01",
+    "description": "Radio broadcasting begins regular public operations in Berlin, Germany, sparking a massive cultural and mass-media transformation across the continent.",
+    "link": "",
+    "lat": 52.5200,
+    "lon": 13.4050
+  },
+  {
+    "id": "ev-1930-pluto-discovered",
+    "title": "Discovery of Pluto",
+    "date": "1930-02-18",
+    "description": "American astronomer Clyde Tombaugh discovers Pluto at the Lowell Observatory in Arizona, expanding humanity's known boundaries of the solar system for decades.",
+    "link": "",
+    "lat": 35.2013,
+    "lon": -111.6570
+  },
+  {
+    "id": "ev-1937-hindenburg-disaster",
+    "title": "The Hindenburg Disaster",
+    "date": "1937-05-06",
+    "description": "The German passenger airship LZ 129 Hindenburg catches fire and is destroyed during its attempt to dock in New Jersey, abruptly ending the commercial airship travel era.",
+    "link": "",
+    "lat": 40.7357,
+    "lon": -74.1724
+  },
+  {
+    "id": "ev-1942-first-controlled-nuclear-reaction",
+    "title": "Chicago Pile-1 Achieves First Artificial Nuclear Chain Reaction",
+    "date": "1942-12-02",
+    "description": "A team led by Enrico Fermi initiates the world's first self-sustaining nuclear chain reaction at the University of Chicago, paving the way for the Manhattan Project and nuclear power.",
+    "link": "",
+    "lat": 41.7886,
+    "lon": -87.5987
+  },
+  {
+    "id": "ev-1944-bretton-woods-imf",
+    "title": "Establishment of the International Monetary Fund",
+    "date": "1944-12-27",
+    "description": "The Articles of Agreement for the International Monetary Fund (IMF) are signed by 29 nations, formalizing a new international monetary system.",
+    "link": "",
+    "lat": 38.8951,
+    "lon": -77.0364
+  },
+  {
+    "id": "ev-1948-transistor-invented",
+    "title": "Public Demonstration of the Transistor",
+    "date": "1948-06-30",
+    "description": "Bell Labs publicly demonstrates the bipolar transistor invented by John Bardeen, Walter Brattain, and William Shockley, laying the cornerstone for all modern microelectronics.",
+    "link": "",
+    "lat": 40.6975,
+    "lon": -74.3792
+  },
+  {
+    "id": "ev-1951-first-commercial-computer",
+    "title": "Delivery of the First UNIVAC I Computer",
+    "date": "1951-03-31",
+    "description": "Remington Rand delivers the first UNIVAC I computer to the U.S. Census Bureau, marking the transition of computing technology from military labs to commercial data processing.",
+    "link": "",
+    "lat": 38.8951,
+    "lon": -77.0364
+  },
+  {
+    "id": "ev-1957-treaty-of-rome",
+    "title": "Signing of the Treaty of Rome",
+    "date": "1957-03-25",
+    "description": "Six European nations sign the Treaty of Rome, establishing the European Economic Community (EEC) and the European Atomic Energy Community, advancing European integration.",
+    "link": "",
+    "lat": 41.9028,
+    "lon": 12.4964
+  },
+  {
+    "id": "ev-1960-first-laser-operated",
+    "title": "First Successful Operation of a Laser",
+    "date": "1960-05-16",
+    "description": "Physicist Theodore Maiman operates the first functioning laser using a synthetic ruby crystal at Hughes Research Laboratories in California.",
+    "link": "",
+    "lat": 34.0195,
+    "lon": -118.4912
+  },
+  {
+    "id": "ev-1965-first-commercial-communications-satellite",
+    "title": "Launch of Early Bird (Intelsat I)",
+    "date": "1965-04-06",
+    "description": "The world's first commercial communications satellite, Early Bird, is launched into geostationary orbit, enabling direct television and telecommunications transits between North America and Europe.",
+    "link": "",
+    "lat": 28.3922,
+    "lon": -80.6077
+  },
+  {
+    "id": "ev-1967-first-atm-installed",
+    "title": "First Automated Teller Machine Installed",
+    "date": "1967-06-27",
+    "description": "Barclays Bank installs the world's first cash dispenser (ATM) at its Enfield branch in north London, engineered by John Shepherd-Barron.",
+    "link": "",
+    "lat": 51.6538,
+    "lon": -0.0799
+  },
+  {
+    "id": "ev-1973-first-mobile-phone-call",
+    "title": "First Public Mobile Phone Call",
+    "date": "1973-04-03",
+    "description": "Motorola engineer Martin Cooper places a public cellular telephone call to rival researchers at Bell Labs while walking down a New York street, pioneering handheld mobile tech.",
+    "link": "",
+    "lat": 40.7614,
+    "lon": -73.9776
+  },
+  {
+    "id": "ev-1979-smallpox-eradicated",
+    "title": "Global Eradication of Smallpox Certified",
+    "date": "1979-12-09",
+    "description": "A global commission of scientists formally certifies the eradication of smallpox, marking one of the greatest triumphs in medical history and international public health cooperation.",
+    "link": "",
+    "lat": 46.2044,
+    "lon": 6.1432
+  },
+  {
+    "id": "ev-1982-compact-disc-released",
+    "title": "First Commercial Audio Compact Discs Released",
+    "date": "1982-10-01",
+    "description": "Philips and Sony release the first commercial music compact discs and players in Japan, initiating the transition from analog vinyl to digital optical audio formats.",
+    "link": "",
+    "lat": 35.6762,
+    "lon": 139.6503
+  },
+  {
+    "id": "ev-1985-windows-1-released",
+    "title": "Microsoft Releases Windows 1.0",
+    "date": "1985-11-20",
+    "description": "Microsoft ships the initial release of Windows 1.0, introducing a graphical multi-tasking operating environment to MS-DOS personal computers.",
+    "link": "",
+    "lat": 47.6062,
+    "lon": -122.3321
+  },
+  {
+    "id": "ev-1990-chunnel-breakthrough",
+    "title": "Channel Tunnel Service Tunnel Breakthrough",
+    "date": "1990-10-30",
+    "description": "British and French tunneling crews drill through the final rock barrier of the Channel Tunnel service tunnel, physically connecting the UK mainland to Europe for the first time since the Ice Age.",
+    "link": "",
+    "lat": 50.9129,
+    "lon": 1.8447
+  },
+  {
+    "id": "ev-1993-launch-of-pentium",
+    "title": "Intel Introduces the Pentium Processor",
+    "date": "1993-03-22",
+    "description": "Intel launches its P5-based Pentium processor line, scaling x86 compute architectures to unprecedented desktop performance levels through the 1990s.",
+    "link": "",
+    "lat": 37.3861,
+    "lon": -122.0839
+  },
+  {
+    "id": "ev-1996-deep-blue-kasparov",
+    "title": "Deep Blue Defeats Garry Kasparov in Chess Match",
+    "date": "1996-02-10",
+    "description": "IBM's Deep Blue chess computer defeats reigning world champion Garry Kasparov in the first game of a historic match, marking a watershed moment in artificial intelligence research.",
+    "link": "",
+    "lat": 39.2904,
+    "lon": -76.6122
+  },
+  {
+    "id": "ev-1998-iss-first-module",
+    "title": "Launch of Zarya Module (First ISS Component)",
+    "date": "1998-11-20",
+    "description": "A Proton-K rocket launches Zarya, the first component of the International Space Station, from the Baikonur Cosmodrome in Kazakhstan.",
+    "link": "",
+    "lat": 45.9650,
+    "lon": 63.3050
+  },
+  {
+    "id": "ev-2004-mars-rover-spirit",
+    "title": "NASA's Spirit Rover Lands on Mars",
+    "date": "2004-01-04",
+    "description": "NASA's Mars Exploration Rover Spirit successfully touches down inside Gusev Crater on Mars, beginning a long-running robotic geological survey of the Red Planet.",
+    "link": "",
+    "lat": -14.5684,
+    "lon": 175.4726
+  },
+  {
+    "id": "ev-2012-curiosity-rover-landing",
+    "title": "NASA's Curiosity Rover Lands on Mars",
+    "date": "2012-08-06",
+    "description": "NASA successfully lands the massive Curiosity rover inside Gale Crater using an innovative sky crane maneuver, beginning surface exploration to assess Martian habitability.",
+    "link": "",
+    "lat": -4.5895,
+    "lon": 137.4417
+  },
+  {
+    "id": "ev-1914-battle-of-the-marne",
+    "title": "The First Battle of the Marne",
+    "date": "1914-09-06",
+    "description": "Allied forces halt the German advance toward Paris on the Marne River, leading to the establishment of the Western Front trench stalemate.",
+    "link": "",
+    "lat": 49.0000,
+    "lon": 3.0000
+  },
+  {
+    "id": "ev-1917-balfour-declaration",
+    "title": "Issuance of the Balfour Declaration",
+    "date": "1917-11-02",
+    "description": "The British government issues a public letter expressing support for the establishment of a 'national home for the Jewish people' in Palestine.",
+    "link": "",
+    "lat": 51.5074,
+    "lon": -0.1278
+  },
+  {
+    "id": "ev-1921-insulin-discovered",
+    "title": "Isolation of Insulin Announced",
+    "date": "1921-11-14",
+    "description": "Frederick Banting and Charles Best successfully isolate insulin at the University of Toronto, transforming diabetes from a fatal diagnosis into a manageable condition.",
+    "link": "",
+    "lat": 43.6629,
+    "lon": -79.3957
+  },
+  {
+    "id": "ev-1925-first-tv-transmission",
+    "title": "First Public Demonstration of Working Television",
+    "date": "1925-10-02",
+    "description": "Scottish inventor John Logie Baird gives the first public demonstration of televised moving images with tonal gradations in his London laboratory.",
+    "link": "",
+    "lat": 51.5122,
+    "lon": -0.1332
+  },
+  {
+    "id": "ev-1935-first-radar-system",
+    "title": "First Demonstration of Operational Radar",
+    "date": "1935-02-26",
+    "description": "Robert Watson-Watt successfully demonstrates the detection of an aircraft via radio wave reflection in England, giving birth to practical radar defense networks.",
+    "link": "",
+    "lat": 52.4144,
+    "lon": -1.1348
+  },
+  {
+    "id": "ev-1938-nuclear-fission-discovered",
+    "title": "Discovery of Nuclear Fission",
+    "date": "1938-12-19",
+    "description": "Otto Hahn and Fritz Strassmann discover the nuclear fission of uranium in Berlin, chemically proving that heavy atomic nuclei can be split apart.",
+    "link": "",
+    "lat": 52.4536,
+    "lon": 13.2985
+  },
+  {
+    "id": "ev-1941-lend-lease-act",
+    "title": "Enactment of the Lend-Lease Act",
+    "date": "1941-03-11",
+    "description": "U.S. President Franklin D. Roosevelt signs the Lend-Lease Act into law, allowing the United States to supply Allied nations with war materiel while maintaining official neutrality.",
+    "link": "",
+    "lat": 38.8951,
+    "lon": -77.0364
+  },
+  {
+    "id": "ev-1944-monte-cassino-bombing",
+    "title": "Bombing of Monte Cassino Abbey",
+    "date": "1944-02-15",
+    "description": "American heavy bombers drop hundreds of tons of explosives on the historic Benedictine abbey atop Monte Cassino during fierce Italian campaign fighting.",
+    "link": "",
+    "lat": 41.4908,
+    "lon": 13.8153
+  },
+  {
+    "id": "ev-1945-united-nations-charter",
+    "title": "Signing of the United Nations Charter",
+    "date": "1945-06-26",
+    "description": "Delegates sign the foundational Charter of the United Nations in San Francisco, officially establishing the international organization dedicated to global peace and security.",
+    "link": "",
+    "lat": 37.7749,
+    "lon": -122.4194
+  },
+  {
+    "id": "ev-1948-state-of-israel-proclaimed",
+    "title": "Proclamation of the State of Israel",
+    "date": "1948-05-14",
+    "description": "David Ben-Gurion publicly proclaims the establishment of the State of Israel in Tel Aviv, immediately triggering the 1948 Arab-Israeli War.",
+    "link": "",
+    "lat": 32.0853,
+    "lon": 34.7818
+  },
+  {
+    "id": "ev-1952-first-hydrogen-bomb-test",
+    "title": "Ivy Mike Hydrogen Bomb Test",
+    "date": "1952-11-01",
+    "description": "The United States detonates the world's first full-scale thermonuclear hydrogen bomb on Enewetak Atoll in the Pacific, obliterating an island and escalating the arms race.",
+    "link": "",
+    "lat": 11.5583,
+    "lon": 162.3583
+  },
+  {
+    "id": "ev-1956-suez-crisis",
+    "title": "Outbreak of the Suez Crisis",
+    "date": "1956-10-29",
+    "description": "Israeli forces invade Egypt's Sinai Peninsula, quickly followed by British and French military intervention to seize control of the recently nationalized Suez Canal.",
+    "link": "",
+    "lat": 30.5852,
+    "lon": 32.2654
+  },
+  {
+    "id": "ev-1961-berlin-wall-construction",
+    "title": "Construction of the Berlin Wall Begins",
+    "date": "1961-08-13",
+    "description": "East German authorities begin sealing off West Berlin with barbed wire and concrete barriers, physically dividing the city for nearly three decades.",
+    "link": "",
+    "lat": 52.5163,
+    "lon": 13.3777
+  },
+  {
+    "id": "ev-1963-march-on-washington",
+    "title": "The March on Washington",
+    "date": "1963-08-28",
+    "description": "Over 250,000 demonstrators gather in Washington, D.C., where Martin Luther King Jr. delivers his historic 'I Have a Dream' speech at the Lincoln Memorial.",
+    "link": "",
+    "lat": 38.8893,
+    "lon": -77.0502
+  },
+  {
+    "id": "ev-1968-tet-offensive",
+    "title": "Launch of the Tet Offensive",
+    "date": "1968-01-30",
+    "description": "Viet Cong and North Vietnamese forces launch a massive coordinated surprise offensive against military and civilian command centers across South Vietnam.",
+    "link": "",
+    "lat": 16.0544,
+    "lon": 108.2022
+  },
+  {
+    "id": "ev-1972-munich-olympics-massacre",
+    "title": "Munich Olympic Games Massacre",
+    "date": "1972-09-05",
+    "description": "Palestinian terrorists take Israeli Olympic team members hostage inside the Olympic Village in Munich, resulting in a tragic botched rescue attempt.",
+    "link": "",
+    "lat": 48.1770,
+    "lon": 11.5550
+  },
+  {
+    "id": "ev-1979-iranian-revolution",
+    "title": "Return of Ayatollah Khomeini to Iran",
+    "date": "1979-02-01",
+    "description": "Ayatollah Ruhollah Khomeini returns to Tehran from exile, cementing the Islamic Revolution and transforming Iran into a theocratic republic.",
+    "link": "",
+    "lat": 35.6892,
+    "lon": 51.3890
+  },
+  {
+    "id": "ev-1981-first-space-shuttle-flight",
+    "title": "Launch of Space Shuttle Columbia (STS-1)",
+    "date": "1981-04-12",
+    "description": "NASA launches Space Shuttle Columbia on its maiden orbital flight, pioneering the era of reusable winged spacecraft technology.",
+    "link": "",
+    "lat": 28.3922,
+    "lon": -80.6077
+  },
+  {
+    "id": "ev-1987-black-monday",
+    "title": "Black Monday Stock Market Crash",
+    "date": "1987-10-19",
+    "description": "Stock markets around the world crash dramatically, with the Dow Jones Industrial Average suffering its largest single-day percentage drop in history up to that time.",
+    "link": "",
+    "lat": 40.7074,
+    "lon": -74.0113
+  },
+  {
+    "id": "ev-1991-operation-desert-storm",
+    "title": "Launch of Operation Desert Storm",
+    "date": "1991-01-17",
+    "description": "A U.S.-led coalition launches a massive air campaign against Iraqi forces, initiating the military liberation of Kuwait during the Gulf War.",
+    "link": "",
+    "lat": 29.3759,
+    "lon": 47.9774
+  },
+  {
+    "id": "ev-1995-oklahoma-city-bombing",
+    "title": "Oklahoma City Federal Building Bombing",
+    "date": "1995-04-19",
+    "description": "Domestic terrorists detonate a truck bomb outside the Alfred P. Murrah Federal Building in Oklahoma City, killing 168 people in the deadliest act of domestic terrorism in U.S. history.",
+    "link": "",
+    "lat": 35.4722,
+    "lon": -97.5151
+  },
+  {
+    "id": "ev-1999-euro-currency-introduced",
+    "title": "Introduction of the Euro Currency",
+    "date": "1999-01-01",
+    "description": "Eleven European Union member states officially introduce the euro as an accounting currency, uniting their financial systems ahead of physical coin and banknote rollouts.",
+    "link": "",
+    "lat": 50.8503,
+    "lon": 4.3517
+  },
+  {
+    "id": "ev-2003-invasion-of-iraq",
+    "title": "U.S.-Led Invasion of Iraq Begins",
+    "date": "2003-03-20",
+    "description": "United States and coalition forces launch a military invasion of Iraq under the stated rationale of disarming weapons of mass destruction, toppling Saddam Hussein's government.",
+    "link": "",
+    "lat": 33.3152,
+    "lon": 44.3661
+  },
+  {
+    "id": "ev-2010-deepwater-horizon-explosion",
+    "title": "Deepwater Horizon Oil Spill Begins",
+    "date": "2010-04-20",
+    "description": "An explosion on the Deepwater Horizon offshore drilling rig in the Gulf of Mexico causes a massive blowout, resulting in the largest marine oil spill in history.",
+    "link": "",
+    "lat": 28.7383,
+    "lon": -88.3656
+  },
+  {
+    "id": "ev-2016-brexit-referendum",
+    "title": "UK European Union Membership Referendum",
+    "date": "2016-06-23",
+    "description": "British voters narrowly choose to leave the European Union in a historic referendum, setting off years of complex political negotiations and constitutional shifts.",
+    "link": "",
+    "lat": 51.5074,
+    "lon": -0.1278
+  },
+  {
+    "id": "ev-1914-opening-of-cape-cod-canal",
+    "title": "Official Opening of the Cape Cod Canal",
+    "date": "1914-07-29",
+    "description": "The Cape Cod Canal officially opens to commercial navigation, significantly reducing transit time and hazardous maritime travel around Cape Cod, Massachusetts.",
+    "link": "",
+    "lat": 41.7456,
+    "lon": -70.5328
+  },
+  {
+    "id": "ev-1919-treaty-of-versailles",
+    "title": "Signing of the Treaty of Versailles",
+    "date": "1919-06-28",
+    "description": "Germany and the Allied Powers sign the Treaty of Versailles in the Hall of Mirrors, formally ending World War I and imposing heavy reparations on Germany.",
+    "link": "",
+    "lat": 48.8049,
+    "lon": 2.1204
+  },
+  {
+    "id": "ev-1923-great-kanto-earthquake",
+    "title": "The Great Kantō Earthquake",
+    "date": "1923-09-01",
+    "description": "A massive magnitude 7.9 earthquake devastates Tokyo, Yokohama, and surrounding regions, resulting in catastrophic fires and over 100,000 fatalities.",
+    "link": "",
+    "lat": 35.6762,
+    "lon": 139.6503
+  },
+  {
+    "id": "ev-1928-discovering-sliced-bread",
+    "title": "First Sale of Machine-Sliced Commercial Bread",
+    "date": "1928-07-07",
+    "description": "The Chillicothe Baking Company in Missouri sells the first commercially produced sliced bread using Otto Frederick Rohwedder's revolutionary bread-slicing machine.",
+    "link": "",
+    "lat": 39.3309,
+    "lon": -93.5501
+  },
+  {
+    "id": "ev-1933-hitler-appointed-chancellor",
+    "title": "Adolf Hitler Appointed Chancellor of Germany",
+    "date": "1933-01-30",
+    "description": "President Paul von Hindenburg appoints Adolf Hitler as Chancellor of Germany, marking the catastrophic collapse of the Weimar Republic and the rise of the Nazi regime.",
+    "link": "",
+    "lat": 52.5200,
+    "lon": 13.4050
+  },
+  {
+    "id": "ev-1938-crystal-night",
+    "title": "Kristallnacht Pogrom Against German Jews",
+    "date": "1938-11-09",
+    "description": "Paramilitary forces and civilians orchestrate a violent nationwide pogrom across Nazi Germany, destroying synagogues, Jewish homes, and businesses.",
+    "link": "",
+    "lat": 50.1109,
+    "lon": 8.6821
+  },
+  {
+    "id": "ev-1941-battle-of-moscow",
+    "title": "Soviet Counteroffensive at the Battle of Moscow",
+    "date": "1941-12-05",
+    "description": "The Red Army launches a massive counter-offensive against invading German forces outside Moscow, halting Operation Barbarossa's initial blitzkrieg drive.",
+    "link": "",
+    "lat": 55.7558,
+    "lon": 37.6173
+  },
+  {
+    "id": "ev-1945-liberation-of-auschwitz",
+    "title": "Soviet Forces Liberate Auschwitz Concentration Camp",
+    "date": "1945-01-27",
+    "description": "Red Army troops enter the Auschwitz-Birkenau extermination camp complex in occupied Poland, exposing the industrial scale of the Nazi Holocaust to the world.",
+    "link": "",
+    "lat": 50.0350,
+    "lon": 19.2042
+  },
+  {
+    "id": "ev-1946-united-nations-first-general-assembly",
+    "title": "First General Assembly of the United Nations",
+    "date": "1946-01-10",
+    "description": "Delegates from 51 nations convene in London for the inaugural meeting of the United Nations General Assembly, marking a new chapter in international diplomacy.",
+    "link": "",
+    "lat": 51.5074,
+    "lon": -0.1278
+  },
+  {
+    "id": "ev-1949-federal-republic-of-germany-established",
+    "title": "Establishment of West Germany",
+    "date": "1949-05-23",
+    "description": "The Basic Law is promulgated, formally establishing the Federal Republic of Germany (West Germany) and cementing the political division of post-war Europe.",
+    "link": "",
+    "lat": 50.7374,
+    "lon": 7.0982
+  },
+  {
+    "id": "ev-1953-armistice-in-korean-war",
+    "title": "Signing of the Korean Armistice Agreement",
+    "date": "1953-07-27",
+    "description": "Military commanders sign an armistice ending active armed conflict in the Korean War, establishing the heavily fortified Korean Demilitarized Zone (DMZ).",
+    "link": "",
+    "lat": 37.9577,
+    "lon": 126.6775
+  },
+  {
+    "id": "ev-1957-malayan-independence",
+    "title": "Independence of the Federation of Malaya",
+    "date": "1957-08-31",
+    "description": "Tunku Abdul Rahman proclaims the independence of the Federation of Malaya from British colonial rule, laying the foundation for modern Malaysia.",
+    "link": "",
+    "lat": 3.1390,
+    "lon": 101.6869
+  },
+  {
+    "id": "ev-1961-bay-of-pigs-invasion",
+    "title": "The Bay of Pigs Invasion",
+    "date": "1961-04-17",
+    "description": "A CIA-sponsored paramilitary force of Cuban exiles launches an ill-fated amphibious invasion of southwestern Cuba at the Bay of Pigs, attempting to overthrow Fidel Castro.",
+    "link": "",
+    "lat": 22.2333,
+    "lon": -81.0833
+  },
+  {
+    "id": "ev-1963-nuclear-test-ban-treaty",
+    "title": "Signing of the Partial Nuclear Test Ban Treaty",
+    "date": "1963-08-05",
+    "description": "Representatives from the United States, the Soviet Union, and Great Britain sign a treaty prohibiting nuclear weapons tests in the atmosphere, in outer space, and underwater.",
+    "link": "",
+    "lat": 38.8951,
+    "lon": -77.0364
+  },
+  {
+    "id": "ev-1968-mlk-assassination-aftermath",
+    "title": "Passage of the U.S. Civil Rights Act of 1968 (Fair Housing Act)",
+    "date": "1968-04-11",
+    "description": "President Lyndon B. Johnson signs the Civil Rights Act of 1968 into law, prohibiting housing discrimination based on race, religion, national origin, or sex.",
+    "link": "",
+    "lat": 38.8951,
+    "lon": -77.0364
+  },
+  {
+    "id": "ev-1973-paris-peace-accords",
+    "title": "Signing of the Paris Peace Accords",
+    "date": "1973-01-27",
+    "description": "The United States, South Vietnam, Viet Cong, and North Vietnam sign peace accords in Paris intended to establish an official end to direct U.S. military involvement in the Vietnam War.",
+    "link": "",
+    "lat": 48.8566,
+    "lon": 2.3522
+  },
+  {
+    "id": "ev-1979-three-mile-island-accident",
+    "title": "Three Mile Island Nuclear Accident",
+    "date": "1979-03-28",
+    "description": "A partial meltdown occurs in reactor number 2 of the Three Mile Island nuclear generating station in Pennsylvania, transforming American public safety policy and nuclear energy oversight.",
+    "link": "",
+    "lat": 40.1539,
+    "lon": -76.7222
+  },
+  {
+    "id": "ev-1981-first-case-of-hiv-aids-reported",
+    "title": "CDC Publishes First Official Report on AIDS",
+    "date": "1981-06-05",
+    "description": "The U.S. Centers for Disease Control and Prevention publishes a mortality report detailing rare pneumonia cases among young gay men in Los Angeles, marking the epidemiological dawn of the HIV/AIDS epidemic.",
+    "link": "",
+    "lat": 34.0522,
+    "lon": -118.2437
+  },
+  {
+    "id": "ev-1987-montreal-protocol-signed",
+    "title": "Signing of the Montreal Protocol",
+    "date": "1987-09-16",
+    "description": "Nations sign the landmark Montreal Protocol on Substances that Deplete the Ozone Layer, initiating a global phase-out of harmful chlorofluorocarbons (CFCs).",
+    "link": "",
+    "lat": 45.5017,
+    "lon": -73.5673
+  },
+  {
+    "id": "ev-1991-world-wide-web-public",
+    "title": "World Wide Web Openly Released to the Public",
+    "date": "1991-08-06",
+    "description": "Tim Berners-Lee publishes files summarizing his World Wide Web project on internet newsgroups, officially opening public access to hyperlinked global information sharing.",
+    "link": "",
+    "lat": 46.2330,
+    "lon": 6.0557
+  },
+  {
+    "id": "ev-1995-world-trade-organization-founded",
+    "title": "Establishment of the World Trade Organization",
+    "date": "1995-01-01",
+    "description": "The World Trade Organization officially commences operations following the Marrakesh Agreement, replacing GATT and providing a institutional framework for global trade regulation.",
+    "link": "",
+    "lat": 46.2044,
+    "lon": 6.1432
+  },
+  {
+    "id": "ev-1999-creation-of-nunavut",
+    "title": "Official Creation of Nunavut Territory",
+    "date": "1999-04-01",
+    "description": "Nunavut officially separates from Canada's Northwest Territories as a distinct autonomous territory, marking the largest Indigenous land claim settlement in Canadian history.",
+    "link": "",
+    "lat": 63.7467,
+    "lon": -68.5170
+  },
+  {
+    "id": "ev-2003-human-genome-project-completed",
+    "title": "Human Genome Project Declared Complete",
+    "date": "2003-04-14",
+    "description": "International consortiums announce the successful completion of the Human Genome Project with 99.99% sequencing accuracy, mapping the entire human genetic blueprint.",
+    "link": "",
+    "lat": 38.9517,
+    "lon": -77.1004
+  },
+  {
+    "id": "ev-2010-eruption-of-eyjafjallajokull",
+    "title": "Eyjafjallajökull Volcanic Eruption",
+    "date": "2010-04-14",
+    "description": "A volcanic eruption beneath Iceland's Eyjafjallajökull ice cap sends massive ash plumes into the atmosphere, causing the largest transatlantic airspace shutdown since World War II.",
+    "link": "",
+    "lat": 63.6333,
+    "lon": -19.6167
+  },
+  {
+    "id": "ev-2016-historic-alphago-victory",
+    "title": "AlphaGo Defeats Lee Sedol in Go Match",
+    "date": "2016-03-09",
+    "description": "DeepMind's artificial intelligence program AlphaGo defeats 18-time world Go champion Lee Sedol in Seoul, marking a historic breakthrough in machine learning and complex strategy.",
+    "link": "",
+    "lat": 37.5665,
+    "lon": 126.9780
+  },
+  {
+    "id": "ev-1920-league-of-nations-first-assembly",
+    "title": "First General Assembly of the League of Nations",
+    "date": "1920-11-15",
+    "description": "The League of Nations holds its inaugural general assembly in Geneva, Switzerland, marking the first international organization dedicated to maintaining world peace.",
+    "link": "",
+    "lat": 46.2044,
+    "lon": 6.1432
+  },
+  {
+    "id": "ev-1922-discovery-tutankhamun-tomb",
+    "title": "Howard Carter Discovers Tutankhamun's Tomb",
+    "date": "1922-11-04",
+    "description": "British archaeologist Howard Carter discovers the nearly intact tomb of the 18th-dynasty Pharaoh Tutankhamun in Egypt's Valley of the Kings.",
+    "link": "",
+    "lat": 25.7402,
+    "lon": 32.6014
+  },
+  {
+    "id": "ev-1927-lindbergh-transatlantic-flight",
+    "title": "Charles Lindbergh Completes First Solo Transatlantic Flight",
+    "date": "1927-05-21",
+    "description": "American aviator Charles Lindbergh lands his Spirit of St. Louis in Paris, completing the first solo non-stop transatlantic airplane flight.",
+    "link": "",
+    "lat": 48.9692,
+    "lon": 2.4414
+  },
+  {
+    "id": "ev-1928-discovery-of-penicillin",
+    "title": "Alexander Fleming Discovers Penicillin",
+    "date": "1928-09-28",
+    "description": "Scottish physician Alexander Fleming discovers penicillin produced by the Penicillium notatum mold at St. Mary's Hospital in London, ushering in the antibiotic era.",
+    "link": "",
+    "lat": 51.5173,
+    "lon": -0.1741
+  },
+  {
+    "id": "ev-1932-discovery-of-neutron",
+    "title": "James Chadwick Discovers the Neutron",
+    "date": "1932-02-27",
+    "description": "English physicist James Chadwick publishes evidence of the neutron, a subatomic particle without an electric charge, fundamentally advancing nuclear physics.",
+    "link": "",
+    "lat": 52.2053,
+    "lon": 0.1218
+  },
+  {
+    "id": "ev-1936-berlin-olympics",
+    "title": "Opening of the 1936 Summer Olympics",
+    "date": "1936-08-01",
+    "description": "The Olympic Games open in Berlin under Nazi regime propaganda displays, famously marked by American athlete Jesse Owens winning four gold medals.",
+    "link": "",
+    "lat": 52.5145,
+    "lon": 13.2397
+  },
+  {
+    "id": "ev-1940-battle-of-britain",
+    "title": "Outbreak of the Battle of Britain",
+    "date": "1940-07-10",
+    "description": "The German Luftwaffe initiates a sustained strategic bombing campaign against the United Kingdom, met by the Royal Air Force in history's first major all-air military campaign.",
+    "link": "",
+    "lat": 51.5074,
+    "lon": -0.1278
+  },
+  {
+    "id": "ev-1947-india-independence",
+    "title": "Indian Independence and Partition",
+    "date": "1947-08-15",
+    "description": "India achieves independence from British colonial rule, accompanied by the historic and tumultuous partition of the subcontinent into India and Pakistan.",
+    "link": "",
+    "lat": 28.6139,
+    "lon": 77.2090
+  },
+  {
+    "id": "ev-1950-outbreak-korean-war",
+    "title": "North Korean Forces Cross the 38th Parallel",
+    "date": "1950-06-25",
+    "description": "North Korean troops cross the 38th parallel into South Korea, triggering the outbreak of the Korean War and immediate United Nations intervention.",
+    "link": "",
+    "lat": 37.5665,
+    "lon": 126.9780
+  },
+  {
+    "id": "ev-1953-everest-conquered",
+    "title": "First Successful Ascent of Mount Everest",
+    "date": "1953-05-29",
+    "description": "New Zealand mountaineer Edmund Hillary and Sherpa mountaineer Tenzing Norgay become the first climbers to reach the summit of Mount Everest.",
+    "link": "",
+    "lat": 27.9881,
+    "lon": 86.9250
+  },
+  {
+    "id": "ev-1955-montgomery-bus-boycott",
+    "title": "Rosa Parks Arrest Sparks Montgomery Bus Boycott",
+    "date": "1955-12-05",
+    "description": "Following the arrest of Rosa Parks for refusing to yield her bus seat, the Montgomery bus boycott begins, serving as a foundational catalyst for the U.S. Civil Rights Movement.",
+    "link": "",
+    "lat": 32.3668,
+    "lon": -86.2999
+  },
+  {
+    "id": "ev-1959-st-lawrence-seaway",
+    "title": "Official Opening of the St. Lawrence Seaway",
+    "date": "1959-06-26",
+    "description": "Queen Elizabeth II and U.S. President Dwight D. Eisenhower officially open the St. Lawrence Seaway, connecting the Great Lakes to the Atlantic Ocean for deep-draft ocean vessels.",
+    "link": "",
+    "lat": 45.0000,
+    "lon": -74.9000
+  },
+  {
+    "id": "ev-1962-cuban-missile-crisis",
+    "title": "Peak of the Cuban Missile Crisis",
+    "date": "1962-10-24",
+    "description": "A 13-day confrontation between the United States and the Soviet Union reaches a critical zenith over Soviet ballistic missile deployments in Cuba.",
+    "link": "",
+    "lat": 23.1136,
+    "lon": -82.3666
+  },
+  {
+    "id": "ev-1969-apollo-11-moon-landing",
+    "title": "Apollo 11 Lunar Module Lands on the Moon",
+    "date": "1969-07-20",
+    "description": "NASA astronauts Neil Armstrong and Buzz Aldrin land the Apollo 11 Lunar Module Eagle on the lunar surface, with Armstrong taking humanity's first steps onto another world.",
+    "link": "",
+    "lat": 0.6740,
+    "lon": 23.4720
+  },
+  {
+    "id": "ev-1974-nixon-resignation",
+    "title": "U.S. President Richard Nixon Resigns",
+    "date": "1974-08-09",
+    "description": "Facing imminent impeachment and removal over the Watergate scandal, Richard Nixon becomes the first and only U.S. president to resign from office.",
+    "link": "",
+    "lat": 38.8951,
+    "lon": -77.0364
+  },
+  {
+    "id": "ev-1977-voyager-1-launch",
+    "title": "Launch of Voyager 1 Space Probe",
+    "date": "1977-09-05",
+    "description": "NASA launches Voyager 1 to study the outer solar system and interstellar space, eventually becoming the most distant human-made object in existence.",
+    "link": "",
+    "lat": 28.3922,
+    "lon": -80.6077
+  },
+  {
+    "id": "ev-1980-cnn-launches",
+    "title": "Launch of Cable News Network (CNN)",
+    "date": "1980-06-01",
+    "description": "Ted Turner launches CNN as the world's first 24-hour all-news television channel, permanently transforming global journalism and media consumption.",
+    "link": "",
+    "lat": 33.7490,
+    "lon": -84.3880
+  },
+  {
+    "id": "ev-1989-fall-of-berlin-wall",
+    "title": "Fall of the Berlin Wall",
+    "date": "1989-11-09",
+    "description": "Amid mass protests and changing political conditions, East German authorities open the Berlin Wall, allowing citizens to cross freely and triggering the reunification of Germany.",
+    "link": "",
+    "lat": 52.5163,
+    "lon": 13.3777
+  },
+  {
+    "id": "ev-1994-mandela-inauguration",
+    "title": "Nelson Mandela Inaugurated as President of South Africa",
+    "date": "1994-05-10",
+    "description": "Nelson Mandela is sworn in as South Africa's first black president following the country's first fully representative multiracial democratic election.",
+    "link": "",
+    "lat": -25.7479,
+    "lon": 28.2293
+  },
+  {
+    "id": "ev-1916-battle-of-the-somme",
+    "title": "Launch of the Battle of the Somme",
+    "date": "1916-07-01",
+    "description": "British and French forces launch a massive joint offensive against the German army along the Somme River in France, marking one of the bloodiest battles in human history.",
+    "link": "",
+    "lat": 50.0333,
+    "lon": 2.7167
+  },
+  {
+    "id": "ev-1918-armistice-ends-world-war-i",
+    "title": "Armistice with Germany Ends World War I",
+    "date": "1918-11-11",
+    "description": "An armistice is signed in a railway carriage in Compiègne, France, bringing an end to the fighting of World War I on the Western Front.",
+    "link": "",
+    "lat": 49.4179,
+    "lon": 2.8256
+  },
+  {
+    "id": "ev-1921-discovery-of-deep-time-radioactivity",
+    "title": "Establishment of Radiometric Dating",
+    "date": "1921-03-15",
+    "description": "Geologists and physicists meeting in Paris endorse radioactive decay methods for calculating the absolute age of rock strata and the Earth.",
+    "link": "",
+    "lat": 48.8566,
+    "lon": 2.3522
+  },
+  {
+    "id": "ev-1924-first-winter-olympics",
+    "title": "Opening of the First Winter Olympic Games",
+    "date": "1924-01-25",
+    "description": "The International Winter Sports Week, later retroactively recognized as the first Winter Olympic Games, opens in Chamonix, France.",
+    "link": "",
+    "lat": 45.9237,
+    "lon": 6.8694
+  },
+  {
+    "id": "ev-1926-goddard-liquid-fuel-rocket",
+    "title": "First Flight of a Liquid-Fuel Rocket",
+    "date": "1926-03-16",
+    "description": "American physicist Robert H. Goddard successfully launches the world's first liquid-propellant rocket in Auburn, Massachusetts, paving the way for modern rocketry and space exploration.",
+    "link": "",
+    "lat": 42.1951,
+    "lon": -71.8465
+  },
+  {
+    "id": "ev-1929-black-tuesday",
+    "title": "Black Tuesday Wall Street Stock Market Crash",
+    "date": "1929-10-29",
+    "description": "Stock prices on the New York Stock Exchange collapse completely during the Crash of 1929, precipitating the global economic downturn known as the Great Depression.",
+    "link": "",
+    "lat": 40.7074,
+    "lon": -74.0113
+  },
+  {
+    "id": "ev-1931-empire-state-building-opens",
+    "title": "Opening of the Empire State Building",
+    "date": "1931-05-01",
+    "description": "New York City's Empire State Building officially opens, standing as the tallest building in the world for nearly forty years and an icon of architectural ambition.",
+    "link": "",
+    "lat": 40.7484,
+    "lon": -73.9857
+  },
+  {
+    "id": "ev-1934-mao-zedong-long-march",
+    "title": "Commencement of the Chinese Long March",
+    "date": "1934-10-16",
+    "description": "The Chinese Red Army begins its legendary military retreat across rugged terrain to evade pursuit by Kuomintang forces, cementing Mao Zedong's leadership.",
+    "link": "",
+    "lat": 25.8167,
+    "lon": 114.9333
+  },
+  {
+    "id": "ev-1939-outbreak-of-world-war-ii",
+    "title": "Germany Invades Poland, Sparking World War II",
+    "date": "1939-09-01",
+    "description": "Nazi Germany launches a blitzkrieg invasion of Poland, prompting Great Britain and France to declare war and plunging the globe into total conflict.",
+    "link": "",
+    "lat": 52.2297,
+    "lon": 21.0122
+  },
+  {
+    "id": "ev-1943-surrender-at-stalingrad",
+    "title": "German Sixth Army Surrenders at Stalingrad",
+    "date": "1943-02-02",
+    "description": "The besieged German forces at Stalingrad surrender to the Red Army, marking a major psychological and strategic turning point of World War II in Europe.",
+    "link": "",
+    "lat": 48.7080,
+    "lon": 44.5133
+  },
+  {
+    "id": "ev-1946-eniac-computer-revealed",
+    "title": "Public Unveiling of the ENIAC Computer",
+    "date": "1946-02-15",
+    "description": "The Electronic Numerical Integrator and Computer (ENIAC)—the world's first general-purpose electronic digital computer—is formally unveiled at the University of Pennsylvania.",
+    "link": "",
+    "lat": 39.9522,
+    "lon": -75.1932
+  },
+  {
+    "id": "ev-1949-nato-founded",
+    "title": "Signing of the North Atlantic Treaty",
+    "date": "1949-04-04",
+    "description": "Twelve North American and European nations sign the North Atlantic Treaty in Washington, D.C., establishing NATO as a collective defense security alliance.",
+    "link": "",
+    "lat": 38.8951,
+    "lon": -77.0364
+  },
+  {
+    "id": "ev-1954-first-nuclear-power-plant",
+    "title": "Obninsk Nuclear Power Plant Starts Up",
+    "date": "1954-06-27",
+    "description": "The Soviet Union connects the world's first nuclear power station to the electrical grid at Obninsk, initiating the era of commercial atomic electricity generation.",
+    "link": "",
+    "lat": 55.0969,
+    "lon": 36.6106
+  },
+  {
+    "id": "ev-1958-nasa-established",
+    "title": "Establishment of NASA",
+    "date": "1958-10-01",
+    "description": "The National Aeronautics and Space Administration (NASA) officially begins operations in the United States, centralizing civilian aeronautics and space research.",
+    "link": "",
+    "lat": 38.8833,
+    "lon": -77.0167
+  },
+  {
+    "id": "ev-1964-civil-rights-act-1964",
+    "title": "Signing of the U.S. Civil Rights Act of 1964",
+    "date": "1964-07-02",
+    "description": "U.S. President Lyndon B. Johnson signs the landmark Civil Rights Act into law, legally ending segregation in public places and banning employment discrimination.",
+    "link": "",
+    "lat": 38.8951,
+    "lon": -77.0364
+  },
+  {
+    "id": "ev-1966-first-unmanned-lunar-landing",
+    "title": "Luna 9 Makes First Soft Landing on the Moon",
+    "date": "1966-02-03",
+    "description": "The Soviet space probe Luna 9 achieves the first controlled soft landing on the Moon, transmitting panoramic photographic data back to Earth from the lunar surface.",
+    "link": "",
+    "lat": 7.0800,
+    "lon": -64.3700
+  },
+  {
+    "id": "ev-1970-earth-day-founded",
+    "title": "Inauguration of the First Earth Day",
+    "date": "1970-04-22",
+    "description": "Millions of people participate in nationwide demonstrations across the United States for environmental protection, launching the modern global environmental movement.",
+    "link": "",
+    "lat": 40.7128,
+    "lon": -74.0060
+  },
+  {
+    "id": "ev-1975-microsoft-founded",
+    "title": "Founding of Microsoft",
+    "date": "1975-04-04",
+    "description": "Bill Gates and Paul Allen partnership is established in Albuquerque, New Mexico, laying the groundwork for the software giant that would dominate personal computing.",
+    "link": "",
+    "lat": 35.0844,
+    "lon": -106.6504
+  },
+  {
+    "id": "ev-1978-first-test-tube-baby",
+    "title": "Birth of the First IVF Baby",
+    "date": "1978-07-25",
+    "description": "Louise Brown, the world's first human baby conceived via in vitro fertilization, is born at Oldham General Hospital in Greater Manchester, England.",
+    "link": "",
+    "lat": 53.5409,
+    "lon": -2.1114
+  },
+  {
+    "id": "ev-1983-internet-tcp-ip-standard",
+    "title": "ARPANET Adopts TCP/IP Standard",
+    "date": "1983-01-01",
+    "description": "ARPANET officially transitions to use the TCP/IP protocol suite, unifying independent research networks and creating the technical foundation for the modern internet.",
+    "link": "",
+    "lat": 38.8951,
+    "lon": -77.0364
+  },
+  {
+    "id": "ev-1988-pan-am-103-bombing",
+    "title": "Bombing of Pan Am Flight 103 Over Lockerbie",
+    "date": "1988-12-21",
+    "description": "A terrorist bomb destroys Pan Am Flight 103 over Lockerbie, Scotland, killing all 259 people on board and 11 residents on the ground in one of aviation history's darkest incidents.",
+    "link": "",
+    "lat": 55.1182,
+    "lon": -3.3602
+  },
+  {
+    "id": "ev-1915-first-long-distance-phonecall",
+    "title": "First Transcontinental Telephone Call",
+    "date": "1915-01-25",
+    "description": "Alexander Graham Bell in New York and his former assistant Thomas Watson in San Francisco successfully complete the first transcontinental telephone call across the United States.",
+    "link": "",
+    "lat": 37.7749,
+    "lon": -122.4194
+  },
+  {
+    "id": "ev-1916-easter-rising",
+    "title": "The Easter Rising in Dublin",
+    "date": "1916-04-24",
+    "description": "Irish republicans launch an armed insurrection against British rule in Ireland, seizing key locations in Dublin and declaring an Irish Republic.",
+    "link": "",
+    "lat": 53.3498,
+    "lon": -6.2603
+  },
+  {
+    "id": "ev-1917-february-revolution-russia",
+    "title": "Outbreak of the February Revolution in Russia",
+    "date": "1917-03-08",
+    "description": "Mass protests and strikes erupt in Petrograd, leading to the abdication of Tsar Nicholas II and the collapse of the Russian Empire's autocracy.",
+    "link": "",
+    "lat": 59.9343,
+    "lon": 30.3351
+  },
+  {
+    "id": "ev-1919-florence-bristol-channel-swim",
+    "title": "First Flight Across the Atlantic Ocean",
+    "date": "1919-06-14",
+    "description": "British aviators John Alcock and Arthur Brown complete the first non-stop transatlantic flight, piloting a Vickers Vimy bomber from Newfoundland to Ireland.",
+    "link": "",
+    "lat": 47.5615,
+    "lon": -52.7126
+  },
+  {
+    "id": "ev-1920-league-of-nations-founded",
+    "title": "Official Launch of the League of Nations",
+    "date": "1920-01-10",
+    "description": "The Treaty of Versailles takes effect, officially establishing the League of Nations headquartered in Geneva with the aim of preventing future global conflicts.",
+    "link": "",
+    "lat": 46.2044,
+    "lon": 6.1432
+  },
+  {
+    "id": "ev-1921-first-miss-america-pageant",
+    "title": "Inaugural Miss America Pageant Held",
+    "date": "1921-09-07",
+    "description": "The first Miss America pageant is held in Atlantic City, New Jersey, as an event designed to extend the tourist season past Labor Day.",
+    "link": "",
+    "lat": 39.3643,
+    "lon": -74.4229
+  },
+  {
+    "id": "ev-1924-death-of-lenin",
+    "title": "Death of Vladimir Lenin",
+    "date": "1924-01-21",
+    "description": "Soviet leader Vladimir Lenin passes away, triggering a massive political power struggle between Joseph Stalin and Leon Trotsky for control of the Soviet Union.",
+    "link": "",
+    "lat": 55.7558,
+    "lon": 37.6173
+  },
+  {
+    "id": "ev-1925-scopes-monkey-trial",
+    "title": "The Scopes Trial Begins in Tennessee",
+    "date": "1925-07-10",
+    "description": "High school teacher John T. Scopes goes on trial for teaching human evolution in violation of Tennessee state law, capturing intense national media attention.",
+    "link": "",
+    "lat": 35.4854,
+    "lon": -84.9312
+  },
+  {
+    "id": "ev-1926-bailey-discovers-television",
+    "title": "First Demonstration of Mechanical Television",
+    "date": "1926-01-26",
+    "description": "John Logie Baird demonstrates a working television system to members of the Royal Institution in London, transmitting recognizable moving facial images.",
+    "link": "",
+    "lat": 51.5100,
+    "lon": -0.1360
+  },
+  {
+    "id": "ev-1927-the-jazz-singer-premiere",
+    "title": "Premiere of 'The Jazz Singer'",
+    "date": "1927-10-06",
+    "description": "Warner Bros. releases *The Jazz Singer*, the first feature-length motion picture with synchronized dialogue and singing sequences, effectively ending the silent film era.",
+    "link": "",
+    "lat": 40.7589,
+    "lon": -73.9851
+  },
+  {
+    "id": "ev-1929-saint-valentines-day-massacre",
+    "title": "The Saint Valentine's Day Massacre",
+    "date": "1929-02-14",
+    "description": "Seven members of Chicago's North Side gang are murdered by rival gunmen associated with Al Capone, highlighting the ruthless violence of Prohibition-era organized crime.",
+    "link": "",
+    "lat": 41.8973,
+    "lon": -87.6394
+  },
+  {
+    "id": "ev-1930-discovery-of-pluto",
+    "title": "Clyde Tombaugh Discovers Pluto",
+    "date": "1930-02-18",
+    "description": "American astronomer Clyde Tombaugh discovers Pluto at the Lowell Observatory in Flagstaff, Arizona, identifying a new distant body at the edge of the solar system.",
+    "link": "",
+    "lat": 35.2013,
+    "lon": -111.6570
+  },
+  {
+    "id": "ev-1931-sydney-harbour-bridge-arch",
+    "title": "Sydney Harbour Bridge Arch Closure",
+    "date": "1931-08-19",
+    "description": "Construction crews successfully join the two halves of the Sydney Harbour Bridge steel arch, marking a massive engineering milestone for Australia.",
+    "link": "",
+    "lat": -33.8523,
+    "lon": 151.2108
+  },
+  {
+    "id": "ev-1932-amelia-earhart-solo-atlantic",
+    "title": "Amelia Earhart Completes Solo Atlantic Flight",
+    "date": "1932-05-21",
+    "description": "Amelia Earhart lands in a pasture in Northern Ireland after flying solo across the Atlantic Ocean, becoming the first woman to achieve the feat.",
+    "link": "",
+    "lat": 54.9996,
+    "lon": -7.3090
+  },
+  {
+    "id": "ev-1933-prohibition-repealed",
+    "title": "Ratification of the Twenty-First Amendment Repeals Prohibition",
+    "date": "1933-12-05",
+    "description": "Utah becomes the 36th state to ratify the Twenty-First Amendment, officially bringing an end to nationwide constitutional alcohol prohibition in the United States.",
+    "link": "",
+    "lat": 40.7608,
+    "lon": -111.8910
+  },
+  {
+    "id": "ev-1934-bonnie-and-clyde-killed",
+    "title": "Bonnie and Clyde Ambushed and Killed",
+    "date": "1934-05-23",
+    "description": "Infamous American outlaws Bonnie Parker and Clyde Barrow are shot and killed by law enforcement officers in a targeted ambush along a Louisiana highway.",
+    "link": "",
+    "lat": 32.5288,
+    "lon": -93.0763
+  },
+  {
+    "id": "ev-1935-first-commercial-transpacific-flight",
+    "title": "First Transpacific Air Mail Flight",
+    "date": "1935-11-22",
+    "description": "Pan American Airways launches the first transpacific commercial flight using a Martin M-130 'China Clipper' flying boat from California to the Philippines.",
+    "link": "",
+    "lat": 37.6188,
+    "lon": -122.3750
+  },
+  {
+    "id": "ev-1936-spanish-civil-war-begins",
+    "title": "Outbreak of the Spanish Civil War",
+    "date": "1936-07-17",
+    "description": "A coalition of nationalist military officers led by Francisco Franco launches a revolt against the democratically elected Second Spanish Republic.",
+    "link": "",
+    "lat": 35.8880,
+    "lon": -5.3162
+  },
+  {
+    "id": "ev-1937-amelia-earhart-disappears",
+    "title": "Amelia Earhart Disappears Over the Pacific",
+    "date": "1937-07-02",
+    "description": "Aviator Amelia Earhart and navigator Fred Noonan disappear over the central Pacific Ocean near Howland Island during an ambitious round-the-world flight attempt.",
+    "link": "",
+    "lat": 0.8111,
+    "lon": -176.6186
+  },
+  {
+    "id": "ev-1938-first-ballpoint-pen-patented",
+    "title": "Laszlo Biro Patents the Ballpoint Pen",
+    "date": "1938-06-15",
+    "description": "Hungarian inventor Laszlo Biro files a British patent for his innovative ballpoint pen design, revolutionizing everyday writing instruments.",
+    "link": "",
+    "lat": 47.4979,
+    "lon": 19.0402
+  },
+  {
+    "id": "ev-1939-first-commercial-flight-across-atlantic",
+    "title": "Pan Am Inaugurates Transatlantic Passenger Service",
+    "date": "1939-06-28",
+    "description": "Pan American Airways launches regular scheduled passenger service across the Atlantic Ocean using Boeing 314 'Yankee Clipper' flying boats.",
+    "link": "",
+    "lat": 37.7749,
+    "lon": -122.4194
+  },
+  {
+    "id": "ev-1940-first-mcdonalds-opened",
+    "title": "First McDonald's Restaurant Opened",
+    "date": "1940-05-15",
+    "description": "Richard and Maurice McDonald open their first barbecue restaurant in San Bernardino, California, later transforming it into the pioneering fast-food hamburger drive-in.",
+    "link": "",
+    "lat": 34.1083,
+    "lon": -117.2898
+  },
+  {
+    "id": "ev-1941-pearl-harbor",
+    "title": "Attack on Pearl Harbor",
+    "date": "1941-12-07",
+    "description": "Imperial Japanese forces launch a surprise military strike on the U.S. naval base at Pearl Harbor, Hawaii, precipitating the United States' entry into World War II.",
+    "link": "",
+    "lat": 21.3469,
+    "lon": -157.9403
+  },
+  {
+    "id": "ev-1944-d-day-landings",
+    "title": "Allied D-Day Landings in Normandy",
+    "date": "1944-06-06",
+    "description": "Western Allied forces launch Operation Overlord, executing the largest amphibious invasion in history across the beaches of Normandy, France.",
+    "link": "",
+    "lat": 49.3400,
+    "lon": -0.4700
+  },
+  {
+    "id": "ev-1945-ve-day",
+    "title": "Victory in Europe Day (V-E Day)",
+    "date": "1945-05-08",
+    "description": "Allied nations formally celebrate the unconditional surrender of Nazi Germany's armed forces, marking the end of World War II hostilities in Europe.",
+    "link": "",
+    "lat": 51.5074,
+    "lon": -0.1278
+  },
+  {
+    "id": "ev-1945-hiroshima-bombing",
+    "title": "Atomic Bombing of Hiroshima",
+    "date": "1945-08-06",
+    "description": "The United States Army Air Forces drop an atomic bomb named 'Little Boy' on the Japanese city of Hiroshima, fundamentally changing warfare and international politics.",
+    "link": "",
+    "lat": 34.3853,
+    "lon": 132.4553
+  },
+  {
+    "id": "ev-1947-sound-barrier-broken",
+    "title": "Chuck Yeager Breaks the Sound Barrier",
+    "date": "1947-10-14",
+    "description": "American pilot Chuck Yeager pilots the Bell X-1 rocket-powered aircraft faster than the speed of sound for the first time in history over the Mojave Desert.",
+    "link": "",
+    "lat": 35.0844,
+    "lon": -115.7924
+  },
+  {
+    "id": "ev-1949-peoples-republic-of-china",
+    "title": "Proclamation of the People's Republic of China",
+    "date": "1949-10-01",
+    "description": "Mao Zedong formally proclaims the establishment of the People's Republic of China in Beijing, concluding decades of civil war and sweeping revolutionary change.",
+    "link": "",
+    "lat": 39.9042,
+    "lon": 116.4074
+  },
+  {
+    "id": "ev-1953-dna-structure-discovered",
+    "title": "Watson and Crick Publish DNA Double Helix Structure",
+    "date": "1953-04-25",
+    "description": "James Watson and Francis Crick publish their landmark paper describing the double helix structure of DNA in Nature, revolutionizing molecular biology and genetics.",
+    "link": "",
+    "lat": 52.2053,
+    "lon": 0.1218
+  },
+  {
+    "id": "ev-1955-warsaw-pact-signed",
+    "title": "Establishment of the Warsaw Pact",
+    "date": "1955-05-14",
+    "description": "Eight Eastern Bloc communist states sign the Warsaw Pact in Poland, establishing a formal mutual defense alliance to counter NATO during the Cold War.",
+    "link": "",
+    "lat": 52.2297,
+    "lon": 21.0122
+  },
+  {
+    "id": "ev-1957-sputnik-1-launched",
+    "title": "Launch of Sputnik 1",
+    "date": "1957-10-04",
+    "description": "The Soviet Union successfully launches Sputnik 1, the world's first artificial satellite, shocking the West and initiating the intense Space Race.",
+    "link": "",
+    "lat": 45.9650,
+    "lon": 63.3050
+  },
+  {
+    "id": "ev-1961-yuri-gagarin-spaceflight",
+    "title": "Yuri Gagarin Becomes First Human in Space",
+    "date": "1961-04-12",
+    "description": "Soviet cosmonaut Yuri Gagarin orbits the Earth aboard the Vostok 1 spacecraft, marking a historic milestone as humanity's first venture into orbital space.",
+    "link": "",
+    "lat": 45.9650,
+    "lon": 63.3050
+  },
+  {
+    "id": "ev-1963-assassination-of-jfk",
+    "title": "Assassination of U.S. President John F. Kennedy",
+    "date": "1963-11-22",
+    "description": "President John F. Kennedy is fatally shot while riding in an open-top presidential motorcade through Dealey Plaza in Dallas, Texas.",
+    "link": "",
+    "lat": 32.7787,
+    "lon": -96.8089
+  },
+  {
+    "id": "ev-1967-first-human-heart-transplant",
+    "title": "First Successful Human Heart Transplant",
+    "date": "1967-12-03",
+    "description": "South African cardiac surgeon Christiaan Barnard performs the world's first successful human-to-human heart transplant procedure at Groote Schuur Hospital in Cape Town.",
+    "link": "",
+    "lat": -33.9413,
+    "lon": 18.4618
+  },
+  {
+    "id": "ev-1969-woodstock-festival",
+    "title": "Opening of the Woodstock Music & Art Fair",
+    "date": "1969-08-15",
+    "description": "The iconic countercultural music festival begins on a dairy farm in Bethel, New York, drawing nearly half a million attendees and defining an era.",
+    "link": "",
+    "lat": 41.7003,
+    "lon": -74.8828
+  },
+  {
+    "id": "ev-1970-apollo-13-safe-return",
+    "title": "Safe Return of Apollo 13 Crew",
+    "date": "1970-04-17",
+    "description": "The crippled Apollo 13 spacecraft successfully splashes down in the Pacific Ocean after an oxygen tank explosion aborted humanity's third lunar landing attempt.",
+    "link": "",
+    "lat": -21.6333,
+    "lon": -165.3667
+  },
+  {
+    "id": "ev-1975-fall-of-saigon",
+    "title": "Fall of Saigon and End of Vietnam War",
+    "date": "1975-04-30",
+    "description": "North Vietnamese forces capture Saigon, prompting the chaotic evacuation of remaining U.S. personnel and officially bringing an end to the Vietnam War.",
+    "link": "",
+    "lat": 10.7769,
+    "lon": 106.7009
+  },
+  {
+    "id": "ev-1976-apple-computer-founded",
+    "title": "Incorporation of Apple Computer",
+    "date": "1976-04-01",
+    "description": "Steve Jobs, Steve Wozniak, and Ronald Wayne incorporate Apple Computer in California, setting out to revolutionize personal computing.",
+    "link": "",
+    "lat": 37.3230,
+    "lon": -122.0322
+  },
+  {
+    "id": "ev-1980-john-lennon-killed",
+    "title": "Assassination of John Lennon",
+    "date": "1980-12-08",
+    "description": "Former Beatles member John Lennon is shot and killed outside his Manhattan apartment building, sending shockwaves through the global music community.",
+    "link": "",
+    "lat": 40.7789,
+    "lon": -73.9768
+  },
+  {
+    "id": "ev-1986-chernobyl-disaster",
+    "title": "The Chernobyl Nuclear Disaster",
+    "date": "1986-04-26",
+    "description": "A catastrophic reactor explosion at the Chernobyl nuclear power plant in Soviet Ukraine releases massive clouds of radioactive fallout across Europe.",
+    "link": "",
+    "lat": 51.3894,
+    "lon": 30.0994
+  },
+  {
+    "id": "ev-1991-dissolution-of-soviet-union",
+    "title": "Formal Dissolution of the Soviet Union",
+    "date": "1991-12-26",
+    "description": "The Supreme Soviet votes to formally dissolve the Soviet Union, ending the Cold War and establishing independent post-Soviet nation states.",
+    "link": "",
+    "lat": 55.7558,
+    "lon": 37.6173
+  },
+  {
+    "id": "ev-1997-handover-of-hong-kong",
+    "title": "Transfer of Sovereignty over Hong Kong",
+    "date": "1997-07-01",
+    "description": "The United Kingdom formally transfers sovereignty over Hong Kong to the People's Republic of China, ending 156 years of British colonial rule.",
+    "link": "",
+    "lat": 22.2855,
+    "lon": 114.1577
+  },
+  {
+    "id": "ev-2001-september-11-attacks",
+    "title": "The September 11 Terrorist Attacks",
+    "date": "2001-09-11",
+    "description": "Al-Qaeda terrorists hijack four commercial airplanes, executing coordinated suicide attacks against the World Trade Center and the Pentagon.",
+    "link": "",
+    "lat": 40.7128,
+    "lon": -74.0060
+  },
+  {
+    "id": "ev-2004-facebook-launched",
+    "title": "Launch of The Facebook",
+    "date": "2004-02-04",
+    "description": "Mark Zuckerberg and Harvard roommates launch 'The Facebook' from a campus dorm room, sparking the global explosion of modern social media networks.",
+    "link": "",
+    "lat": 42.3770,
+    "lon": -71.1167
+  },
+  {
+    "id": "ev-2007-first-iphone-released",
+    "title": "Release of the Original iPhone",
+    "date": "2007-06-29",
+    "description": "Apple releases the first-generation iPhone in the United States, revolutionizing mobile communications, computing, and consumer electronics.",
+    "link": "",
+    "lat": 37.7749,
+    "lon": -122.4194
+  },
+  {
+    "id": "ev-2012-higgs-boson-discovered",
+    "title": "Discovery of the Higgs Boson Announced",
+    "date": "2012-07-04",
+    "description": "CERN physicists announce the experimental discovery of the Higgs boson particle using the Large Hadron Collider, validating a crucial pillar of the Standard Model.",
+    "link": "",
+    "lat": 46.2330,
+    "lon": 6.0557
+  },
+  {
+  "id": "ev-2026-artemis-ii-lunar-flyby",
+  "title": "Artemis II Crewed Lunar Flyby",
+  "date": "2026-04-01",
+  "description": "NASA successfully launches Artemis II from Kennedy Space Center, sending a four-person crew on a historic lunar flyby and returning humanity to the deep vicinity of the Moon for the first time in over five decades.",
+  "link": "",
+  "lat": 28.5721,
+  "lon": -80.6480
+}
+]
